@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "nombre": "Filtros Gizeh Slim ",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-Gizeh-Slim-2.jpg",
+        "descr": "Filtros slim (6mm). La bolsita trae 120 filtros. La caja trae 20 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Filtros Libella Extra Slim ",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-Libella-Extra-Slim.jpg",
+        "descr": "Filtros extra slim.5.3mm x 15mm. Bolsa con cierre hermético. La bolsa contiene 200 filtros. La caja trae 26 bolsitas",
+        "cantidad": 1,
+        "xmayor": 26
+    },
+    {
+        "id": 3,
+        "nombre": "Filtros Libella Regulares",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-Libella-Regulares.jpg",
+        "descr": "Filtros slim (8mm). La bolsita trae 200 filtros. La caja trae 15 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 15
+    },
+    {
+        "id": 4,
+        "nombre": "Filtros Libella Slim Mint",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-Libella-slim-mint.jpg",
+        "descr": "Filtros slim mentolados. La bolsita trae 200 filtros. La caja trae 20 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 20
+    },
+    {
+        "id": 5,
+        "nombre": "Filtros Libella Organicos",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-Libella-Slim-Orgánicos.jpg",
+        "descr": "Filtros slim (6mm). Orgánicos. La bolsita trae 200 filtros. La caja trae 20 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 20
+    },
+    {
+        "id": 6,
+        "nombre": "Filtros Libella Slim",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-Libella-Slim.png",
+        "descr": "Filtros slim (6mm). La bolsita trae 200 filtros. La caja trae 20 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 20
+    },
+    {
+        "id": 7,
+        "nombre": "Filtros OCB Carton No Blanqueado",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-OCB-Carton-No-Blanqueado.png",
+        "descr": "Filtros de carton. No blanqueado. Cada librito trae 50 filtro. La caja trae 25 libritos",
+        "cantidad": 1,
+        "xmayor": 25
+    },
+    {
+        "id": 8,
+        "nombre": "Filtros OCB Carton Regular",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-OCB-Carton-Regular.jpg",
+        "descr": "Filtros de carton . Cada librito trae 50 filtros. La caja trae 25 libritos",
+        "cantidad": 1,
+        "xmayor": 25
+    },
+    {
+        "id": 9,
+        "nombre": "Filtros OCB Extra Slim",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-OCB-Extra-Slim.jpg",
+        "descr": "Filtros extra slim (5mm). La bolsita trae 150 filtros. La caja trae 10 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 10
+    },
+    {
+        "id": 10,
+        "nombre": "Filtros OCB Regulares",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/Filtros-OCB-Regulares.png",
+        "descr": "Filtros regulares (8mm). La bolsita trae 100 filtros. La caja trae 30 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 30
+    },
+    {
+        "id": 11,
+        "nombre": "Filtros OCB Slim Eco",
+        "precio": 100,
+        "preciomayor": 1250,
+        "img": "../resources/ocb-filtros-slim-eco.jpg",
+        "descr": "Filtros slim (6mm). Orgánicos. La bolsita trae 120 filtros. La caja trae 10 bolsitas. Bolsitas con cierre hermético",
+        "cantidad": 1,
+        "xmayor": 10
+    }
+]
