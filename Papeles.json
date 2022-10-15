@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Papel de Celulosa Sativa Club Tradicional",
+        "precio": 250,
+        "preciomayor": 1250,
+        "img": "../resources/Papel-Celulosa-Sativa-Club-tradicional.png",
+        "descr": "Papel transparente de celulosa. El sobre trae 40 papeles. La caja trae  22 sobres.",
+        "cantidad": 1,
+        "xmayor": 22
+    },
+    {
+        "id": 2,
+        "nombre": "Papel OCB Blanco",
+        "precio": 220,
+        "preciomayor": 1250,
+        "img": "../resources/Papel-OCB-Blanco.png",
+        "descr": "Papel 1¼ - 77mm x 44mm. Combustión media, 50 papeles por librito. El display trae 25 libritos.",
+        "cantidad": 1,
+        "xmayor": 25
+    },
+    {
+        "id": 3,
+        "nombre": "Papel OCB Organico",
+        "precio": 292,
+        "preciomayor": 1250,
+        "img": "../resources/Papel-OCB-organico.png",
+        "descr": "Papel 77mm x 44mm. No blanqueado - orgánico. Combustión lenta. 50 papeles por librito. El display trae 25 libritos",
+        "cantidad": 1,
+        "xmayor": 25
+    },
+    {
+        "id": 4,
+        "nombre": "Papel OCB Premium Negro",
+        "precio": 250,
+        "preciomayor": 1250,
+        "img": "../resources/Papel-OCB-Premium-Negro.jpg",
+        "descr": "OCB Negro Clásico. Papel 1¼  - 77mm x 44mm. Combustión lenta. 50 papeles por librito . El display trae 25 libritos",
+        "cantidad": 1,
+        "xmayor": 25
+    },
+    {
+        "id": 5,
+        "nombre": "Papel OCB Ultimate",
+        "precio": 275,
+        "preciomayor": 1250,
+        "img": "../resources/Papel-OCB-ultimate_1.png",
+        "descr": "Papel 1¼  - 77mm x 44mm. Combustión lenta. 50 papeles por librito . El display trae 25 libritos.",
+        "cantidad": 1,
+        "xmayor": 25
+    }
+]
