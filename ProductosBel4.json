@@ -1,0 +1,14 @@
+[
+    {
+        "id": "E1",
+        "nombre": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Rosado Dulce",
+        "precio": 1500,
+        "img": "../resources/Richardi Fazio.jpg"
+    },
+    {
+        "id": "E2",
+        "nombre": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Extra Dulce",
+        "precio": 1500,
+        "img": "../resources/Richardi Fazio2.jpg"
+    }
+]
