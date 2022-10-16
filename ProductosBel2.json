@@ -1,0 +1,14 @@
+[
+    {
+        "id": "B1",
+        "nombre": "Don Bosco Otro Loco Más Ice",
+        "precio": 1500,
+        "img": "../resources/Don Bosco Otro Loco Más Ice.jpg"
+    },
+    {
+        "id": "B2",
+        "nombre": "Jorge Rubio Finca Gabriel Jóvenes Cosecha Tardía",
+        "precio": 1500,
+        "img": "../resources/Jorge Rubio2.jpg"
+    }
+]
