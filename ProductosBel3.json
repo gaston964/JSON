@@ -1,0 +1,14 @@
+[
+    {
+        "id": "R1",
+        "nombre": "Jorge Rubio- Finca Gabriel Jóvenes Rosé Syrah",
+        "precio": 1500,
+        "img": "../resources/Jorge Rubio.jpeg"
+    },
+    {
+        "id": "R2",
+        "nombre": "Atilio Avena Shiraz Rose",
+        "precio": 1500,
+        "img": "../resources/Atilio Avena.jpg"
+    }
+]
