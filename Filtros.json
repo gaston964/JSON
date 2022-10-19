@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "F1",
         "nombre": "Filtros Gizeh Slim ",
         "precio": 100,
         "preciomayor": 1250,
@@ -10,7 +10,7 @@
         "xmayor": 20
     },
     {
-        "id": 2,
+        "id": "F2",
         "nombre": "Filtros Libella Extra Slim ",
         "precio": 100,
         "preciomayor": 1250,
@@ -20,7 +20,7 @@
         "xmayor": 26
     },
     {
-        "id": 3,
+        "id": "F3",
         "nombre": "Filtros Libella Regulares",
         "precio": 100,
         "preciomayor": 1250,
@@ -30,7 +30,7 @@
         "xmayor": 15
     },
     {
-        "id": 4,
+        "id": "F4",
         "nombre": "Filtros Libella Slim Mint",
         "precio": 100,
         "preciomayor": 1250,
@@ -40,7 +40,7 @@
         "xmayor": 20
     },
     {
-        "id": 5,
+        "id": "F5",
         "nombre": "Filtros Libella Organicos",
         "precio": 100,
         "preciomayor": 1250,
@@ -50,7 +50,7 @@
         "xmayor": 20
     },
     {
-        "id": 6,
+        "id": "F6",
         "nombre": "Filtros Libella Slim",
         "precio": 100,
         "preciomayor": 1250,
@@ -60,7 +60,7 @@
         "xmayor": 20
     },
     {
-        "id": 7,
+        "id": "F7",
         "nombre": "Filtros OCB Carton No Blanqueado",
         "precio": 100,
         "preciomayor": 1250,
@@ -70,7 +70,7 @@
         "xmayor": 25
     },
     {
-        "id": 8,
+        "id": "F8",
         "nombre": "Filtros OCB Carton Regular",
         "precio": 100,
         "preciomayor": 1250,
@@ -80,7 +80,7 @@
         "xmayor": 25
     },
     {
-        "id": 9,
+        "id": "F9",
         "nombre": "Filtros OCB Extra Slim",
         "precio": 100,
         "preciomayor": 1250,
@@ -90,7 +90,7 @@
         "xmayor": 10
     },
     {
-        "id": 10,
+        "id": "F10",
         "nombre": "Filtros OCB Regulares",
         "precio": 100,
         "preciomayor": 1250,
@@ -100,7 +100,7 @@
         "xmayor": 30
     },
     {
-        "id": 11,
+        "id": "F11",
         "nombre": "Filtros OCB Slim Eco",
         "precio": 100,
         "preciomayor": 1250,
