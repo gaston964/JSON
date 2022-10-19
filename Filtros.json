@@ -1,7 +1,6 @@
 [
     {
         "id": 1,
-        "data-id": "F1",
         "nombre": "Filtros Gizeh Slim ",
         "precio": 100,
         "preciomayor": 1250,
@@ -12,7 +11,6 @@
     },
     {
         "id": 2,
-        "data-id": "F2",
         "nombre": "Filtros Libella Extra Slim ",
         "precio": 100,
         "preciomayor": 1250,
@@ -23,7 +21,6 @@
     },
     {
         "id": 3,
-        "data-id": "F3",
         "nombre": "Filtros Libella Regulares",
         "precio": 100,
         "preciomayor": 1250,
@@ -34,7 +31,6 @@
     },
     {
         "id": 4,
-        "data-id": "F4",
         "nombre": "Filtros Libella Slim Mint",
         "precio": 100,
         "preciomayor": 1250,
@@ -45,7 +41,6 @@
     },
     {
         "id": 5,
-        "data-id": "F5",
         "nombre": "Filtros Libella Organicos",
         "precio": 100,
         "preciomayor": 1250,
@@ -56,7 +51,6 @@
     },
     {
         "id": 6,
-        "data-id": "F6",
         "nombre": "Filtros Libella Slim",
         "precio": 100,
         "preciomayor": 1250,
@@ -67,7 +61,6 @@
     },
     {
         "id": 7,
-        "data-id": "F7",
         "nombre": "Filtros OCB Carton No Blanqueado",
         "precio": 100,
         "preciomayor": 1250,
@@ -78,7 +71,6 @@
     },
     {
         "id": 8,
-        "data-id": "F8",
         "nombre": "Filtros OCB Carton Regular",
         "precio": 100,
         "preciomayor": 1250,
@@ -89,7 +81,6 @@
     },
     {
         "id": 9,
-        "data-id": "F9",
         "nombre": "Filtros OCB Extra Slim",
         "precio": 100,
         "preciomayor": 1250,
@@ -100,7 +91,6 @@
     },
     {
         "id": 10,
-        "data-id": "F10",
         "nombre": "Filtros OCB Regulares",
         "precio": 100,
         "preciomayor": 1250,
@@ -111,7 +101,6 @@
     },
     {
         "id": 11,
-        "data-id": "F11",
         "nombre": "Filtros OCB Slim Eco",
         "precio": 100,
         "preciomayor": 1250,
