@@ -1,98 +1,98 @@
 [
     {
         "id": 1,
-        "data-id": "T1",
+        "dataid": "T1",
         "nombre": "Tabaco Achalay Menta",
         "precio": 150,
         "img": "../resources/tabaco-achalay-menta.jpg"
     },
     {
         "id": 2,
-        "data-id": "T2",
+        "dataid": "T2",
         "nombre": "Tabaco Achalay Vainilla",
         "precio": 150,
         "img": "../resources/tabaco-achalay-vainilla.jpg"
     },
     {
         "id": 3,
-        "data-id": "T3",
+        "dataid": "T3",
         "nombre": "Tabaco Achalay",
         "precio": 150,
         "img": "../resources/tabaco-achalay.jpg"
     },
     {
         "id": 4,
-        "data-id": "T4",
+        "dataid": "T4",
         "nombre": "Tabaco Cerrito Chocolate",
         "precio": 150,
         "img": "../resources/tabaco-cerrito-chocolate.jpg"
     },
     {
         "id": 5,
-        "data-id": "T5",
+        "dataid": "T5",
         "nombre": "Tabaco Cerrito Vainilla",
         "precio": 150,
         "img": "../resources/tabaco-cerrito-vainilla.jpg"
     },
     {
         "id": 6,
-        "data-id": "T6",
+        "dataid": "T6",
         "nombre": "Tabaco Cerrito",
         "precio": 150,
         "img": "../resources/tabaco-cerrito.jpg"
     },
     {
         "id": 7,
-        "data-id": "T7",
+        "dataid": "T7",
         "nombre": "Tabaco Cuatro Leguas",
         "precio": 150,
         "img": "../resources/tabaco-cuatro-leguas-50gr.jpg"
     },
     {
         "id": 8,
-        "data-id": "T8",
+        "dataid": "T8",
         "nombre": "Tabaco Don Jose",
         "precio": 150,
         "img": "../resources/tabaco-don-jose.jpg"
     },
     {
         "id": 9,
-        "data-id": "T9",
+        "dataid": "T9",
         "nombre": "Tabaco Las Hojas Natural",
         "precio": 150,
         "img": "../resources/tabaco-las-hojas-natural.jpg"
     },
     {
         "id": 10,
-        "data-id": "T10",
+        "dataid": "T10",
         "nombre": "Tabaco Las Hojas",
         "precio": 150,
         "img": "../resources/tabaco-las-hojas.jpg"
     },
     {
         "id": 11,
-        "data-id": "T11",
+        "dataid": "T11",
         "nombre": "Tabaco Red Field Natural",
         "precio": 150,
         "img": "../resources/tabaco-red-field-natural.jpg"
     },
     {
         "id": 12,
-        "data-id": "T12",
+        "dataid": "T12",
         "nombre": "Tabaco Red Field Vainilla",
         "precio": 150,
         "img": "../resources/tabaco-red-field-vainilla.jpg"
     },
     {
         "id": 13,
-        "data-id": "T13",
+        "dataid": "T13",
         "nombre": "Tabaco Saints Natural",
         "precio": 150,
         "img": "../resources/tabaco-saints-natural-30gr.jpg"
     },
     {
         "id": 14,
-        "data-id": "T14",
+        "dataid": "T14",
         "nombre": "Tabaco Saints Virginia",
         "precio": 150,
         "img": "../resources/tabaco-saints-virginia-50gr.jpg"
