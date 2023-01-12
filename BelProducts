@@ -169,7 +169,7 @@
     },
     {
         "id": "P1",
-        "nombre": "Promo N°1",
+        "nombre": "PROMO N°1",
         "descripcion": "INCLUYE : 1 CAJA Bodega Los Toneles Abrasado. Malbec1 CAJA Bodega Atilio Avena Línea Atilio Malbec. 1 CAJA Bodega Richardi Fazio Menegazzo Rime Varietal Malbec. 1 CAJA Bodega Don Bosco Otro Loco Más Malbec. CAJA REGALO : Vasco Viejo Edición Vintage Malbec",
         "precio": 28000,
         "img": "/images/promo.jpg",
@@ -177,7 +177,7 @@
     },
     {
         "id": "P2",
-        "nombre": "Promo N°2",
+        "nombre": "PROMO N°2",
         "descripcion": "INCLUYE : 1 CAJA Bodega Los Toneles Abrasado Malbec1 CAJA Bodega Atilio Avena Línea Atilio Malbec1 CAJA Bodega Richardi Fazio Menegazzo Rime Varietal Malbec 1 CAJA Bodega Don Bosco Otro Loco Más Malbec. 1 CAJA Vasco Viejo Edición Vintage Malbec",
         "precio": 34500,
         "img": "/images/promo2.jpg",
@@ -185,7 +185,7 @@
     },
     {
         "id": "P3",
-        "nombre": "Promo N°3",
+        "nombre": "PROMO N°3",
         "descripcion": "INCLUYE : 1 CAJA Bodega Don Bosco Reserva Malbec. 1 CAJA Bodegas López. 1 CAJA Bodega RichardiFazio Menegazzo Rime Varietal. 1 CAJA ESPUMANTE Bodega Richardi Fazio Menegazzo Línea Moulin Bleu Extra Brut, Dulce o Rosado. Caja de regalo: Vasco Viejo Edición Vintage Malbec. ",
         "precio": 28000,
         "img": "/images/bodega3.jpg",
