@@ -4,7 +4,7 @@
         "nombre": "Atilio Avena",
         "descripcion": "Atilio Avena Línea Franco caja por 4 unidades",
         "precio": 10400,
-        "img": "/images/Atilio Avena.jpg",
+        "img": "/images/franco.png",
         "category": "Tintos"
     },
     {
@@ -169,7 +169,7 @@
     },
     {
         "id": "P1",
-        "nombre": "Promo N°4",
+        "nombre": "Promo N°1 3 CAJAS",
         "descripcion": "INCLUYE : 1 CAJA Bodegas López Vasco Viejo Edición Vintage Malbec. 1 CAJA Bodega Don Bosco Reserva Malbec. 1 CAJA Bodega Don Bosco Donde Manda Capitán Malbec",
         "precio": 19000,
         "img": "/images/bodega2.jpg",
@@ -177,7 +177,7 @@
     },
     {
         "id": "P2",
-        "nombre": "Promo N°1",
+        "nombre": "Promo N°2",
         "descripcion": "INCLUYE : 1 CAJA Bodega Los Toneles Abrasado. Malbec1 CAJA Bodega Atilio Avena Línea Atilio Malbec. 1 CAJA Bodega Richardi Fazio Menegazzo Rime Varietal Malbec. 1 CAJA Bodega Don Bosco Otro Loco Más Malbec. CAJA REGALO : Vasco Viejo Edición Vintage Malbec",
         "precio": 28000,
         "img": "/images/promo.jpg",
@@ -193,7 +193,7 @@
     },
     {
         "id": "P4",
-        "nombre": "Promo N°2",
+        "nombre": "Promo N°4",
         "descripcion": "INCLUYE : 1 CAJA Bodega Los Toneles Abrasado Malbec1 CAJA Bodega Atilio Avena Línea Atilio Malbec1 CAJA Bodega Richardi Fazio Menegazzo Rime Varietal Malbec 1 CAJA Bodega Don Bosco Otro Loco Más Malbec. CAJA REGALO : Vasco Viejo Edición Vintage Malbec",
         "precio": 34500,
         "img": "/images/promo2.jpg",
