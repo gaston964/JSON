@@ -48,6 +48,14 @@
         "category": "Tintos"
     },
     {
+        "id": "T7",
+        "nombre": "Donde Manda Capitán Malbec",
+        "descripcion": "Bodega Don Bosco. Donde Manda Capitán Malbec. Caja x 6 unidades",
+        "precio": 3200,
+        "img": "https://drive.google.com/uc?export=view&id=1BNv4m-Wez4oTpbM0lKlTWZxbbXmhvnA9",
+        "category": "Tintos"
+    },
+    {
         "id": "T8",
         "nombre": "Don Bosco",
         "descripcion": "Don Bosco Reserva Malbec. Caja por 6 unidades",
