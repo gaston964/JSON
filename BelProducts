@@ -66,17 +66,17 @@
     {
         "id": "T10",
         "nombre": "Melipal Malbec",
-        "descripcion": "https://drive.google.com/uc?export=view&id=1FMqJ_n4y8T8B2TmAno8g-60DBPvMe_c3",
+        "descripcion": "Melipal Malbec. Caja por 6 unidades",
         "precio": 6500,
-        "img": "/images/Melipal Malbec.jpeg",
+        "img": "https://drive.google.com/uc?export=view&id=1FMqJ_n4y8T8B2TmAno8g-60DBPvMe_c3",
         "category": "Tintos"
     },
     {
         "id": "T11",
         "nombre": "Mosquita Muerta Wines",
-        "descripcion": "https://drive.google.com/uc?export=view&id=11yNQVxVMU9Thb5UJjbgPQghz8bDTQHvA",
+        "descripcion": "Mosquita Muerta Wines. Caja por 6 unidades",
         "precio": 6050,
-        "img": "/images/Mosquita Muerta.jpg",
+        "img": "https://drive.google.com/uc?export=view&id=11yNQVxVMU9Thb5UJjbgPQghz8bDTQHvA",
         "category": "Tintos"
     },
     {
