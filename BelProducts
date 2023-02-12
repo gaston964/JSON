@@ -196,7 +196,7 @@
         "nombre": "Promo N°1",
         "descripcion": "INCLUYE : 1 CAJA Bodegas López Vasco Viejo Edición Vintage Malbec. 1 CAJA Bodega Don Bosco Reserva Malbec. 1 CAJA Bodega Don Bosco Donde Manda Capitán Malbec",
         "precio": 21000,
-        "img": "/images/bodega2.jpg",
+        "img": "https://drive.google.com/file/d/1_m3LSmuLVI8evzGZcg1-9QxqdZlGj_o1/view?usp=share_link",
         "category": "Promos",
         "cajas": "3 Cajas"
     },
