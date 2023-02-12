@@ -195,7 +195,7 @@
         "id": "P1",
         "nombre": "Promo N°1",
         "descripcion": "INCLUYE : 1 CAJA Bodegas López Vasco Viejo Edición Vintage Malbec. 1 CAJA Bodega Don Bosco Reserva Malbec. 1 CAJA Bodega Don Bosco Donde Manda Capitán Malbec",
-        "precio": 19000,
+        "precio": 21000,
         "img": "/images/bodega2.jpg",
         "category": "Promos",
         "cajas": "3 Cajas"
@@ -204,7 +204,7 @@
         "id": "P2",
         "nombre": "Promo N°2",
         "descripcion": "INCLUYE : 1 CAJA Bodega Los Toneles Abrasado. Malbec. 1 CAJA Bodega Atilio Avena Línea Atilio Malbec. 1 CAJA Bodega Richardi Fazio Menegazzo Rime Varietal Malbec. 1 CAJA Bodega Don Bosco Otro Loco Más Malbec. CAJA REGALO : Vasco Viejo Edición Vintage Malbec",
-        "precio": 28000,
+        "precio": 30000,
         "img": "https://drive.google.com/uc?export=view&id=1hcWIBwQwe10CksIsRebRpQKy5O9rKrhT",
         "category": "Promos",
         "cajas": "5 Cajas"
@@ -213,7 +213,7 @@
         "id": "P3",
         "nombre": "Promo N°3",
         "descripcion": "INCLUYE : 1 CAJA Bodega Don Bosco Reserva Malbec. 1 CAJA Bodegas López. 1 CAJA Bodega RichardiFazio Menegazzo Rime Varietal. 1 CAJA ESPUMANTE Bodega Richardi Fazio Menegazzo Línea Moulin Bleu Extra Brut, Dulce o Rosado. CAJA REGALO: Vasco Viejo Edición Vintage Malbec. ",
-        "precio": 28000,
+        "precio": 30000,
         "img": "https://drive.google.com/uc?export=view&id=10WggiAnvdLgTJbOgwOCipMuGCVqqCM5Y",
         "category": "Promos",
         "cajas": "5 Cajas"
@@ -222,7 +222,7 @@
         "id": "P4",
         "nombre": "Promo N°4",
         "descripcion": "INCLUYE : 1 CAJA Bodega Los Toneles Abrasado Malbec. 1 CAJA Bodega Atilio Avena Línea Atilio Malbec. 1 CAJA Bodega Richardi Fazio Menegazzo Rime Varietal Malbec. 1 CAJA Bodega Don Bosco Otro Loco Más Malbec. CAJA REGALO : Vasco Viejo Edición Vintage Malbec",
-        "precio": 34500,
+        "precio": 29000,
         "img": "https://drive.google.com/uc?export=view&id=1cNyQFotTdqY4QuiNGbl5sOi5B2sHR8to",
         "category": "Promos",
         "cajas": "4 Cajas"
