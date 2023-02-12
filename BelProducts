@@ -138,9 +138,9 @@
     {
         "id": "B5",
         "nombre": "Aturdido",
-        "descripcion": "Aturdido. Caja por 6 unidades",
+        "descripcion": "Aturdido Blanco Dulce. Caja por 6 unidades",
         "precio": 5600,
-        "img": "/images/Aturdido.jpeg",
+        "img": "/images/Aturidido.jpeg",
         "category": "Blancos"
     },
     {
