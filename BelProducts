@@ -168,14 +168,6 @@
         "category": "Rosados"
     },
     {
-        "id": "E1",
-        "nombre": "Moulin Bleu Rosado Dulce",
-        "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Rosado Dulce. Caja por 6 unidades",
-        "precio": 4600,
-        "img": "/images/Richardi Fazio.jpg",
-        "category": "https://drive.google.com/uc?export=view&id=1nA-hyv_ckLk-ygA_p3JDeJTGohldpqip"
-    },
-    {
         "id": "E2",
         "nombre": "Moulin Bleu Extra Dulce",
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Extra Dulce. Caja por 6 unidades",
@@ -189,6 +181,14 @@
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Extra Brut. Caja por 6 unidades",
         "precio": 4600,
         "img": "https://drive.google.com/uc?export=view&id=12aEVbcFF_YW9w096YfEJB_J_4QZRaK_p",
+        "category": "Espumantes"
+    },
+    {
+        "id": "E4",
+        "nombre": "Moulin Bleu Rosado",
+        "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Rosado Dulce. Caja por 6 unidades",
+        "precio": 4600,
+        "img": "https://drive.google.com/uc?export=view&id=1nA-hyv_ckLk-ygA_p3JDeJTGohldpqip",
         "category": "Espumantes"
     },
     {
