@@ -99,7 +99,7 @@
         "id": "T14",
         "nombre": "El Gran Loco",
         "descripcion": "Don Bosco - El Gran Loco. Caja por 6 unidades",
-        "precio": 6800,
+        "precio": 7300,
         "img": "/images/elgranloco.jpeg",
         "category": "Tintos"
     },
@@ -115,7 +115,7 @@
         "id": "B1",
         "nombre": "Otro Loco Más Ice",
         "descripcion": "Don Bosco Otro Loco Más Ice. Caja por 6 unidades",
-        "precio": 4900,
+        "precio": 5400,
         "img": "https://drive.google.com/uc?export=view&id=1iPzYI_j0NvIvu8kAX3iduaQsobvdCyye",
         "category": "Blancos"
     },
@@ -179,7 +179,7 @@
         "id": "E2",
         "nombre": "Moulin Bleu Extra Dulce",
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Extra Dulce. Caja por 6 unidades",
-        "precio": 4600,
+        "precio": 5900,
         "img": "https://drive.google.com/uc?export=view&id=1H-jRnRXWkvqSRnaVxCrEgCcvcze-fcxy",
         "category": "Espumantes"
     },
@@ -187,7 +187,7 @@
         "id": "E3",
         "nombre": "Moulin Bleu Extra Brut",
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Extra Brut. Caja por 6 unidades",
-        "precio": 4600,
+        "precio": 5900,
         "img": "https://drive.google.com/uc?export=view&id=12aEVbcFF_YW9w096YfEJB_J_4QZRaK_p",
         "category": "Espumantes"
     },
@@ -195,7 +195,7 @@
         "id": "E4",
         "nombre": "Moulin Bleu Rosado",
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Rosado Dulce. Caja por 6 unidades",
-        "precio": 4600,
+        "precio": 5900,
         "img": "https://drive.google.com/uc?export=view&id=1nA-hyv_ckLk-ygA_p3JDeJTGohldpqip",
         "category": "Espumantes"
     },
