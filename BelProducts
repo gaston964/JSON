@@ -51,7 +51,7 @@
         "id": "T8",
         "nombre": "Don Bosco",
         "descripcion": "Don Bosco Reserva Malbec. Caja por 6 unidades",
-        "precio": 7800,
+        "precio": 8000,
         "img": "https://drive.google.com/uc?export=view&id=1sA5Gv-OSa-S05k6dE4LflJfZy4eIe5gT",
         "category": "Tintos"
     },
@@ -59,7 +59,7 @@
         "id": "T9",
         "nombre": "Otro Loco Más",
         "descripcion": "Don Bosco Otro Loco Más Malbec. Caja por 6 unidades",
-        "precio": 5980,
+        "precio": 6200,
         "img": "https://drive.google.com/uc?export=view&id=1s1RzPhWwBKp3b93k8d-P5-LisLQJCIrP",
         "category": "Tintos"
     },
@@ -99,7 +99,7 @@
         "id": "T14",
         "nombre": "El Gran Loco",
         "descripcion": "Don Bosco - El Gran Loco. Caja por 6 unidades",
-        "precio": 8300,
+        "precio": 8550,
         "img": "/images/elgranloco.jpeg",
         "category": "Tintos"
     },
@@ -131,7 +131,7 @@
         "id": "B1",
         "nombre": "Otro Loco Más Ice",
         "descripcion": "Don Bosco Otro Loco Más Ice. Caja por 6 unidades",
-        "precio": 5980,
+        "precio": 6200,
         "img": "https://drive.google.com/uc?export=view&id=1iPzYI_j0NvIvu8kAX3iduaQsobvdCyye",
         "category": "Blancos"
     },
