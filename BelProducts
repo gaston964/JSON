@@ -3,7 +3,7 @@
         "id": "T1",
         "nombre": "Atilio Avena",
         "descripcion": "Atilio Avena Línea Franco. Caja por 4 unidades",
-        "precio": 10400,
+        "precio": 20700,
         "img": "https://drive.google.com/uc?export=view&id=10QmT2brpAhFgDaNA3vXrvIDp7pZnlTQa",
         "category": "Tintos"
     },
@@ -11,7 +11,7 @@
         "id": "T2",
         "nombre": "Atilio Avena",
         "descripcion": "Atilio Avena Roble Malbec. Caja por 6 unidades",
-        "precio": 6000,
+        "precio": 11350,
         "img": "https://drive.google.com/uc?export=view&id=1sgS-nleT9OjG0kZPpozm9QCMxgQhnLXJ",
         "category": "Tintos"
     },
@@ -19,7 +19,7 @@
         "id": "T3",
         "nombre": "Atilio Avena",
         "descripcion": "Atilio Avena- Atilio Malbec. Caja por 6 unidades",
-        "precio": 5400,
+        "precio": 10000,
         "img": "https://drive.google.com/uc?export=view&id=1qNC1XOOG53K1TzSeZq5Mltem_WJBbrCl",
         "category": "Tintos"
     },
@@ -27,7 +27,7 @@
         "id": "T4",
         "nombre": "López Malbec",
         "descripcion": "Bodegas López- López Malbec. Caja por 6 unidades",
-        "precio": 7300,
+        "precio": 8300,
         "img": "https://drive.google.com/uc?export=view&id=1_nIHtkZq24Irso1TfWuLqb7QxEKwi-0m",
         "category": "Tintos"
     },
@@ -35,7 +35,7 @@
         "id": "T5",
         "nombre": "Vasco Viejo",
         "descripcion": "Bodegas López Vasco Viejo Edición Vintage Malbec. Caja por 6 unidades",
-        "precio": 5200,
+        "precio": 7600,
         "img": "https://drive.google.com/uc?export=view&id=1VA_BtLQnhaWMMR2-ig9rSpW1obxWuXw2",
         "category": "Tintos"
     },
@@ -43,7 +43,7 @@
         "id": "T6",
         "nombre": "Vasco Viejo Blend",
         "descripcion": "Bodegas López Vasco Viejo Blend de tintos.Caja por 6 unidades",
-        "precio": 4300,
+        "precio": 5400,
         "img": "https://drive.google.com/uc?export=view&id=1cZf8oEZIyYwa6RZDyRaGGERAyFOIL8yk",
         "category": "Tintos"
     },
@@ -51,7 +51,7 @@
         "id": "T8",
         "nombre": "Don Bosco",
         "descripcion": "Don Bosco Reserva Malbec. Caja por 6 unidades",
-        "precio": 8000,
+        "precio": 8344,
         "img": "https://drive.google.com/uc?export=view&id=1sA5Gv-OSa-S05k6dE4LflJfZy4eIe5gT",
         "category": "Tintos"
     },
@@ -59,7 +59,7 @@
         "id": "T9",
         "nombre": "Otro Loco Más",
         "descripcion": "Don Bosco Otro Loco Más Malbec. Caja por 6 unidades",
-        "precio": 6200,
+        "precio": 6410,
         "img": "https://drive.google.com/uc?export=view&id=1s1RzPhWwBKp3b93k8d-P5-LisLQJCIrP",
         "category": "Tintos"
     },
@@ -67,7 +67,7 @@
         "id": "T10",
         "nombre": "Mosquita Muerta Wines",
         "descripcion": "Mosquita Muerta Wines. Caja por 6 unidades",
-        "precio": 6050,
+        "precio": 7300,
         "img": "https://drive.google.com/uc?export=view&id=11yNQVxVMU9Thb5UJjbgPQghz8bDTQHvA",
         "category": "Tintos"
     },
@@ -75,7 +75,7 @@
         "id": "T11",
         "nombre": "Richardi Fazio Menegazzo",
         "descripcion": "Richardi Fazio Menegazzo Linea Rimé Blend Alta Gama Malbec Cabernet Sauvignon. Caja por 6 unidades",
-        "precio": 7920,
+        "precio": 12000,
         "img": "https://drive.google.com/uc?export=view&id=18_xhAu0fw4rZKzhwBbDLZP30bk2GytNk",
         "category": "Tintos"
     },
@@ -83,7 +83,7 @@
         "id": "T12",
         "nombre": "Náufrago Malbec",
         "descripcion": "Náufrago Malbec. Caja por 6 unidades",
-        "precio": 5200,
+        "precio": 6400,
         "img": "/images/Náufrago.jpeg",
         "category": "Tintos"
     },
@@ -91,7 +91,7 @@
         "id": "T13",
         "nombre": "Richardi Fazio Menegazzo",
         "descripcion": "Richardi Fazio Menegazzo Línea Rime Malbec Varietal. Caja por 6 unidades",
-        "precio": 6720,
+        "precio": 8800,
         "img": "https://drive.google.com/uc?export=view&id=1dojXzy06qEyokJWfomMwBaaHfCYAGuu9",
         "category": "Tintos"
     },
@@ -99,7 +99,7 @@
         "id": "T14",
         "nombre": "El Gran Loco",
         "descripcion": "Don Bosco - El Gran Loco. Caja por 6 unidades",
-        "precio": 8550,
+        "precio": 8890,
         "img": "/images/elgranloco.jpeg",
         "category": "Tintos"
     },
@@ -107,7 +107,7 @@
         "id": "T15",
         "nombre": "Aturdido Malbec",
         "descripcion": "Aturdido Malbec. Caja por 6 unidades",
-        "precio": 6800,
+        "precio": 7680,
         "img": "/images/aturdido2.jpeg",
         "category": "Tintos"
     },
@@ -115,7 +115,7 @@
         "id": "T16",
         "nombre": "Mirá la Copa Bobo",
         "descripcion": "Mirá la Copa Bobo Malbec 2021. Caja por 6 unidades",
-        "precio": 7200,
+        "precio": 7680,
         "img": "/images/copabobo.jpeg",
         "category": "Tintos"
     },
@@ -123,7 +123,7 @@
         "id": "T17",
         "nombre": "Sacando del Medio",
         "descripcion": "Sacando del Medio Malbec 2019. Caja por 6 unidades",
-        "precio": 7200,
+        "precio": 8640,
         "img": "/images/mediomalbec.jpeg",
         "category": "Tintos"
     },
@@ -131,7 +131,7 @@
         "id": "B1",
         "nombre": "Otro Loco Más Ice",
         "descripcion": "Don Bosco Otro Loco Más Ice. Caja por 6 unidades",
-        "precio": 6200,
+        "precio": 6410,
         "img": "https://drive.google.com/uc?export=view&id=1iPzYI_j0NvIvu8kAX3iduaQsobvdCyye",
         "category": "Blancos"
     },
@@ -139,7 +139,7 @@
         "id": "B2",
         "nombre": "Jorge Rubio Cosecha Tardía",
         "descripcion": "Jorge Rubio Finca Gabriel Jóvenes Cosecha Tardía. Caja por 6 unidades",
-        "precio": 9900,
+        "precio": 10200,
         "img": "https://drive.google.com/uc?export=view&id=1uD8qrotHscPLv6qbDst-j3ywq7ShLEez",
         "category": "Blancos"
     },
@@ -147,7 +147,7 @@
         "id": "B3",
         "nombre": "Vasco Viejo Blend de blancos",
         "descripcion": "Bodegas López Vasco Viejo Blend de blancos. Caja por 6 unidades",
-        "precio": 4300,
+        "precio": 5400,
         "img": "https://drive.google.com/uc?export=view&id=1vfhPCykNFZIrbYrAWjh-jC-7t_As6JSM",
         "category": "Blancos"
     },
@@ -155,7 +155,7 @@
         "id": "B4",
         "nombre": "Jorge Rubio Chardonnay",
         "descripcion": "Jorge Rubio Finca Gabriel Jóvenes Chardonnay. Caja por 6 unidades",
-        "precio": 9900,
+        "precio": 10200,
         "img": "/images/Jorge Rubio.jpeg",
         "category": "Blancos"
     },
@@ -163,7 +163,7 @@
         "id": "B5",
         "nombre": "Náufrago Blanco Dulce Chenin",
         "descripcion": "Náufrago Blanco Dulce Chenin. Caja por 6 unidades",
-        "precio": 5800,
+        "precio": 7200,
         "img": "/images/naufrago.jpeg",
         "category": "Blancos"
     },
@@ -171,7 +171,7 @@
         "id": "B5",
         "nombre": "Aturdido",
         "descripcion": "Aturdido Blanco Dulce. Caja por 6 unidades",
-        "precio": 5800,
+        "precio": 8640,
         "img": "/images/Aturidido.jpeg",
         "category": "Blancos"
     },
@@ -179,7 +179,7 @@
         "id": "R1",
         "nombre": "Rosé Syrah",
         "descripcion": "Jorge Rubio- Finca Gabriel Jóvenes Rosé Syrah. Caja por 6 unidades",
-        "precio": 9900,
+        "precio": 10200,
         "img": "https://drive.google.com/uc?export=view&id=1P6ZtMVItlFtCvkJ5tegBdwuxfFcb2WC8",
         "category": "Rosados"
     },
@@ -195,7 +195,7 @@
         "id": "E2",
         "nombre": "Moulin Bleu Extra Dulce",
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Extra Dulce. Caja por 6 unidades",
-        "precio": 5900,
+        "precio": 7000,
         "img": "https://drive.google.com/uc?export=view&id=1H-jRnRXWkvqSRnaVxCrEgCcvcze-fcxy",
         "category": "Espumantes"
     },
@@ -203,7 +203,7 @@
         "id": "E3",
         "nombre": "Moulin Bleu Extra Brut",
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Extra Brut. Caja por 6 unidades",
-        "precio": 5900,
+        "precio": 7000,
         "img": "https://drive.google.com/uc?export=view&id=12aEVbcFF_YW9w096YfEJB_J_4QZRaK_p",
         "category": "Espumantes"
     },
@@ -211,7 +211,7 @@
         "id": "E4",
         "nombre": "Moulin Bleu Rosado",
         "descripcion": "Richardi Fazio Menegazzo Línea Canai Espumante Moulin Bleu Rosado Dulce. Caja por 6 unidades",
-        "precio": 5900,
+        "precio": 7000,
         "img": "https://drive.google.com/uc?export=view&id=1nA-hyv_ckLk-ygA_p3JDeJTGohldpqip",
         "category": "Espumantes"
     },
