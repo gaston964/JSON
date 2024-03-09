@@ -1,0 +1,2772 @@
+[
+ {
+  "Insumo": "032010001",
+  "SbIn": 3,
+  "Nombre": "BARBIJO DESC TRIPLE CAPA HEMOREP MIN 40 GR CON SUJETADOR DE NARIZ                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032010001",
+  "SbIn": 5,
+  "Nombre": "BARBIJO  FILTRADO TIPO N 95 1870                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032010003",
+  "SbIn": 1,
+  "Nombre": "ANTEOJO DE POLICARBONATO TRANSPARENTE CON BARRERAS LATERALES                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032010004",
+  "SbIn": 1,
+  "Nombre": "BLUSON DE CIRUGIA HEMOREPELENTE 40GR MIN PERMEABLE AL VAPOR NO PLASTICO DESC.                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032010005",
+  "SbIn": 3,
+  "Nombre": "BOTAS CAÑA LARGA HEMOREPELENTES NO PLASTICO PERMEABLE AL VAPOR DESC.DE 30 GR. MINIMO                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032010006",
+  "SbIn": 12,
+  "Nombre": "DESCARTADOR PLAST CAP 1 LT P\/CORTOPUNZANTES BOCA ANCHA                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032010006",
+  "SbIn": 13,
+  "Nombre": "DESCARTADOR PLAST CAP 4 LT P\/CORTOPUNZANTES BOCA ANCHA                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032010006",
+  "SbIn": 14,
+  "Nombre": "DESCARTADOR PLAST CAP 7 LT P\/CORTOPUNZANTES BOCA ANCHA                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032010007",
+  "SbIn": 3,
+  "Nombre": "GORRO CIRUJANO TIPO COFIA HEMOREPELENTE NO PLASTICO PERMEABLE AL VAPOR DESC.                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032010011",
+  "SbIn": 1,
+  "Nombre": "GUANTE LATEX CHICO DESCARTABLE                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032010011",
+  "SbIn": 2,
+  "Nombre": "GUANTE LATEX MEDIANO DESCARTABLE                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032010011",
+  "SbIn": 3,
+  "Nombre": "GUANTE LATEX GRANDE DESCARTABLE                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032010011",
+  "SbIn": 8,
+  "Nombre": "GUANTE LATEX CHICO SIN POLVO DESCARTABLE                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032010011",
+  "SbIn": 9,
+  "Nombre": "GUANTE LATEX MEDIANO SIN POLVO DESCARTABLE                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032010012",
+  "SbIn": 1,
+  "Nombre": "GUANTE LATEX Nº 7 PUÑO LARGO DESC. ESTERIL                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032010012",
+  "SbIn": 2,
+  "Nombre": "GUANTE LATEX Nº 7 1\/2 PUÑO LARGO DESC. ESTERIL                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032010012",
+  "SbIn": 3,
+  "Nombre": "GUANTE LATEX Nº 8 PUÑO LARGO DESC. ESTERIL                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032010012",
+  "SbIn": 4,
+  "Nombre": "GUANTE LATEX Nº 8 1\/2 PUÑO LARGO DESC. ESTERIL                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032010012",
+  "SbIn": 6,
+  "Nombre": "GUANTE LATEX Nº6 1\/2 PUÑO LARGO.DESC. ESTERIL                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032010014",
+  "SbIn": 8,
+  "Nombre": "CAMPO QUIRURGICO 1000 MM x 1300 MM EST.(TIPO N° 1015)                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032010014",
+  "SbIn": 12,
+  "Nombre": "CAMPO QUIRURGICO ADESIVO PARA OFTALMOLOGIA                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032010014",
+  "SbIn": 21,
+  "Nombre": "CAMPO QUIRURGICO C\/IODO 60X35 CM ESTERIL(TIPO IOBAN)                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032010014",
+  "SbIn": 24,
+  "Nombre": "CAMPO QUIRURGICO FENESTRADO DESC.ESTERIL 200X300 MM C\/ORIFICIO DE 30 MM DE DIAMETRO                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032010014",
+  "SbIn": 25,
+  "Nombre": "CAMPO QUIRURGICO FENESTRADO DESC.ESTERIL 400X400 MM C\/ORIFICIO DE  70 MM DE DIAMETRO                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032010017",
+  "SbIn": 1,
+  "Nombre": "GUANTE  POLIVINILO MEDIANOS DESC.                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032010017",
+  "SbIn": 2,
+  "Nombre": "GUANTE POLIVINILO GRANDES DESC.                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032010017",
+  "SbIn": 3,
+  "Nombre": "GUANTE POLIVINILO CHICOS DESC.                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032010017",
+  "SbIn": 5,
+  "Nombre": "GUANTE LIBRE DE LATEX Nº7 1\/2 DESC.EST.                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032010017",
+  "SbIn": 6,
+  "Nombre": "GUANTE LIBRE DE LATEX Nº7 DESC.EST.                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032010017",
+  "SbIn": 7,
+  "Nombre": "GUANTE LIBRE DE LATEX Nº8 1\/2 DESC.EST.                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032020001",
+  "SbIn": 1,
+  "Nombre": "ALGODON HIDROFILO PLEGADO X 400\/500 G                                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032020004",
+  "SbIn": 1,
+  "Nombre": "VENDA TIPO CAMBRIC  5 CM ANCHO ORILLADA MIN 2,5 MTS DE LARGO                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032020004",
+  "SbIn": 2,
+  "Nombre": "VENDA TIPO CAMBRIC  7 CM ANCHO ORILLADA MIN 2,5 MTS DE LARGO                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032020004",
+  "SbIn": 3,
+  "Nombre": "VENDA TIPO CAMBRIC 10 CM ANCHO ORILLADA MIN 2,5 MTS DE LARGO                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032020006",
+  "SbIn": 2,
+  "Nombre": "TELA ADHESIVA X   5 CM DE ANCHO Y 9 M DE LARGO APROX.                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032020006",
+  "SbIn": 4,
+  "Nombre": "TELA ADHESIVA X 5 CM MICROPOROSA HIPOALERGENICA 9 M LARGO APROX.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032020006",
+  "SbIn": 6,
+  "Nombre": "TELA ADHESIVA X 5 CM TRANSP.HIPOALERGENICA 9 M DE LARGO APROX.                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032020006",
+  "SbIn": 8,
+  "Nombre": "TELA ADHESIVA X   5 CM TAFETA HIPOALERGENICA                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032020006",
+  "SbIn": 14,
+  "Nombre": "TELA ADHESIVA 1,27 CM MICROPOROSA HIPOALERGENICA X 9 MT DE LARGO APROX.                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032020007",
+  "SbIn": 3,
+  "Nombre": "APOSITO PROTECTOR P\/VIA VENOSA CENTRAL TIPO VECA-C                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032020007",
+  "SbIn": 23,
+  "Nombre": "APÓSITO DE ESPUMA HIDROCELULAR NO ADHESIVO                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032020010",
+  "SbIn": 5,
+  "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 2 X25MTS (T\/SURGIFIX) O N° 4 (T\/FAVE)"
+ },
+ {
+  "Insumo": "032020010",
+  "SbIn": 6,
+  "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 3 X25MTS (TIPO SURGIFIX) "
+ },
+ {
+  "Insumo": "032020012",
+  "SbIn": 1,
+  "Nombre": "HIDROCOLOIDE EN POLVO MICROGRANULADO                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032020014",
+  "SbIn": 4,
+  "Nombre": "ALGODON QUIRURG.C\/COLA RADIOPACA APROX.1,27 X 3,81 CM ESTERIL                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032020014",
+  "SbIn": 6,
+  "Nombre": "ALGODON QUIRURG.C\/COLA RADIOPACA APROX.2,54 X 7,62 CM ESTERIL                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032030001",
+  "SbIn": 2,
+  "Nombre": "HOJA DE BISTURI Nº 15 ESTERIL                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032030001",
+  "SbIn": 5,
+  "Nombre": "HOJA DE BISTURI Nº 22 ESTERIL                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032030001",
+  "SbIn": 7,
+  "Nombre": "HOJA DE BISTURI Nº 24 ESTERIL                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032030001",
+  "SbIn": 13,
+  "Nombre": "HOJA DE BISTURI N° 10 ESTERIL                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032030002",
+  "SbIn": 4,
+  "Nombre": "HOJA DE DERMATOMO P\/EQUIPO AESCULAP.                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032040001",
+  "SbIn": 6,
+  "Nombre": "AMPOLLA SIFON POLIPROPILENO BOCA ANCHA EST                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032040004",
+  "SbIn": 1,
+  "Nombre": "TUBO GOMA LATEX 3 MM DIAM.INT.X 5 MM DIAM. EXT.                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032040004",
+  "SbIn": 2,
+  "Nombre": "TUBO GOMA LATEX 5 MM DIAM.INT.X 8 MM DIAM. EXT.                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032040004",
+  "SbIn": 3,
+  "Nombre": "TUBO GOMA LATEX 8 MM DIAM.INT.X 11 MM DIAM. EXT.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032040005",
+  "SbIn": 9,
+  "Nombre": "SET P\/DRENAJE DE TORAX POR PUNCIÓN 12 FR. (tipo Argyle)                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032040005",
+  "SbIn": 22,
+  "Nombre": "SET P\/DRENAJE DE TORAX POR PUNCIÓN 18 FR.(TIPO ARGYLE)                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032040006",
+  "SbIn": 5,
+  "Nombre": "RECIPIENTE P\/ASPIRACION CON VALVULA DESC.                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032040006",
+  "SbIn": 6,
+  "Nombre": "RECIPIENTE P\/ASPIRACION SIN VALVULA DESC.                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032040008",
+  "SbIn": 2,
+  "Nombre": "HEMOSUCTOR ESTERIL MEDIANO                                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032040010",
+  "SbIn": 2,
+  "Nombre": "CATETER TELESCOPADO P\/TOMA DE MUESTRAS DE TET                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032040011",
+  "SbIn": 1,
+  "Nombre": "CAMPANA DE DRENAJE PLEURAL CON 2 BOCAS                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032040014",
+  "SbIn": 8,
+  "Nombre": "CANULA ASPIRACION CAMPO QUIRURGICO K66 CON TUBULADURA 2MTS                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032040017",
+  "SbIn": 1,
+  "Nombre": "TUBO FLEXIBLE 100% SILICONA 1\/4 DI                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032040017",
+  "SbIn": 2,
+  "Nombre": "TUBO FLEXIBLE 100% SILICONA 3\/16 DI                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032040017",
+  "SbIn": 3,
+  "Nombre": "TUBO FLEXIBLE 100% SILICONA 3\/8 DI                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032050001",
+  "SbIn": 2,
+  "Nombre": "ELECTRODO P\/MONITOREO ADULTO DESC.                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032050002",
+  "SbIn": 6,
+  "Nombre": "GEL PARA ECOGRAFIA CON DOSIFICADOR                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032050003",
+  "SbIn": 6,
+  "Nombre": "PAPEL P\/ECOCARDIOGRAFIA 110MM X 20MT                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032050004",
+  "SbIn": 2,
+  "Nombre": "PAPEL P\/ECG TERMOQUIMICO 50 MM X 30 MT                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032050004",
+  "SbIn": 7,
+  "Nombre": "PAPEL P\/ECG TERMOSENSIBLE 63 X 30 MM                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032050004",
+  "SbIn": 10,
+  "Nombre": "PAPEL P\/ECG TERMOQUIMICO 57 MM X 25 M                                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032050004",
+  "SbIn": 12,
+  "Nombre": "PAPEL P\/ECG TERMOQUIMICO 80MM X 20 M                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032050013",
+  "SbIn": 2,
+  "Nombre": "PASTA CONDUCTORA P\/EEG                                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032060001",
+  "SbIn": 2,
+  "Nombre": "ALGODON LAMINADO X 10 CM ANCHO Y 2.5 MTS LARGO APROX.                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032060001",
+  "SbIn": 3,
+  "Nombre": "ALGODON LAMINADO X 15 CM ANCHO Y 2.5 MTS LARGO APROX.                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032060002",
+  "SbIn": 1,
+  "Nombre": "FERULA AL.MALEABLE C\/GOMAPLUMA 1.5 CM ANCHO Y 50 CM LARGO APROX.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032060003",
+  "SbIn": 1,
+  "Nombre": "MALLA TUBULAR X  5 CM DE ANCHO X 25 MT DE LARGO APROX.                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032060005",
+  "SbIn": 6,
+  "Nombre": "VENDA ENYESADA-FRAGUADO RAPIDO 10 CM ANCHO X 5 M DE LARGO APROX.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032060005",
+  "SbIn": 7,
+  "Nombre": "VENDA ENYESADA-FRAGUADO RAPIDO 15 CM ANCHO X 5 M DE LARGO APROX.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032060005",
+  "SbIn": 13,
+  "Nombre": "VENDA ENYESADA FRAGUADO RAPIDO 7 CM ANCHO X 5 M DE LARGO APROX.                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032070001",
+  "SbIn": 3,
+  "Nombre": "AGUJA C\/ALETA PLASTICA Nº 21 EST.                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070001",
+  "SbIn": 6,
+  "Nombre": "AGUJA C\/ALETA PLASTICA Nº 25 EST.                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 2,
+  "Nombre": "AGUJA HIPODERMICA 15\/5 DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 4,
+  "Nombre": "AGUJA HIPODERMICA 25\/8 DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 5,
+  "Nombre": "AGUJA HIPODERMICA 25\/9 DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 6,
+  "Nombre": "AGUJA HIPODERMICA 30\/7 DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 7,
+  "Nombre": "AGUJA HIPODERMICA 40\/8 DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 8,
+  "Nombre": "AGUJA HIPODERMICA 50\/8 DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 28,
+  "Nombre": "AGUJA HIPODERMICA DESCARTABLE ESTERIL 40\/7                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 38,
+  "Nombre": "AGUJA P\/LAPICERA DE INSULINA G31 Y 6MM DE LARGO                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 40,
+  "Nombre": "AGUJA HIPODERMICA 25\/7 DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070002",
+  "SbIn": 44,
+  "Nombre": "AGUJA P\/LAPICERA DE INSULINA 32G Y 4MM DE LARGO"
+ },
+ {
+  "Insumo": "032070004",
+  "SbIn": 13,
+  "Nombre": "CATETER IMPLANTABLE DE 5,5 FR CON CAMPANA NEONATAL DE TITANIO                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032070004",
+  "SbIn": 14,
+  "Nombre": "CATETER IMPLANTABLE DE 5,5 FR CON CAMPANA PEDIATRICA DE TITANIO                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032070004",
+  "SbIn": 17,
+  "Nombre": "CATETER EPICUTANEO NENONATAL DE 1FR 1 LUMEN                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032070004",
+  "SbIn": 19,
+  "Nombre": "CATETER EPICUTANEO NENONATAL DE 2FR 2 LUMEN                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032070005",
+  "SbIn": 9,
+  "Nombre": "CATETER I.V.PERIFERICO Nº22 G BIFURCADO EN Y C\/ALETAS                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032070005",
+  "SbIn": 10,
+  "Nombre": "CATETER I.V.PERIFERICO Nº24 G BIFURCADO EN Y C\/ALETAS                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032070005",
+  "SbIn": 12,
+  "Nombre": "CATETER I.V. DE POLIURETANO N 16 G RADIOPACO                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032070005",
+  "SbIn": 13,
+  "Nombre": "CATETER I.V. DE POLIURETANO N 18 G RADIOPACO                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032070006",
+  "SbIn": 2,
+  "Nombre": "GUIA ESTERIL MICROGOTERO C\/CAMARA GRAD.100 ML S\/A                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070006",
+  "SbIn": 3,
+  "Nombre": "GUIA ESTERIL MICROGOTERO FOTOSENSIBLE OPACA S\/AGUJA                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032070006",
+  "SbIn": 4,
+  "Nombre": "GUIA ESTERIL MACROGOTERO S\/FILTRO Y S\/AGUJA                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032070006",
+  "SbIn": 14,
+  "Nombre": "GUIA INFUSION ESTERIL FOTOPROTECTORA P\/BOMBA DESCARTABLE                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032070006",
+  "SbIn": 20,
+  "Nombre": "GUIA INFUSION MICROGOTERO P\/BOMBA 1642 ESTERIL                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 3,
+  "Nombre": "JERINGA 2.5 \/3 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 4,
+  "Nombre": "JERINGA   5 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 5,
+  "Nombre": "JERINGA  10 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 10,
+  "Nombre": "JERINGA  20 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 12,
+  "Nombre": "JERINGA  60 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 29,
+  "Nombre": "JERINGA DES EST P\/GAS C\/TAPON DE SEGURIDAD C\/HEPARINA                     DE LITIO                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 51,
+  "Nombre": "JERINGA 20 CC P\/BOMBA DESC.ESTERIL C\/ PROLONGADOR                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 52,
+  "Nombre": "JERINGA 50 CC P\/BOMBA DESC.ESTERIL C\/PROLONGADOR                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 54,
+  "Nombre": "JERINGA 60 PICO CATETER DESC EST                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 57,
+  "Nombre": "JERINGA 0,5 ML PARA INSULINA 100 U.I.  C\/AGUJA ULTRAFINA INCLUIDA Y SIN ESPACIO MUERTO (LARGO 6 MM CALIBRE 0,25 MM) DESC. EST.\n"
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 63,
+  "Nombre": "JERINGA P\/INSULINA 0.3 CC C\/AGUJA 31G Y 6 MM DESC                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 1,
+  "Nombre": "SONDA EST.(TIPO K 30) 105 CM LONG.X 2.8 MM DIAM.EXT.                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 2,
+  "Nombre": "SONDA EST.(TIPO K 31) 105 CM LONG.X 2.3 MM DIAM.EXT.                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 3,
+  "Nombre": "SONDA EST.(TIPO K 33)  45 CM LONG.X 2 MM DIAM.EXT                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 4,
+  "Nombre": "SONDA EST.(TIPO K 35)  45 CM LONG.X 1.4 MM DIAM.EXT.                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 9,
+  "Nombre": "SONDA EST.(TIPO K 30) 105 CM LONG.X 2.8 MM SILICONADA ESTERIL                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 10,
+  "Nombre": "SONDA EST.(TIPO K 31) 105 CM LONG.X 2.3 MM SILICONADA ESTERIL                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 12,
+  "Nombre": "SONDA EST.(TIPO K 33) 45 CM LONG.X 2 MM SILICONADA DESC EST                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 13,
+  "Nombre": "SONDA EST.(TIPO K 10) 125 CM LONG.X 5,3 MM SILICONADA DESC EST"
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 14,
+  "Nombre": "SONDA EST. (TIPO K 11) 125 CM X 6 MM SILICONA                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 15,
+  "Nombre": "SONDA EST. (TIPO K 35) 45 CM X 1,4 MM SILICONA                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 16,
+  "Nombre": "SONDA (TIPO K9) 125 CM X 4 MM SILICONA EST                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 18,
+  "Nombre": "SONDA DE ASPIRACION CONTINUA NEONATAL 10FR                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032070008",
+  "SbIn": 19,
+  "Nombre": "SONDA DE ASPIRACION CONTINUA NEONATAL 12FR                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032070009",
+  "SbIn": 2,
+  "Nombre": "CATETER VENOSO CENTRAL 4 FR.2L X 13 CM                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032070009",
+  "SbIn": 9,
+  "Nombre": "CATETER VENOSO CENTRAL 5,5 FR.3L X 13 CM                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032070009",
+  "SbIn": 10,
+  "Nombre": "CATETER VENOSO CENTRAL 5 FR.2L X 13 CM                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032070009",
+  "SbIn": 11,
+  "Nombre": "CATETER VENOSO CENTRAL 4 FR.3L X 13 CM                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032070009",
+  "SbIn": 13,
+  "Nombre": "CATETER VENOSO CENTRAL 8 FR.2L X 20 CM                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032070010",
+  "SbIn": 2,
+  "Nombre": "SET ANESTESIA PERIDURAL 16 G                                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032070010",
+  "SbIn": 3,
+  "Nombre": "SET ANESTESIA PERIDURAL 18 G                                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032070010",
+  "SbIn": 4,
+  "Nombre": "AGUJA UNIPOLAR NEUROESTIMULACION 21G X 100MM                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032070010",
+  "SbIn": 5,
+  "Nombre": "AGUJA UNIPOLAR NEUROESTIMULACION 22G X 50MM                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032070012",
+  "SbIn": 1,
+  "Nombre": "EQUIPO DE CONTROL DE FLUJO TIPO UNIFLOW                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032070015",
+  "SbIn": 3,
+  "Nombre": "AGUJA PUNCIÓN P\/BIOPSIA RENAL 16G X 15 CM DESC.EST.                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032070015",
+  "SbIn": 17,
+  "Nombre": "AGUJA P\/BIOPSIA MEDULA OSEA 8G TIPO TRU CORE                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032070015",
+  "SbIn": 18,
+  "Nombre": "AGUJA P\/BIOPSIA MEDULA OSEA 11G TIPO TRU CORE                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032070015",
+  "SbIn": 40,
+  "Nombre": "AGUJA DE BIOPSIA HEPATICA 1,8MM TIPO MENGHINI EST.                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032070016",
+  "SbIn": 5,
+  "Nombre": "CATETER VENOSO UMBILICAL 5F                                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032070016",
+  "SbIn": 6,
+  "Nombre": "CATETER VENOSO UMBILICAL 3,5 FR                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032070016",
+  "SbIn": 7,
+  "Nombre": "CATETER VENOSO UMBILICAL 2,5 FR                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032070016",
+  "SbIn": 13,
+  "Nombre": "CATETER PERIFERICO 3 FR 1 L 65 CM LARGA PERMANECIA                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032070016",
+  "SbIn": 14,
+  "Nombre": "CATETER ARTERIAL UMBILICAL 5F                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032070016",
+  "SbIn": 15,
+  "Nombre": "CATETER PERIFERICO 2 FR 1 L 30 CM POLIURETANO LARGA PERMANENCIA                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032070016",
+  "SbIn": 18,
+  "Nombre": "CATETER PERIFERICO 4 FR 2 L  60 CM POLIURETANO LARGA PERMANENCIA"
+ },
+ {
+  "Insumo": "032070017",
+  "SbIn": 1,
+  "Nombre": "AGUJA P\/ACCESO A PORTALES T\/HUBER 21G                                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032070017",
+  "SbIn": 2,
+  "Nombre": "AGUJA P\/ACCESO A PORTALES T\/HUBER 22G                                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032070017",
+  "SbIn": 3,
+  "Nombre": "AGUJA P\/ACCESO A PORTALES T\/HUBER 21 G X 17 MM                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032070017",
+  "SbIn": 4,
+  "Nombre": "AGUJA P\/ACCESO A PORTALES T\/HUBER 20 G X 25 MM                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032070017",
+  "SbIn": 5,
+  "Nombre": "AGUJA P\/ACCESO A PORTALES T\/HUBER 20 G X 17 MM                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032070017",
+  "SbIn": 6,
+  "Nombre": "AGUJA P\/ACCESO A PORTALES T\/HUBER 20 G X 32 MM                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032070021",
+  "SbIn": 1,
+  "Nombre": "AGUJA P\/ASPIRACION Y TRANSPLANTE DE MEDULA OSEA 16 G X 7 CM                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032070024",
+  "SbIn": 6,
+  "Nombre": "CATETER DIALISIS PERITONEAL TIPO CUELLO DE CISNE RECTO                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032070024",
+  "SbIn": 7,
+  "Nombre": "CATETER DIALISIS PERITONEAL TIPO TENCKHOFF PEDIAT                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070024",
+  "SbIn": 8,
+  "Nombre": "CATETER DIALISIS PERITONEAL TIPO TENCKHOFF ADULTO                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032070027",
+  "SbIn": 2,
+  "Nombre": "DISPOSITIVO PARA FIJACION DE CATETER SIN SUTURA                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032080010",
+  "SbIn": 1,
+  "Nombre": "LIGA CLIPS EXTRA DE TITANIUM LT 100                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032080010",
+  "SbIn": 2,
+  "Nombre": "LIGA CLIPS EXTRA DE TITANIUM LT 200                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032080019",
+  "SbIn": 9,
+  "Nombre": "PARCHE DE PERICARDIO BOBINO 10X15                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032080019",
+  "SbIn": 10,
+  "Nombre": "PARCHE VASCULAR INTRACARDIACO DE EPTF 0,1MM X 12CM X12CM                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032080019",
+  "SbIn": 12,
+  "Nombre": "PARCHE PERICARDIO BOVINO DESCELULARIZADO POR FOTOOXIDACION ANTICALCIFICANTE SIN GLUTARALDEHIDO 6 CM X 8 CM\n"
+ },
+ {
+  "Insumo": "032080021",
+  "SbIn": 1,
+  "Nombre": "MATRIZ HEMOSTATICA ABSORBIBLE, KIT X 60 CON APLICADOR                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032090001",
+  "SbIn": 2,
+  "Nombre": "BAJALENGUA DE MADERA NI#O"
+ },
+ {
+  "Insumo": "032090006",
+  "SbIn": 5,
+  "Nombre": "LIMPIADOR DESINFECTANTE DE SUPERFICIES Y MATERIALES EN ESPUMA                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032090010",
+  "SbIn": 2,
+  "Nombre": "ORINAL DE PLASTICO P\/VARON CAP.800 ML.                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032090012",
+  "SbIn": 6,
+  "Nombre": "RESUCITADOR MANUAL ADULTO (TIPO AMBU) AUTOINFLABLE                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032090012",
+  "SbIn": 8,
+  "Nombre": "RESUCITADOR MANUAL AUTOINFLABLE PEDIÁTRICO CON VALVULA PEEP (TIPO AMBU) REESTERILIZABLE                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032090012",
+  "SbIn": 11,
+  "Nombre": "BOLSA REPUESTO P\/RESUCITADOR PEDIATRICO"
+ },
+ {
+  "Insumo": "032090012",
+  "SbIn": 16,
+  "Nombre": "ADAPTADOR  DE VALVULA PEEP PARA RESUCITADOR (DESCARTABLE)\n"
+ },
+ {
+  "Insumo": "032090013",
+  "SbIn": 1,
+  "Nombre": "PAÑAL DESCARTABLE ADULTO GRANDE C\/ADHESIVO Y GEL                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032090013",
+  "SbIn": 2,
+  "Nombre": "PAÑAL DESCARTABLE NIÑO CHICO CON GEL                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032090013",
+  "SbIn": 4,
+  "Nombre": "PAÑAL DESCARTABLE NIÑO MEDIANO CON GEL                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032090013",
+  "SbIn": 6,
+  "Nombre": "PAÑAL DESCARTABLE RECIEN NACIDO                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032090016",
+  "SbIn": 1,
+  "Nombre": "EQUIPO P\/ MEDIR PRESION VENOSA CENTRAl TIPO ENELSEN 71 ADULTO                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032090019",
+  "SbIn": 5,
+  "Nombre": "AEROCAMARA INHALATORIA C\/VALVULA C\/MASCARA NEONATAL                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032090019",
+  "SbIn": 6,
+  "Nombre": "AEROCAMARA INHALATORIA C\/VALVULA C\/MASCARA PEDIATRICA                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032090019",
+  "SbIn": 7,
+  "Nombre": "AEROCAMARA INHALATORIA C\/VALVULA C\/MASCARA ADULTO                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032090019",
+  "SbIn": 18,
+  "Nombre": "AEROCAMARA COLAPSABLE P\/RESPIRADOR PEDIATRICA                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032090021",
+  "SbIn": 2,
+  "Nombre": "PAÑOS BAÑO FACIL CON CLORHEXIDINA JABONOSA                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032090027",
+  "SbIn": 2,
+  "Nombre": "CANASTILLA P\/EXTRACCION CUERPOS EXTRAÑOS PARA CANAL DE TRABAJO DE 2.8 MM Y 230 CM DE LARGO PARA POLIPECTOMIA                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032090030",
+  "SbIn": 6,
+  "Nombre": "CONTENEDOR P\/NUTRICION ENTERAL ESTERIL                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032090031",
+  "SbIn": 2,
+  "Nombre": "VENDAS DE SMARCH DE LATEX X15 CM 2,5 MTS                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032090031",
+  "SbIn": 3,
+  "Nombre": "VENDAS DE SMARCH DE LATEX X 20CM X 2,5 MT                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032090031",
+  "SbIn": 4,
+  "Nombre": "VENDA ELASTICA TIPO SMARCH 5CM X 2,5MTS APROX.                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032100001",
+  "SbIn": 3,
+  "Nombre": "APOSITO ADHESIVO 7 x 6 CM (tipo tegaderm)                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032100001",
+  "SbIn": 4,
+  "Nombre": "APOSITO ADHESIVO 10 X 12 CM (tipo Tegaderm)                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032100001",
+  "SbIn": 13,
+  "Nombre": "APOSITO DE ALGINATO DE CALCIO                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032100001",
+  "SbIn": 26,
+  "Nombre": "SOLUCION POLIMERICA INCOLORA TRANSPARENTE P\/PROTECCION DERMICA     SPRAY                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032100001",
+  "SbIn": 31,
+  "Nombre": "APOSITO ADHESIVO 20 X 30 CM (TIPO TEGADERM)                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032100001",
+  "SbIn": 40,
+  "Nombre": "REMOVEDOR DE ADHESIVO A BASE DE SILICONA SIN ALCOHOL EN TOALLA                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032100002",
+  "SbIn": 1,
+  "Nombre": "CERA PARA HUESO X 2.5 GRS.                                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032100003",
+  "SbIn": 1,
+  "Nombre": "ESPONJA GELATINA ABSORBIBLE C\/EFECTO HEMOSTATICO-EST.-70 X 50 X 10 MM                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032100004",
+  "SbIn": 1,
+  "Nombre": "HEMOSTATICO ABSORBIBLE 10 CM X 20 CM APROX.EST.                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032100004",
+  "SbIn": 4,
+  "Nombre": "HEMOSTATICO ABSORBIBLE 5X7CM APROX. DE CELULOSA REGENERADA OXIDADA NO ESPONJA                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032100004",
+  "SbIn": 7,
+  "Nombre": "HEMOSTATICO POLVO                                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032100004",
+  "SbIn": 9,
+  "Nombre": "HEMOSTATICO DE CELULOSA OXIDADA FIBRILAR 2,5 X 5CM                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032100004",
+  "SbIn": 11,
+  "Nombre": "HEMOSTATICO DE CELULOSA OXIDADA FIBRILAR 5X10 CM                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032100004",
+  "SbIn": 14,
+  "Nombre": "HEMOSTATICO REABSORBIBLE A BASE DE PEPTIDO SINTETICO"
+ },
+ {
+  "Insumo": "032100005",
+  "SbIn": 1,
+  "Nombre": "RESINA DE COLOFONIA + TREMENTINAS (TIPO ADHESOL)                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032100005",
+  "SbIn": 2,
+  "Nombre": "PASTA ADHESIVA Y DE RELLENO SIN ALCOHOL PARA OSTOMIA                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032100005",
+  "SbIn": 3,
+  "Nombre": "PASTA ADHESIVA Y DE RELLENO CON ALCOHOL PARA OSTOMIA                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032110001",
+  "SbIn": 1,
+  "Nombre": "LLAVE 3 VIAS                                                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032110002",
+  "SbIn": 13,
+  "Nombre": "PROLONGADOR TIPO PT 16 x 1.00 M                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032110002",
+  "SbIn": 14,
+  "Nombre": "PROLONGADOR TIPO PT 16 x 25 CM                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032110002",
+  "SbIn": 15,
+  "Nombre": "PROLONGADOR TIPO PT 26 x 25 CM                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032110002",
+  "SbIn": 16,
+  "Nombre": "PROLONGADOR TIPO PT 26 X 50 CM                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032110004",
+  "SbIn": 10,
+  "Nombre": "CONECTOR EN Y                                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032110004",
+  "SbIn": 18,
+  "Nombre": "CONECTOR PARA BOLSA FLEXIBLE (TIPO CLAVE)"
+ },
+ {
+  "Insumo": "032110008",
+  "SbIn": 3,
+  "Nombre": "CONECTOR BASICO P\/ACCESO VASCULAR SISTEMA S\/AGUJA Y CERRADO                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032110008",
+  "SbIn": 4,
+  "Nombre": "CONECTOR FIJO CON PROLONGADOR DE 13CM DOBLE BIFURCACION\/LUERLOCK Y 2 PINZAS                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032110008",
+  "SbIn": 5,
+  "Nombre": "CONECTOR FIJO MICRO 13 CM DE EXTENSION EN J                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032110010",
+  "SbIn": 1,
+  "Nombre": "CONECTOR RECTO P\/CATETER DE HIDROCEFALIA                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120001",
+  "SbIn": 2,
+  "Nombre": "AGUJA DE PUNCION PERIDURAL O DE TUOHY Nº 18 DESC. EST.                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120001",
+  "SbIn": 9,
+  "Nombre": "AGUJA DE PUNCION RAQUIDEA Nº25 G PUNTA LAPIZ DESC.EST.                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120001",
+  "SbIn": 15,
+  "Nombre": "AGUJA DE PUNCION RAQUIDEA N 23 G PUNTA LAPIZ 0.6 MM DIAM X 90 MM LONG DESC. EST.                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120001",
+  "SbIn": 20,
+  "Nombre": "AGUJA DE PUNCION RAQUIDEA TIPO PUNTA DE LAPIZ 27G X 3 1\/2                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120001",
+  "SbIn": 22,
+  "Nombre": "AGUJA P\/DIGITOPUNZOR DESC. EST.                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032120002",
+  "SbIn": 3,
+  "Nombre": "BOLSA DE REINHALACION DE GOMA X 1 LT                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 3,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº 8 C\/MANGUITO DESC.EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 4,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº 9 C\/MANGUITO DESC.EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 11,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº3.5 DE SILICONA DESC.EST. SIN BALON                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 12,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº4.5 DE SILICONA DESC.EST.                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 13,
+  "Nombre": "CANULA DE TRAQUEOTOMIA N 2.5 DE SILICONA.DESC.EST.SIN BALON                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 32,
+  "Nombre": "VALVULA DE FONACION                                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 33,
+  "Nombre": "CANULA TRAQUEOSTOMIA Nº 3,5 SILICONA C\/ BALON DESC EST.                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 34,
+  "Nombre": "CANULA TRAQUEOSTOMIA Nº 4 SILICONA C\/ BALON DESC EST                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 35,
+  "Nombre": "CANULA TRAQUEOSTOMIA Nº 5 SILICONA C\/ BALON DESC EST                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 36,
+  "Nombre": "CANULA TRAQUEOSTOMIA Nº 5,5 SILICONA C\/ BALON DESC EST                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 37,
+  "Nombre": "CANULA TRAQUEOSTOMIA N°5,5 APROX. DE SILICONA DESC. ESTERIL                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 38,
+  "Nombre": "CANULA TRAQUEOSTOMIA N°4,5 SILICONA C\/BALON DESC. ESTERIL                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 39,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº6 DE SILICONA SIN BALON                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 40,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº3 DE SILICONA SIN BALON                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 47,
+  "Nombre": "CANULA DE TRAQUEOTOMIA C\/BALON Y ASPIRACION SUBGLOTICA N° 8"
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 50,
+  "Nombre": "CANULA DE TRAQUEOTOMIA N°7 DE SILICONA C\/BALON DESC.ESTERIL                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 51,
+  "Nombre": "CANULA DE TRAQUEOTOMIA N°7,5 C\/BALON DE SILICONA DESC.ESTERIL                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 52,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº6 C\/BALON DE SILICONA DESC. ESTERIL                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 54,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº6,5 C\/BALON DE SILICONA DESC.ESTERIL                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 55,
+  "Nombre": "CÁNULA DE TRAQUEOSTOMIA LARGA S\/BALON Nº 5 DE SILICONA                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 56,
+  "Nombre": "CÁNULA  DE TRAQUEOSTOMIA LARGA Nº 5,5 DE SILICONA                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 57,
+  "Nombre": "CÁNULA DE TRAQUEOSTOMIA LARGA S\/BALÓN Nº 6 DE SILICONA                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 58,
+  "Nombre": "CÁNULA  DE TRAQUEOSTOMIA S\/ BALÓN Nº 6,5 DE SILICONA\n                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 59,
+  "Nombre": "CÁNULA DE  TRAQUEOSTOMIA LARGA CON BALÓN Nº 5,5 DE SILICONA                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 60,
+  "Nombre": "CÁNULA  DE TRAQUEOSTOMIA LARGA CON BALÓN Nº 6 DE SILICONA                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 61,
+  "Nombre": "CÁNULA DE TRAQUEOSTOMIA LARGA CON BALÓN Nº 6,5 DE SILICONA                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 77,
+  "Nombre": "CANULA DE TRAQUEOTOMIA CORTA  N° 2,5 DE SILICONA, S\/BALON,"
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 78,
+  "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 3,0 DE SILICONA, S\/BALON,"
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 79,
+  "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 3,5 DE SILICONA, S\/BALON,\tUIDAD\tActivo\n"
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 81,
+  "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 4,5 DE SILICONA, S\/BALON,\tUIDAD\tActivo\n"
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 82,
+  "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 5,0 DE SILICONA, S\/BALON,\tUIDAD\tActivo\n"
+ },
+ {
+  "Insumo": "032120004",
+  "SbIn": 1,
+  "Nombre": "INHALADOR DE OXIGENO P\/CAVIDAD NASAL NEONATAL C\/2 TUBULADURAS CORTAS DESC.EST.                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032120004",
+  "SbIn": 2,
+  "Nombre": "INHALADOR DE OXIGENO P\/CAVIDAD NASAL PEDIATRICO C\/2 TUBULADURAS DESC.EST.                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120004",
+  "SbIn": 3,
+  "Nombre": "INHALADOR DE OXIGENO P\/CAVIDAD NASAL ADULTO C\/2 TUBULADURAS DESC.EST.                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032120004",
+  "SbIn": 6,
+  "Nombre": "CÁNULA NASAL DE OXIGENO RAM PREMATURO-MICRO\n"
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 2,
+  "Nombre": "MASCARA P\/OXIGENOTERAPIA PEDIATRICA C\/5 VALVULAS P\/GRADUACION                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 25,
+  "Nombre": "MASCARA P\/OXIGENA C\/RESERVORIO PEDIATRICA                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 26,
+  "Nombre": "MASCARA PARA OXIGENOTERAPIA  CON RESERVORIO ADULTO"
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 27,
+  "Nombre": "MASCARA P\/ANESTESIA C\/CÚPULA ACRÍLICA Y MANGO NEUMÁTICO N°1                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 29,
+  "Nombre": "MASCARA P\/ANESTESIA C\/CÚPULA ACRÍLICA Y MANGO NEUMÁTICO N°3                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 31,
+  "Nombre": "MASCARA P\/ANESTESIA C\/CÚPULA ACRÍLICA Y MANGO NEUMÁTICO N°5                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 32,
+  "Nombre": "MASCARA P\/ANESTESIA C\/CÚPULA ACRÍLICA Y MANGO NEUMÁTICO N°0                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120005",
+  "SbIn": 33,
+  "Nombre": "MASCARA P\/OXIGENA C\/RESERVORIO NEONATAL                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032120006",
+  "SbIn": 5,
+  "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO K 30 P).LONG 105 CM POR 2.8 MM DIAM.DESC.EST.                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032120006",
+  "SbIn": 6,
+  "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO 31 P) LONG 105 CM X 2.3 MM DIAM.DESC.EST.                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120007",
+  "SbIn": 6,
+  "Nombre": "TUBO CORRUGADO DE  ALTA PRESIÓN 122 CM"
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 2,
+  "Nombre": "TUBO ENDOTRAQUEAL  N° 3 CON BALON DESC.EST.                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 3,
+  "Nombre": "TUBO ENDOTRAQUEAL  N° 3.5 CON BALON DESC.EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 7,
+  "Nombre": "TUBO ENDOTRAQUEAL  4 MM DIAM.INT.(N°16) CON BALON DESC. EST.                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 8,
+  "Nombre": "TUBO ENDOTRAQUEAL  4.5 MM DIAM.INT.(N°18) CON BALON DESC.EST.                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 9,
+  "Nombre": "TUBO ENDOTRAQUEAL  5 MM DIAM.INT.(N°20) CON BALON DESC.EST.                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 10,
+  "Nombre": "TUBO ENDOTRAQUEAL  5.5 MM DIAM.INT.(N 22) CON BALON DESC.EST.                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 11,
+  "Nombre": "TUBO ENDOTRAQUEAL  6 MM DIAM.INT.(N 24) CON BALON DESC.EST.                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 12,
+  "Nombre": "TUBO ENDOTRAQUEAL 6.5 MM DIAM.INT.(Nº26)CON BALON DESC. EST.                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 13,
+  "Nombre": "TUBO ENDOTRAQUEAL  7 MM DIAM.INT.(N 28) CON BALON DESC.EST.                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 14,
+  "Nombre": "TUBO ENDOTRAQUEAL 7.5 MM DIAM.INT.(N°30) CON BALON DESC.EST.                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 15,
+  "Nombre": "TUBO ENDOTRAQUEAL  8 MM DIAM.INT.(Nº32) CON BALON DESC.EST.                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 40,
+  "Nombre": "TUBO ENDOTRAQUEAL ESPIRALADO 6,5 MM DESC. EST.SIN BALON                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 47,
+  "Nombre": "TUBO ENDOTRAQUEAL Nº 3,5 SIN BALON DESC. EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 48,
+  "Nombre": "TUBO ENDOTRAQUEAL Nº4 MM DIAM.INT.(Nº12)SIN BALON DESC.EST.                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 49,
+  "Nombre": "TUBO ENDOTRAQUEAL 4,5MM DIAM.INT.(Nº18) SIN BALON DESC.EST.                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 50,
+  "Nombre": "TUBO ENDOTRAQUEAL Nº5 DIAM.INT.(Nº2O)SIN BALON DESC.EST.                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 51,
+  "Nombre": "TUBO ENDOTRAQUEAL Nº 5,5 DIAM.INT.(Nº22) SIN BALON DESC.EST.                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 52,
+  "Nombre": "TUBO ENDOTRAQUEAL Nº6 DIAM.INT.(Nº24) SIN BALON DESC.EST.                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 53,
+  "Nombre": "TUBO ENDOTRAQUEAL Nº6,5 DIAM.INT.(Nº26)SIN BALON DESC.EST.                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 54,
+  "Nombre": "TUBO ENDOTRAQUEAL Nº7 DIAM.INT. (Nº28)SIN BALON DESC.EST.                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 61,
+  "Nombre": "TUBO ENDOTRAQUEAL ESPIRALADO 4,0 MM DESC. EST. CON BALON                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 73,
+  "Nombre": "TUBO ENDOTRAQUEAL ESPIRALADO 4.5 MM CON BALON EST.                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 74,
+  "Nombre": "TUBO ENDOTRAQUEAL ESPIRALADO 5 MM CON BALON EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 76,
+  "Nombre": "TUBO ENDOTRAQUEAL ESPIRALADO 6 MM CON BALON EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 77,
+  "Nombre": "TUBO ENDOTRAQUEAL ESPIRALADO 6.5 MM CON BALON EST.                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 79,
+  "Nombre": "TUBO ENDOTRAQUEAL ESPIRALADO 7.5 MM CON BALON EST.                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 84,
+  "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCION DERECHA Nº26                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 85,
+  "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCION DERECHA Nº28                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 90,
+  "Nombre": "TUBO ENDOTRAQUEAL 3 MM DIAM. INT. (N°12)S\/BALON DESC EST.                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120011",
+  "SbIn": 7,
+  "Nombre": "MICRONEBULIZADOR ADULTO C\/MASCARA Y TUBULADURA                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032120011",
+  "SbIn": 8,
+  "Nombre": "MICRONEBULIZADOR PEDIATRICO C\/MASCARA Y TUBULADURA                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120011",
+  "SbIn": 9,
+  "Nombre": "MICRONEBULIZADOR NEONATAL C\/MASCARA Y TUBULADURA                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120012",
+  "SbIn": 1,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº0                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032120012",
+  "SbIn": 2,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº00                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032120012",
+  "SbIn": 5,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº3                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032120012",
+  "SbIn": 6,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº4 (110 MM LONGITUD)                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120012",
+  "SbIn": 7,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº5 (120 MM LONGITUD)                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 1,
+  "Nombre": "MASCARA LARINGEA N 3                                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 3,
+  "Nombre": "MASCARA LARINGEA N 5                                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 10,
+  "Nombre": "MASCARA LARINGEA Nº1                                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 11,
+  "Nombre": "MASCARA LARINGEA Nº1,5                                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 12,
+  "Nombre": "MASCARA LARINGEA Nº2                                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 13,
+  "Nombre": "MASCARA LARINGEA Nº 2,5                                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 29,
+  "Nombre": "MASCARA LARINGEA Nº 1 REUTILIZABLE                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 30,
+  "Nombre": "MASCARA LARINGEA Nº 1,5 REUTILIZABLE                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 31,
+  "Nombre": "MASCARA LARINGEA Nº2 REUTILIZABLE                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 32,
+  "Nombre": "MASCARA LARINGEA Nº 2,5 REUTILIZABLE                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 33,
+  "Nombre": "MASCARA LARINGEA Nº3 REUTILIZABLE                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 34,
+  "Nombre": "MASCARA LARINGEA Nº 4 REUTILIZABLE                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 35,
+  "Nombre": "MASCARA LARINGEA Nº 5 REUTILIZABLE                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032120016",
+  "SbIn": 1,
+  "Nombre": "FILTRO HUMIDIF P\/RESP ANTIBACT\/VIRAL ADULTO                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120016",
+  "SbIn": 11,
+  "Nombre": "FILTRO P\/TRAQUEOTOMIA                                                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 2,
+  "Nombre": "CANULA DE C.P.A.P RCI PEDIAT. NASAL Nº 1                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 3,
+  "Nombre": "CANULA DE C.P.A.P RCI PEDIAT. NASAL Nº 2                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 4,
+  "Nombre": "CANULA DE C.P.A.P RCI PEDIAT. NASAL Nº 3                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 5,
+  "Nombre": "CANULA DE C.P.A.P RCI PEDIAT. NASAL Nº 4                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 6,
+  "Nombre": "CANULA DE C.P.A.P RCI PEDIAT. NASAL Nº 5                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 10,
+  "Nombre": "CIRCUITO CERRADO DE ASPIRACION POR TRAQUEOTOMIA                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 16,
+  "Nombre": "SISTEMA DE C.P.A.P NASAL NEONATAL Nº00                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 17,
+  "Nombre": "CIRCUITO CERRADO DE EXTRACCION DE MUCUS 16 F TIPO TRANCHCARE                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 24,
+  "Nombre": "SISTEMA CERRADO DE ASPIRACIÓN NEONATAL 8 Fr                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 25,
+  "Nombre": "SISTEMA CERRADO DE ASPIRACIÓN NEONATAL 5 Fr                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 26,
+  "Nombre": "SISTEMA CERRADO DE ASPIRACIÓN NEONATAL 6 Fr                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 27,
+  "Nombre": "SISTEMA CERRADO DE ASPIRACIÓN NEONATAL 10 Fr                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 33,
+  "Nombre": "SISTEMA DE C.P.A.P NASAL NEONATAL  Nº 1 DE 1000 A 1500 G Ó 10 F                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 34,
+  "Nombre": "SISTEMA DE C.P.A.P NASAL NEONATAL Nº 2 DE 1500 A 2000G Ó 12F                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032120020",
+  "SbIn": 35,
+  "Nombre": "SISTEMA CERRADO  DE ASPIRACIÓN 12 FR                                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120031",
+  "SbIn": 2,
+  "Nombre": "SUJETADOR DE TUBO ENDOTRAQUEAL (MORDILLO)                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120031",
+  "SbIn": 15,
+  "Nombre": "SUJETADOR DE TUBO ENDOTRAQUEAL NEONATAL                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032120033",
+  "SbIn": 3,
+  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 0,50MM X 1MT                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120033",
+  "SbIn": 4,
+  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 0,75MM X 1MT                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120033",
+  "SbIn": 5,
+  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 1MM X 1MT                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032120035",
+  "SbIn": 6,
+  "Nombre": "SISTEMA DE VENTILACIÓN NO INVASIVA NASAL PEDIÁTRICO DE SILICONA"
+ },
+ {
+  "Insumo": "032120035",
+  "SbIn": 7,
+  "Nombre": "SISTEMA DE VENTILACIÓN NO INVASIVA BUCONASAL"
+ },
+ {
+  "Insumo": "032120042",
+  "SbIn": 11,
+  "Nombre": "CONECTOR MASCARILLA-RESPIRADOR DE SILICONA (TIPO DRAGUER)DESC.                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032120042",
+  "SbIn": 12,
+  "Nombre": "MASCARILLA DE SILICONA NEONATAL PARA CÁNULA NASAL DE CAPS DESC.                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032120042",
+  "SbIn": 13,
+  "Nombre": "BIGOTERA DE SILCONA NEONATAL PARA CÁNULA NASAL DE CPAP DESC.(TIPO DAGUER)                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032120042",
+  "SbIn": 14,
+  "Nombre": "GORRO Y ARNÉS P\/ CÁNULA NASAL DE CPAP (TIPO DRAGUER)                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032120046",
+  "SbIn": 1,
+  "Nombre": "MASC.INTERF.ORONASAL DE VENTILACION NO INVASIVA GRANDE                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032120046",
+  "SbIn": 2,
+  "Nombre": "MASC.INTERF.ORONASAL DE VENTILACION NO INVASIVA MEDIANA                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032120046",
+  "SbIn": 3,
+  "Nombre": "MASC.INTERF.ORONASAL DE VENTILACION NO INVASIVA CHICA                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032123001",
+  "SbIn": 2,
+  "Nombre": "SET P\/NEBULIZ. T\/PARY (MASCARA,PIPETA,CAMARA,TUBULADURA)                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032123001",
+  "SbIn": 3,
+  "Nombre": "SET P\/NEBULIZ.T\/PARY BABY(MASCARA,PIPETA,CAMARA,TUBULADURA)                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032123001",
+  "SbIn": 6,
+  "Nombre": "PIPETA NEBULIZADORA DESCARTABLE C\/MASCARA PEDIATRICA(T\/PARI)                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032123001",
+  "SbIn": 7,
+  "Nombre": "PIPETA NEBULIZADORA DESCARTABLE BUCAL(T\/PARI)                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032130001",
+  "SbIn": 1,
+  "Nombre": "BOLSA DE COLOSTOMIA AUTOADHESIVA C\/FILTRO Y DIAM.RECORTABLE OPACA                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032130001",
+  "SbIn": 5,
+  "Nombre": "BOLSA DE COLOS.AUTOADHE.C\/FILTRO Y DIAM. RECORTABLE PEDIATRICAS                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032130001",
+  "SbIn": 6,
+  "Nombre": "BOLSA DE COLOST.AUTOADHE. C\/FILTRO Y DIAM. RECORTABLE NEONATAL                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032130001",
+  "SbIn": 12,
+  "Nombre": "BOLSA COLOSTOMIA NEONATAL DRENABLE DE 2 PIEZAS DE 25MM C\/FILTRO Y CIERRE ESCONDIDO                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032130001",
+  "SbIn": 13,
+  "Nombre": "BARRERA CUTANEA DE HIDROCOLOIDE, PLANA, RECORTABLE, CON ARO DE ACOPLE DE 25MM                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032130003",
+  "SbIn": 3,
+  "Nombre": "SONDA DE SENGSTAKEN BLAKMORE  C\/BALON N°14 EST.                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032130006",
+  "SbIn": 1,
+  "Nombre": "SONDA (TIPO K 9) P\/INTUBACION GASTRICA LONG.125 CM X 4 MM DIAM.EXT.APROX.EST.                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032130006",
+  "SbIn": 2,
+  "Nombre": "SONDA (TIPO K 10) P\/INTUBACION GASTRICA LONG.125 CM X 5.3 MM DIAM.EXT.APROX.EST.                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032130006",
+  "SbIn": 3,
+  "Nombre": "SONDA (TIPO K 11) P\/INTUBACION GASTRICA LONG.125 CM X 6.0 MM DIAM.EXT.APROX.EST.                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032130007",
+  "SbIn": 9,
+  "Nombre": "SONDA P\/NUTRICION ENTERAL P\/GASTROSTOMIA 14 FR C\/BALON 100% SILICONA                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032130007",
+  "SbIn": 10,
+  "Nombre": "SONDA P\/NUTRICION ENTERAL P\/GASTROSTOMIA 16 FR C\/BALON 100% SILICONA                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032130007",
+  "SbIn": 11,
+  "Nombre": "SONDA P\/NUTRICION ENTERAL P\/GASTROSTOMIA 18 FR C\/BALON 100% SILICONA                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032130008",
+  "SbIn": 3,
+  "Nombre": "SONDA RECTAL Nº12 DE GOMA                                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032130008",
+  "SbIn": 5,
+  "Nombre": "SONDA RECTAL N 16 DE GOMA                                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032130008",
+  "SbIn": 6,
+  "Nombre": "SONDA RECTAL Nº18 DE GOMA                                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032130008",
+  "SbIn": 7,
+  "Nombre": "SONDA RECTAL N 20 DE GOMA                                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032130008",
+  "SbIn": 8,
+  "Nombre": "SONDA RECTAL Nº22 DE GOMA                                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032130008",
+  "SbIn": 9,
+  "Nombre": "SONDA RECTAL N 24 DE GOMA                                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032130016",
+  "SbIn": 18,
+  "Nombre": "BALON P\/DILATACION ESOFAGICO 2CM DIAM.                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032130016",
+  "SbIn": 22,
+  "Nombre": "BALON DE SEPTOSTOMIA Z5"
+ },
+ {
+  "Insumo": "032130018",
+  "SbIn": 4,
+  "Nombre": "ASAS DE POLIPECTOMIAS TIPO JUMBO OVAL 7 FR X 240 CM                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032130020",
+  "SbIn": 2,
+  "Nombre": "BOTON GASTRICO MEDIDAS VARIAS EN FR                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032130020",
+  "SbIn": 5,
+  "Nombre": "SET DE EXTENSION P\/BOTON GASTRICO                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032130024",
+  "SbIn": 1,
+  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 6 FR.                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032130024",
+  "SbIn": 6,
+  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 8 FR                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032130024",
+  "SbIn": 7,
+  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 10 FR.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032130027",
+  "SbIn": 1,
+  "Nombre": "SET ESCLEROSIS VARICES ESOFAGICAS                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032130028",
+  "SbIn": 6,
+  "Nombre": "CLIPS PREMONTADOS PARA CLIPADORA TIPO RESOLUTION                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032130029",
+  "SbIn": 1,
+  "Nombre": "STENT BILIAR TIPO TENNENBAUM                                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032130030",
+  "SbIn": 3,
+  "Nombre": "GUIA P\/BOMBA DE ALIMENTACION TIPO KANGAROO                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032130033",
+  "SbIn": 17,
+  "Nombre": "AGUJA PARA INYECCIÓN ENDOSCOPICA EN MUCOSA INTESTINAL 7 FR PARA CANAL DE TRABAJO DE 2.8 MM PARA POLIPEPTOMIA                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032130033",
+  "SbIn": 26,
+  "Nombre": "AGUJA PARA INYECCION ENDOSCOPICA EN MUCOSA INTESTINAL 7 FR PARA CANAL DE TRABAJO DE 1,8-2 MM PARA POLIPEPTOMIA\n"
+ },
+ {
+  "Insumo": "032130051",
+  "SbIn": 2,
+  "Nombre": "SONDA DE PHMETRIA 1 CANAL 6,4 FR 2,13MM APROX.                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032140002",
+  "SbIn": 6,
+  "Nombre": "CATETER ARTERIAL 3FR, 8CM DE LONG, AGUJA 20G,C\/GUIA RECTA, DE POLIURETANO DESC. ESTERIL                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032140006",
+  "SbIn": 2,
+  "Nombre": "INJERTO TISULAR PORCINO                                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032140007",
+  "SbIn": 2,
+  "Nombre": "HEMOFILTRO NEONATAL PRIME 14ML SUP. INTERCAMBIO 0,2-0,3 M2                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032140007",
+  "SbIn": 3,
+  "Nombre": "HEMOFILTRO PEDIATRICO PRIME 27ML SUP, INTERCAMBIO 0,6-0,75M2                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032141001",
+  "SbIn": 7,
+  "Nombre": "OXIGENADOR ADULTO DE MEMBRANA C\/RESERVORIO VENOSO RIGIDO Y PACK DE TUBULADURAS, FLUJO MAXIMO DE SANGRE 7LT\/MIN, SALIDA ARTERIAL 3\/8\"-RETORNO VENOSO 1\/2\"                                                                                                      "
+ },
+ {
+  "Insumo": "032141001",
+  "SbIn": 8,
+  "Nombre": "OXIGENADOR PEDIATRICO DE MEMBRANA C\/RESERVORIO VENOSO RIGIDO Y PACK DE TUBULADURAS, FLUJO MAXIMO DE SANGRE 4-5 LT\/MIN, SALIDA ARTERIAL 3\/8\"-RETORNOSO 3\/8\" O 1\/2\"                                                                                             "
+ },
+ {
+  "Insumo": "032141001",
+  "SbIn": 9,
+  "Nombre": "OXIGENADOR INFANTIL DE MEMBRANA C\/RESERVORIO VENOSO RIGIDO Y PACK DE TUBULADURAS, FLUJO MAXIMO DE SANGRE 2,5-3LT\/MIN, SALIDA ARTERIAL 1\/4\"-RETORNO VENOSO 3\/8\"                                                                                                "
+ },
+ {
+  "Insumo": "032141001",
+  "SbIn": 11,
+  "Nombre": "OXIGENADOR NEONATAL DE MEMBRANA C\/RESERVORIO VENOSO RIGIDO Y PACK DE TUBULADURAS, FLUJO MINIMO DE SANGRE 1000ML\/MIN, SALIDA ARTERIAL 3\/16\"-RETORNO VENOSO 1\/4\"                                                                                                "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 25,
+  "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 18 FR                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 26,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA) METALICA 28 FR EST.                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 27,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA) METALICA 30 FR EST.                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 33,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 18FR C\/CONECTOR DE 3\/8                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 34,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 20FR C\/CONECTOR DE 3\/8                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 36,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 8FR C\/CONECTOR DE 1\/4EST.                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 37,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 10FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 38,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 12FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 39,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 14FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 40,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 16FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 41,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 22FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 42,
+  "Nombre": "CANULA VENOSA RECTA 12 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 43,
+  "Nombre": "CANULA VENOSA RECTA 14 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 44,
+  "Nombre": "CANULA VENOSA RECTA 16 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 45,
+  "Nombre": "CANULA VENOSA RECTA 18 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 46,
+  "Nombre": "CANULA VENOSA RECTA 18 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 47,
+  "Nombre": "CANULA VENOSA RECTA 20 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 48,
+  "Nombre": "CANULA VENOSA RECTA 22 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 49,
+  "Nombre": "CANULA VENOSA RECTA 24 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 50,
+  "Nombre": "CANULA VENOSA RECTA 26 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 52,
+  "Nombre": "CANULA VENOSA RECTA 30 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 53,
+  "Nombre": "CANULA VENOSA RECTA 32 FR C\/CONECTOR DE 3\/8 EST                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 54,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 12 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 55,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 14 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 56,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 16 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 57,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 18 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 58,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 20 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 60,
+  "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 24 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 62,
+  "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 10 FR                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 63,
+  "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 13 FR                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 64,
+  "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 16 FR                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 74,
+  "Nombre": "SET P\/ADMINISTRACION DE CARDIOPLEGIA SANGUINEA NEONATAL                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 75,
+  "Nombre": "SET P\/ADMINISTRACION DE CARDIOPLEGIA SANGUINEA PEDIATRICO                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 83,
+  "Nombre": "SET P\/OXIGENACION POR MEMBRANA EXTRACORPOREA  (ECMO)"
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 90,
+  "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 4 MM TIP\n"
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 91,
+  "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 6 MM TIP\n"
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 92,
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 6 FR C\/CONECTOR DE 1\/4 EST.\n"
+ },
+ {
+  "Insumo": "032142001",
+  "SbIn": 13,
+  "Nombre": "PROTESIS VASCULAR EPTF 18 MM X 30 CM EST.                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032142001",
+  "SbIn": 17,
+  "Nombre": "PROTESIS VASCULAR EPTF 16 MM X 40 CM EST.                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032142001",
+  "SbIn": 18,
+  "Nombre": "PROTESIS VASCULAR EPTF  5 MM X 40 CM EST.                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032142001",
+  "SbIn": 21,
+  "Nombre": "PROTESIS VASCULAR EPTF 16 MM X 20 CM EST.\n"
+ },
+ {
+  "Insumo": "032142001",
+  "SbIn": 22,
+  "Nombre": "PROTESIS VASCULAR EPTF 18 MM X 20 CM EST.\n"
+ },
+ {
+  "Insumo": "032142003",
+  "SbIn": 3,
+  "Nombre": "PROTESIS VASCULAR EPTF EXPANDIDO 3,5 MM CON HEPARINA                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032142003",
+  "SbIn": 4,
+  "Nombre": "PROTESIS VASCULAR EPTF EXPANDIDO 4 MM CON HEPARINA                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032142003",
+  "SbIn": 7,
+  "Nombre": "PROTESIS VASCULAR EPTF EXPANDIDO 20 MM ESPIRALADO                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032142006",
+  "SbIn": 1,
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR ARTERIAL MINI 1,00 X 1,40 ROJA                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032142006",
+  "SbIn": 2,
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR VENOSO MINI 1,00 X 1,40                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032142006",
+  "SbIn": 3,
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR ARTERIAL MAXI 1,20 X 2,40                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032142006",
+  "SbIn": 4,
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR VENOSO MAXI 1,20 X 2,40                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032142006",
+  "SbIn": 5,
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION NERVIOSA MAXI 1,20 X 2,40 BLANCA                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032142006",
+  "SbIn": 6,
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION NERVIOSA MINI 1,00 X 1,40 BLANCA                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032150023",
+  "SbIn": 11,
+  "Nombre": "MASCARILLA P\/ENDOSCOPIA CON MEMBRANA DE 3 MM                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032150023",
+  "SbIn": 12,
+  "Nombre": "MASCARILLA P\/ENDOSCOPIA CON MEMBRANA DE 5 MM                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032150026",
+  "SbIn": 2,
+  "Nombre": "MONOPERSULFATO DE POTASIO 20% X 500 GRS.                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032170003",
+  "SbIn": 7,
+  "Nombre": "CATETER PERIFERICO P\/HEMODIALISIS 8 FR 2L 9 CM TIPO QUINTON                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032170003",
+  "SbIn": 8,
+  "Nombre": "CATETER PERIFERICO P\/HEMODIALISIS 11,5 FR 2L 19,5 CM TIPO QUINTON                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032170003",
+  "SbIn": 9,
+  "Nombre": "CATETER PERIFERICO P\/HEMODIALISIS 12 FR 2L 16 CM TIPO QUINTON                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032170006",
+  "SbIn": 4,
+  "Nombre": "GUIA ARTERIAL PARA HEMODIALISIS PEDIATRICA C\/ FLUBARRIER DESC EST                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032170006",
+  "SbIn": 5,
+  "Nombre": "GUIA VENOSA PARA HEMODIALISIS PEDIATRICA C\/ FLUBARRIER DESC EST                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032170009",
+  "SbIn": 3,
+  "Nombre": "PINZA DE SUJECION P\/DIALISIS PERITONEAL AZUL                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032170010",
+  "SbIn": 9,
+  "Nombre": "SET DE TRANSFERENCIA P\/DIALISIS                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032170010",
+  "SbIn": 12,
+  "Nombre": "FILTRO PARA DIALISIS M100 (P\/EQUIPO PRISMAFLEX)                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032180007",
+  "SbIn": 20,
+  "Nombre": "CATETER VERTEBRAL DE 5FR                                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032180008",
+  "SbIn": 85,
+  "Nombre": "STENT CORONARIO 3.5 X 20"
+ },
+ {
+  "Insumo": "032180008",
+  "SbIn": 86,
+  "Nombre": "STENT CORONARIO 4.0 X 17"
+ },
+ {
+  "Insumo": "032180008",
+  "SbIn": 87,
+  "Nombre": "STENT CORONARIO 4.5 X 20"
+ },
+ {
+  "Insumo": "032180009",
+  "SbIn": 13,
+  "Nombre": "CUERDA AMPLATZ DE 0;35 MM X 1.5 M                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032180009",
+  "SbIn": 14,
+  "Nombre": "CUERDA AMPLATZ DE 0.35 MM X 2.6 M.                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032180009",
+  "SbIn": 40,
+  "Nombre": "CUERDA 0,035\" DE 150 CM HIDROFILICA                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032180009",
+  "SbIn": 51,
+  "Nombre": "CUERDA HIDROFILICA 0,025\" C\/CURVA DE 140 A 180 CM                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032180009",
+  "SbIn": 57,
+  "Nombre": "CUERDA HIDROFILICA 0,035 C\/CURVA DE 150 CM                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032180010",
+  "SbIn": 1,
+  "Nombre": "INSUFLADOR C\/MANOMETRO                                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032180016",
+  "SbIn": 4,
+  "Nombre": "JUEGO DE CATETER CORONARIO JR Y PIG TAIL DE 5 FR                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032180017",
+  "SbIn": 6,
+  "Nombre": "CATETER P\/ARTICUL VISCERAL COBRA 1 DE 5FR                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032180018",
+  "SbIn": 15,
+  "Nombre": "COIL 35\/ 7\/4"
+ },
+ {
+  "Insumo": "032180018",
+  "SbIn": 17,
+  "Nombre": "COIL 35\/ 7\/8"
+ },
+ {
+  "Insumo": "032180018",
+  "SbIn": 18,
+  "Nombre": "COIL 35\/ 7\/10"
+ },
+ {
+  "Insumo": "032180021",
+  "SbIn": 13,
+  "Nombre": "MICROCATETER 2,5 F"
+ },
+ {
+  "Insumo": "032180021",
+  "SbIn": 14,
+  "Nombre": "MICROCATETER 2,8 F"
+ },
+ {
+  "Insumo": "032180024",
+  "SbIn": 8,
+  "Nombre": "CATETER PERITONEAL HIDROCEFALIA TIPO HEYER-SCHULTE                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032180024",
+  "SbIn": 9,
+  "Nombre": "CATETER VENTRICULAR HIDROCEFALIA TIPO HEYER SHULTE                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032180029",
+  "SbIn": 1,
+  "Nombre": "GUIA HIDROFILICA PERCUTANEA                                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032180031",
+  "SbIn": 2,
+  "Nombre": "DRENAJE DE SILICONA CILINDRICO 15 FR X 40 CM LONGITUD SIN TROCAR"
+ },
+ {
+  "Insumo": "032180031",
+  "SbIn": 3,
+  "Nombre": "DRENAJE DE SILICONA CILINDRICO 19 FR X 40 CM LONGITUD SIN TROCAR"
+ },
+ {
+  "Insumo": "032180031",
+  "SbIn": 4,
+  "Nombre": "DRENAJE VENTRICULAR EXTERNO                                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032180031",
+  "SbIn": 5,
+  "Nombre": "DRENAJE PLANO DE SILICONA DE 7 MM DESC EST                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032180036",
+  "SbIn": 1,
+  "Nombre": "CATETER MAMARIO DE 5FR                                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032180038",
+  "SbIn": 1,
+  "Nombre": "CATETER PIG TAIL CON MARCAS RADIOPACAS DE 5 FR                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032180050",
+  "SbIn": 2,
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 6F                                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032180050",
+  "SbIn": 3,
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 4F"
+ },
+ {
+  "Insumo": "032180050",
+  "SbIn": 4,
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 5F"
+ },
+ {
+  "Insumo": "032200002",
+  "SbIn": 2,
+  "Nombre": "VALVULA DE DERIVACION VENTRICULO PERITONEAL DE DIFERENTES PRESIONES (ALTA, MEDIA, BAJA)                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032200002",
+  "SbIn": 4,
+  "Nombre": "PASAVALVULA METALICO C\/OLIVA Y MANGUITO NO METALICO PEDIATRICO                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032200002",
+  "SbIn": 5,
+  "Nombre": "PASAVALVULA METALICO C\/OLIVA Y MANGUITO NO METALICO ADULTO                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032200002",
+  "SbIn": 7,
+  "Nombre": "VALVULA P\/HIDROCEFALIA NEONATAL PRESION MEDIA FIJA                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032200002",
+  "SbIn": 8,
+  "Nombre": "VALVULA P\/HIDROCEFALIA AUTORREGULABLE C\/SIST.ANTI-SIFON                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032200003",
+  "SbIn": 1,
+  "Nombre": "CAPTOR DE P°INTRACRANEANA (TORNILLO SUBARACNOIDEO) T\/CAMINO                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032200006",
+  "SbIn": 4,
+  "Nombre": "SISTEMA DE LAZO ENDOVASCULAR                                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032200010",
+  "SbIn": 1,
+  "Nombre": "ADHESIVO BIOLOGICO 2 COMPONENTES                                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032200010",
+  "SbIn": 2,
+  "Nombre": "ADHESIVO SINTETICO 2 COMPONENTESPOLVO DE ESTER DE PEG ACTIVADO Y PEI)                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032220001",
+  "SbIn": 1,
+  "Nombre": "COLLAR CERVICAL TIPO PHILADELPHIA CHICO                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032220001",
+  "SbIn": 2,
+  "Nombre": "COLLAR CERVICAL TIPO PHILADELPHIA MEDIANO                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032220001",
+  "SbIn": 3,
+  "Nombre": "COLLAR CERVICAL TIPO PHILADELPHIA GRANDE                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032220009",
+  "SbIn": 1,
+  "Nombre": "CLAVO STEINMAN 3 MM X 30 CM                                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032220009",
+  "SbIn": 4,
+  "Nombre": "CLAVO STEINMAN 5 MM X 30 CM                                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032220009",
+  "SbIn": 7,
+  "Nombre": "CLAVO STEINMAN 3 MM X 50 CM                                                                                                                                                                                                                                   "
+ },
+ {
+  "Insumo": "032220011",
+  "SbIn": 5,
+  "Nombre": "CLAVO KUNTSCHER  7 MM X 35 CM LONGITUD                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032220011",
+  "SbIn": 6,
+  "Nombre": "CLAVO KUNTSCHER  8 MM X 35 CM LONGITUD                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032220011",
+  "SbIn": 7,
+  "Nombre": "CLAVO KUNTSCHER  9 MM X 35 CM LONGITUD                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032220011",
+  "SbIn": 8,
+  "Nombre": "CLAVO KUNTSCHER 10 MM X 35 CM LONGITUD                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032220051",
+  "SbIn": 1,
+  "Nombre": "TUBOS DE VENTILACION TRANSTIMPANICOS EN T                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032220051",
+  "SbIn": 2,
+  "Nombre": "TUBO DE VENTILACION TRANSTIMPANICA PAPARELLA                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032220058",
+  "SbIn": 2,
+  "Nombre": "CLAVO KIRSCHNER DE ACERO INOXIDABLE 1 MM X 25 C                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032220058",
+  "SbIn": 3,
+  "Nombre": "CLAVO KIRSCHNER DE ACERO INOXIDABLE 1,5MM X 20CM                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032220058",
+  "SbIn": 5,
+  "Nombre": "CLAVO KIRSCHNER DE ACERO INOXIDABLE 2,5MM X 25CM                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032230002",
+  "SbIn": 2,
+  "Nombre": "BOLSA PLASTICA C\/VALVULA DE DESAGOTE Y ANTIREFLUJO CAP. 2 L P\/RECOLEC.ORINA EST. FONDO BLANCO                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230002",
+  "SbIn": 4,
+  "Nombre": "SISTEMA CERRADO DE RECOLECCION DE ORINA NEONATAL 4F                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 1,
+  "Nombre": "SONDA DE FOLEY Nº 8 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 2,
+  "Nombre": "SONDA DE FOLEY N 10 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 3,
+  "Nombre": "SONDA DE FOLEY Nº12 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 4,
+  "Nombre": "SONDA DE FOLEY Nº14 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 5,
+  "Nombre": "SONDA DE FOLEY Nº16 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 6,
+  "Nombre": "SONDA DE FOLEY Nº18 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 8,
+  "Nombre": "SONDA DE FOLEY Nº22 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 9,
+  "Nombre": "SONDA DE FOLEY N°24 DOBLE VIA BALON 5\/15 EST.                                                                                                                                                                                                                 "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 14,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VIA N°16 C\/BALON                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 15,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VIA N°18 C\/BALON                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 16,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VIA N°20 C\/BALON                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 17,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VIA N°8 C\/BALON                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 18,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VIA N°10 C\/BALON                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 19,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VÍA Nº12 C\/BALON                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 20,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VÍA Nº14 C\/BALÓN                                                                                                                                                                                                              "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 21,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VÍA Nº6 C\/BALÓN 5\/15                                                                                                                                                                                                          "
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 22,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VÍA Nº22 C\/BALÓN 5\/15 EST.                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032230006",
+  "SbIn": 1,
+  "Nombre": "BROCAL CON TAPA                                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032230008",
+  "SbIn": 1,
+  "Nombre": "BOLSA UROSTOMIA                                                                                                                                                                                                                                               "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 7,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 10 CM EST.                                                                                                                                                                                                                  "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 8,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 12 CM DESC EST.                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 9,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 14 CM DESC EST.                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 10,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 20 CM DESC EST.                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 12,
+  "Nombre": " CATETER URETERAL PIGTAIL 4,8 FR X 16 CM                                                                                                                                                                                                                      "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 14,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 22 CM DESC EST.                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 15,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 26 CM DESC EST.                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032230009",
+  "SbIn": 17,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 18 CM DESC. EST. \n"
+ },
+ {
+  "Insumo": "032230011",
+  "SbIn": 3,
+  "Nombre": "SET DE PUNCION SUPRAPUBICA 10 FR SILICONA                                                                                                                                                                                                                     "
+ },
+ {
+  "Insumo": "032230015",
+  "SbIn": 4,
+  "Nombre": "SET DE NEFROSTOMIA PERCUTANEO 8 FR                                                                                                                                                                                                                            "
+ },
+ {
+  "Insumo": "032230015",
+  "SbIn": 5,
+  "Nombre": "SET DE NEFROSTOMIA PERCUTANEO 10 FR                                                                                                                                                                                                                           "
+ },
+ {
+  "Insumo": "032250002",
+  "SbIn": 1,
+  "Nombre": "SUSTANCIA VISCOELASTICA O ENDOGEL                                                                                                                                                                                                                             "
+ },
+ {
+  "Insumo": "032250003",
+  "SbIn": 1,
+  "Nombre": "AZUL DE TRIPAN                                                                                                                                                                                                                                                "
+ },
+ {
+  "Insumo": "032251002",
+  "SbIn": 4,
+  "Nombre": "ACEITE DE SILICONA 5000                                                                                                                                                                                                                                       "
+ },
+ {
+  "Insumo": "032252001",
+  "SbIn": 2,
+  "Nombre": "LENTE INTRAOCULAR PLEGABLE                                                                                                                                                                                                                                    "
+ },
+ {
+  "Insumo": "032260002",
+  "SbIn": 1,
+  "Nombre": "CLIPS DE TITANIO TIPO LIGACLIPS LT 300                                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032260002",
+  "SbIn": 2,
+  "Nombre": "CLIPS DE TITANIO TIPO LIGACLIPS LT400                                                                                                                                                                                                                         "
+ },
+ {
+  "Insumo": "032270002",
+  "SbIn": 2,
+  "Nombre": "APOSITO DE COLAGENO BOVINO 10 X 10 CM (TIPO MEMBRACEL)                                                                                                                                                                                                        "
+ },
+ {
+  "Insumo": "032300001",
+  "SbIn": 1,
+  "Nombre": "SACABOCADO P\/DERMATOLOGIA 2 MM DESC.."
+ },
+ {
+  "Insumo": "032300001",
+  "SbIn": 2,
+  "Nombre": "SACABOCADO P\/DERMATOLOGIA 3 MM DESC.."
+ },
+ {
+  "Insumo": "034160026",
+  "SbIn": 5,
+  "Nombre": "LANCETA AUTOMATICA DESCARTABLE TAMBOR"
+ },
+ {
+  "Insumo": "034170012",
+  "SbIn": 1,
+  "Nombre": "ENVASE ESTERIL P\/RECOLECCION DE MUESTRA 500 CC"
+ }
+]
