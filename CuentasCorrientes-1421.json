@@ -676,19 +676,19 @@
   "Insumo": "032070006",
   "SbIn": 2,
   "Nombre": "GUIA ESTERIL MICROGOTERO C\/CAMARA GRAD.100 ML S\/A                                                                                                                                                                                                             ",
-  "Cuerpo": 43
+  "Cuerpo": 42
  },
  {
   "Insumo": "032070006",
   "SbIn": 3,
   "Nombre": "GUIA ESTERIL MICROGOTERO FOTOSENSIBLE OPACA S\/AGUJA                                                                                                                                                                                                           ",
-  "Cuerpo": 43
+  "Cuerpo": 42
  },
  {
   "Insumo": "032070006",
   "SbIn": 4,
   "Nombre": "GUIA ESTERIL MACROGOTERO S\/FILTRO Y S\/AGUJA                                                                                                                                                                                                                   ",
-  "Cuerpo": 43
+  "Cuerpo": 42
  },
  {
   "Insumo": "032070006",
@@ -1067,12 +1067,14 @@
  {
   "Insumo": "032080019",
   "SbIn": 10,
-  "Nombre": "PARCHE VASCULAR INTRACARDIACO DE EPTF 0,1MM X 12CM X12CM                                                                                                                                                                                                      "
+  "Nombre": "PARCHE VASCULAR INTRACARDIACO DE EPTF 0,1MM X 12CM X12CM                                                                                                                                                                                                      ",
+  "Cuerpo": 43
  },
  {
   "Insumo": "032080019",
   "SbIn": 12,
-  "Nombre": "PARCHE PERICARDIO BOVINO DESCELULARIZADO POR FOTOOXIDACION ANTICALCIFICANTE SIN GLUTARALDEHIDO 6 CM X 8 CM\n"
+  "Nombre": "PARCHE PERICARDIO BOVINO DESCELULARIZADO POR FOTOOXIDACION ANTICALCIFICANTE SIN GLUTARALDEHIDO 6 CM X 8 CM\n",
+  "Cuerpo": 43
  },
  {
   "Insumo": "032080021",
@@ -2450,187 +2452,187 @@
   "Insumo": "032141005",
   "SbIn": 25,
   "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 18 FR                                                                                                                                                                                                                     ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 26,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA) METALICA 28 FR EST.                                                                                                                                                                                                               ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 27,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA) METALICA 30 FR EST.                                                                                                                                                                                                               ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 33,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 18FR C\/CONECTOR DE 3\/8                                                                                                                                                                                            ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 34,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 20FR C\/CONECTOR DE 3\/8                                                                                                                                                                                            ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 36,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 8FR C\/CONECTOR DE 1\/4EST.                                                                                                                                                                                         ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 37,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 10FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 38,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 12FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 39,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 14FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 40,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 16FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                       ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 41,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 22FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                       ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 42,
   "Nombre": "CANULA VENOSA RECTA 12 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 43,
   "Nombre": "CANULA VENOSA RECTA 14 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 44,
   "Nombre": "CANULA VENOSA RECTA 16 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 45,
   "Nombre": "CANULA VENOSA RECTA 18 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 46,
   "Nombre": "CANULA VENOSA RECTA 18 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 47,
   "Nombre": "CANULA VENOSA RECTA 20 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 48,
   "Nombre": "CANULA VENOSA RECTA 22 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 49,
   "Nombre": "CANULA VENOSA RECTA 24 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 50,
   "Nombre": "CANULA VENOSA RECTA 26 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 52,
   "Nombre": "CANULA VENOSA RECTA 30 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 53,
   "Nombre": "CANULA VENOSA RECTA 32 FR C\/CONECTOR DE 3\/8 EST                                                                                                                                                                                                               ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
   "SbIn": 54,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 12 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 55,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 14 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 56,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 16 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 57,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 18 FR C\/CONECTOR DE 1\/4 EST.                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 58,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 20 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 60,
   "Nombre": "CANULA VENOSA C\/TIP (PUNTA)METALICA 24 FR C\/CONECTOR DE 3\/8 EST.                                                                                                                                                                                              ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 62,
   "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 10 FR                                                                                                                                                                                                                     ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 63,
   "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 13 FR                                                                                                                                                                                                                     ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
   "SbIn": 64,
   "Nombre": "CANULA ASPIRACION CAVIDAD IZQUIERDA 16 FR                                                                                                                                                                                                                     ",
-  "Cuerpo": "41 o 42"
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
@@ -2650,65 +2652,68 @@
  {
   "Insumo": "032141005",
   "SbIn": 90,
-  "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 4 MM TIP\n"
+  "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 4 MM TIP\n",
+  "Cuerpo": 43
  },
  {
   "Insumo": "032141005",
   "SbIn": 91,
-  "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 6 MM TIP\n"
+  "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 6 MM TIP\n",
+  "Cuerpo": 43
  },
  {
   "Insumo": "032141005",
   "SbIn": 92,
-  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 6 FR C\/CONECTOR DE 1\/4 EST.\n"
+  "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 6 FR C\/CONECTOR DE 1\/4 EST.\n",
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142001",
   "SbIn": 13,
   "Nombre": "PROTESIS VASCULAR EPTF 18 MM X 30 CM EST.                                                                                                                                                                                                                     ",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142001",
   "SbIn": 17,
   "Nombre": "PROTESIS VASCULAR EPTF 16 MM X 40 CM EST.                                                                                                                                                                                                                     ",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142001",
   "SbIn": 18,
   "Nombre": "PROTESIS VASCULAR EPTF  5 MM X 40 CM EST.                                                                                                                                                                                                                     ",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142001",
   "SbIn": 21,
   "Nombre": "PROTESIS VASCULAR EPTF 16 MM X 20 CM EST.\n",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142001",
   "SbIn": 22,
   "Nombre": "PROTESIS VASCULAR EPTF 18 MM X 20 CM EST.\n",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142003",
   "SbIn": 3,
   "Nombre": "PROTESIS VASCULAR EPTF EXPANDIDO 3,5 MM CON HEPARINA                                                                                                                                                                                                          ",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142003",
   "SbIn": 4,
   "Nombre": "PROTESIS VASCULAR EPTF EXPANDIDO 4 MM CON HEPARINA                                                                                                                                                                                                            ",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142003",
   "SbIn": 7,
   "Nombre": "PROTESIS VASCULAR EPTF EXPANDIDO 20 MM ESPIRALADO                                                                                                                                                                                                             ",
-  "Cuerpo": "42 o 43"
+  "Cuerpo": 43
  },
  {
   "Insumo": "032142006",
