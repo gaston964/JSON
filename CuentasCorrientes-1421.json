@@ -3077,7 +3077,8 @@
  {
   "Insumo": "032200002",
   "SbIn": 2,
-  "Nombre": "VALVULA DE DERIVACION VENTRICULO PERITONEAL DE DIFERENTES PRESIONES (ALTA, MEDIA, BAJA)                                                                                                                                                                       "
+  "Nombre": "VALVULA DE DERIVACION VENTRICULO PERITONEAL DE DIFERENTES PRESIONES (ALTA, MEDIA, BAJA)",
+  "Cuerpo": 31
  },
  {
   "Insumo": "032200002",
