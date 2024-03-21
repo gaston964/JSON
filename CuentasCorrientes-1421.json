@@ -180,6 +180,12 @@
   "Cuerpo": 37
  },
  {
+  "Insumo": "032010017",
+  "SbIn": 8,
+  "Nombre": "GUANTE LIBRE DE LATEX Nº8 DESC.EST.                                                                                                                                                                                                                           ",
+  "Cuerpo": 37
+ },
+ {
   "Insumo": "032020001",
   "SbIn": 1,
   "Nombre": "ALGODON HIDROFILO PLEGADO X 400\/500 G                                                                                                                                                                                                                         ",
@@ -280,6 +286,12 @@
   "SbIn": 6,
   "Nombre": "ALGODON QUIRURG.C\/COLA RADIOPACA APROX.2,54 X 7,62 CM ESTERIL                                                                                                                                                                                                 ",
   "Cuerpo": 30
+ },
+ {
+  "Insumo": "032030001",
+  "SbIn": 1,
+  "Nombre": "HOJA DE BISTURI Nº 11 ESTERIL                                                                                                                                                                                                                                 ",
+  "Cuerpo": 38
  },
  {
   "Insumo": "032030001",
@@ -403,7 +415,7 @@
  {
   "Insumo": "032040010",
   "SbIn": 2,
-  "Nombre": "CATETER TELESCOPADO P\/TOMA DE MUESTRAS DE TET (Minibal)                                                                                                                                                                                                                 ",
+  "Nombre": "CATETER TELESCOPADO P\/TOMA DE MUESTRAS DE TET - Minibal                                                                                                                                                                                                               ",
   "Cuerpo": 33
  },
  {
@@ -542,6 +554,12 @@
  },
  {
   "Insumo": "032070002",
+  "SbIn": 1,
+  "Nombre": "AGUJA HIPODERMICA 13\/4 DESC.EST.                                                                                                                                                                                                                              ",
+  "Cuerpo": 27
+ },
+ {
+  "Insumo": "032070002",
   "SbIn": 2,
   "Nombre": "AGUJA HIPODERMICA 15\/5 DESC.EST.                                                                                                                                                                                                                              ",
   "Cuerpo": 27
@@ -621,13 +639,13 @@
  {
   "Insumo": "032070004",
   "SbIn": 17,
-  "Nombre": "CATETER EPICUTANEO NENONATAL DE 1FR 1 LUMEN                                                                                                                                                                                                                   ",
+  "Nombre": "CATETER EPICUTANEO NENONATAL DE 1FR 1 LUMEN - PERCUTANEO - PICC                                                                                                                                                                                                                   ",
   "Cuerpo": 33
  },
  {
   "Insumo": "032070004",
   "SbIn": 19,
-  "Nombre": "CATETER EPICUTANEO NENONATAL DE 2FR 2 LUMEN                                                                                                                                                                                                                   ",
+  "Nombre": "CATETER EPICUTANEO NENONATAL DE 2FR 2 LUMEN - PERCUTANEO - PICC                                                                                                                                                                                                                                        ",
   "Cuerpo": 33
  },
  {
@@ -701,6 +719,12 @@
   "SbIn": 20,
   "Nombre": "GUIA INFUSION MICROGOTERO P\/BOMBA 1642 ESTERIL                                                                                                                                                                                                                ",
   "Cuerpo": "Pallet 6"
+ },
+ {
+  "Insumo": "032070007",
+  "SbIn": 2,
+  "Nombre": "JERINGA   1 CC.TUBERCULINA S\/AGUJA. GRADUADA AL DECIMO.DESC.EST.                                                                                                                                                                                              ",
+  "Cuerpo": 1
  },
  {
   "Insumo": "032070007",
@@ -955,9 +979,14 @@
   "Cuerpo": 33
  },
  {
+  "Insumo": 32070016,
+  "SbIn": 15,
+  "Nombre": "CATETER PERIFERICO 2 FR 1 L 30 CM POLIURETANO LARGA PERMANENCIA - PICC"
+ },
+ {
   "Insumo": "032070016",
   "SbIn": 13,
-  "Nombre": "CATETER PERIFERICO 3 FR 1 L 65 CM LARGA PERMANECIA                                                                                                                                                                                                            ",
+  "Nombre": "CATETER PERIFERICO 3 FR 1 L 65 CM LARGA PERMANECIA - POWERPICC                                                                                                                                                                                                 ",
   "Cuerpo": 33
  },
  {
@@ -1131,6 +1160,12 @@
   "Insumo": "032090013",
   "SbIn": 2,
   "Nombre": "PAÑAL DESCARTABLE NIÑO CHICO CON GEL                                                                                                                                                                                                                          ",
+  "Cuerpo": 13
+ },
+ {
+  "Insumo": "032090013",
+  "SbIn": 3,
+  "Nombre": "PAÑAL DESCARTABLE NIÑO GRANDE CON GEL                                                                                                                                                                                                                         ",
   "Cuerpo": 13
  },
  {
@@ -1326,6 +1361,12 @@
  },
  {
   "Insumo": "032110002",
+  "SbIn": 1,
+  "Nombre": "PROLONGADOR TIPO PT 26 x 1.00 M                                                                                                                                                                                                                               ",
+  "Cuerpo": 21
+ },
+ {
+  "Insumo": "032110002",
   "SbIn": 13,
   "Nombre": "PROLONGADOR TIPO PT 16 x 1.00 M                                                                                                                                                                                                                               ",
   "Cuerpo": 21
@@ -1381,7 +1422,14 @@
  {
   "Insumo": "032110010",
   "SbIn": 1,
-  "Nombre": "CONECTOR RECTO P\/CATETER DE HIDROCEFALIA                                                                                                                                                                                                                      "
+  "Nombre": "CONECTOR RECTO P\/CATETER DE HIDROCEFALIA                                                                                                                                                                                                                      ",
+  "Cuerpo": 31
+ },
+ {
+  "Insumo": "032120001",
+  "SbIn": 12,
+  "Nombre": "AGUJA DE PUNCION RAQUIDEA 22 G 3 1\/2 X  2 PULGADAS                                                                                                                                                                                                            ",
+  "Cuerpo": 28
  },
  {
   "Insumo": "032120001",
@@ -1447,6 +1495,24 @@
   "Insumo": "032120003",
   "SbIn": 13,
   "Nombre": "CANULA DE TRAQUEOTOMIA N 2.5 DE SILICONA.DESC.EST.SIN BALON                                                                                                                                                                                                   ",
+  "Cuerpo": 15
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 14,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº4 DE SILICONA.DESC.EST.                                                                                                                                                                                                              ",
+  "Cuerpo": 15
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 15,
+  "Nombre": "CANULA DE TRAQUEOTOMIA Nº5 APROX DE SILICONA DESC. EST.                                                                                                                                                                                                       ",
+  "Cuerpo": 15
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 28,
+  "Nombre": "CANULA DE TRAQUEOTOMIA C\/BALON Y ASPIRACION SUBGLOTICA DESC.EST  Nº7                                                                                                                                                                                          ",
   "Cuerpo": 15
  },
  {
@@ -1913,31 +1979,31 @@
  {
   "Insumo": "032120012",
   "SbIn": 1,
-  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº0                                                                                                                                                                                                                                ",
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº0  - CANULA DE MAYO                                                                                                                                                                                                                               ",
   "Cuerpo": 4
  },
  {
   "Insumo": "032120012",
   "SbIn": 2,
-  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº00                                                                                                                                                                                                                               ",
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº00 - CANULA DE MAYO                                                                                                                                                                                                                                        ",
   "Cuerpo": 4
  },
  {
   "Insumo": "032120012",
   "SbIn": 5,
-  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº3                                                                                                                                                                                                                                ",
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº3 - CANULA DE MAYO                                                                                                                                                                                                                                         ",
   "Cuerpo": 4
  },
  {
   "Insumo": "032120012",
   "SbIn": 6,
-  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº4 (110 MM LONGITUD)                                                                                                                                                                                                              ",
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº4 (110 MM LONGITUD) - CANULA DE MAYO                                                                                                                                                                                                                       ",
   "Cuerpo": 4
  },
  {
   "Insumo": "032120012",
   "SbIn": 7,
-  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº5 (120 MM LONGITUD)                                                                                                                                                                                                              ",
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº5 (120 MM LONGITUD) - CANULA DE MAYO                                                                                                                                                                                                                       ",
   "Cuerpo": 4
  },
  {
@@ -2120,6 +2186,12 @@
   "Cuerpo": 5
  },
  {
+  "Insumo": "032120020",
+  "SbIn": 36,
+  "Nombre": "SISTEMA CERRADO DE ASPIRACIÓN 14 FR                                                                                                                                                                                                                           ",
+  "Cuerpo": 5
+ },
+ {
   "Insumo": "032120031",
   "SbIn": 2,
   "Nombre": "SUJETADOR DE TUBO ENDOTRAQUEAL (MORDILLO)                                                                                                                                                                                                                     ",
@@ -2134,27 +2206,32 @@
  {
   "Insumo": "032120033",
   "SbIn": 3,
-  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 0,50MM X 1MT                                                                                                                                                                                                        "
+  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 0,50MM X 1MT                                                                                                                                                                                                        ",
+  "Cuerpo": 21
  },
  {
   "Insumo": "032120033",
   "SbIn": 4,
-  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 0,75MM X 1MT                                                                                                                                                                                                        "
+  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 0,75MM X 1MT                                                                                                                                                                                                        ",
+  "Cuerpo": 21
  },
  {
   "Insumo": "032120033",
   "SbIn": 5,
-  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 1MM X 1MT                                                                                                                                                                                                           "
+  "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 1MM X 1MT                                                                                                                                                                                                           ",
+  "Cuerpo": 21
  },
  {
   "Insumo": "032120035",
   "SbIn": 6,
-  "Nombre": "SISTEMA DE VENTILACIÓN NO INVASIVA NASAL PEDIÁTRICO DE SILICONA"
+  "Nombre": "SISTEMA DE VENTILACIÓN NO INVASIVA NASAL PEDIÁTRICO DE SILICONA",
+  "Cuerpo": 2
  },
  {
   "Insumo": "032120035",
   "SbIn": 7,
-  "Nombre": "SISTEMA DE VENTILACIÓN NO INVASIVA BUCONASAL"
+  "Nombre": "SISTEMA DE VENTILACIÓN NO INVASIVA BUCONASAL",
+  "Cuerpo": 2
  },
  {
   "Insumo": "032120042",
@@ -2288,6 +2365,12 @@
  },
  {
   "Insumo": "032130008",
+  "SbIn": 1,
+  "Nombre": "SONDA RECTAL N. 8 DE GOMA                                                                                                                                                                                                                                     ",
+  "Cuerpo": 17
+ },
+ {
+  "Insumo": "032130008",
   "SbIn": 3,
   "Nombre": "SONDA RECTAL Nº12 DE GOMA                                                                                                                                                                                                                                     ",
   "Cuerpo": 17
@@ -2355,17 +2438,20 @@
  {
   "Insumo": "032130024",
   "SbIn": 1,
-  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 6 FR.                                                                                                                                                                                                                  "
+  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 6 FR.                                                                                                                                                                                                                  ",
+  "Cuerpo": 17
  },
  {
   "Insumo": "032130024",
   "SbIn": 6,
-  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 8 FR                                                                                                                                                                                                                   "
+  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 8 FR                                                                                                                                                                                                                   ",
+  "Cuerpo": 17
  },
  {
   "Insumo": "032130024",
   "SbIn": 7,
-  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 10 FR.                                                                                                                                                                                                                 "
+  "Nombre": "SONDA TRANSPILORICA C\/MANDRIL Y LASTRE 10 FR.                                                                                                                                                                                                                 ",
+  "Cuerpo": 17
  },
  {
   "Insumo": "032130027",
@@ -2798,6 +2884,12 @@
  },
  {
   "Insumo": "032170010",
+  "SbIn": 10,
+  "Nombre": "TAPA P\/SET DE TRANSFERENCIA  - MINICAP                                                                                                                                                                                                                                 ",
+  "Cuerpo": 32
+ },
+ {
+  "Insumo": "032170010",
   "SbIn": 9,
   "Nombre": "SET DE TRANSFERENCIA P\/DIALISIS                                                                                                                                                                                                                               ",
   "Cuerpo": 32
@@ -3013,7 +3105,7 @@
  {
   "Insumo": "032200003",
   "SbIn": 1,
-  "Nombre": "CAPTOR DE PRESION INTRACRANEAL (TORNILLO SUBARACNOIDEO) T\/CAMINO  (PIC)                                                                                                                                                                                                 ",
+  "Nombre": "CAPTOR DE PRESION INTRACRANEAL (TORNILLO SUBARACNOIDEO) T\/CAMINO - PIC                                                                                                                                                                                                 ",
   "Cuerpo": 31
  },
  {
@@ -3180,6 +3272,12 @@
  },
  {
   "Insumo": "032230003",
+  "SbIn": 19,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VÍA Nº12 C\/BALON                                                                                                                                                                                                              ",
+  "Cuerpo": 18
+ },
+ {
+  "Insumo": "032230003",
   "SbIn": 14,
   "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VIA N°16 C\/BALON                                                                                                                                                                                                              ",
   "Cuerpo": 18
@@ -3224,6 +3322,12 @@
   "Insumo": "032230003",
   "SbIn": 22,
   "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VÍA Nº22 C\/BALÓN 5\/15 EST.                                                                                                                                                                                                    ",
+  "Cuerpo": 18
+ },
+ {
+  "Insumo": "032230003",
+  "SbIn": 23,
+  "Nombre": "SONDA DE FOLEY SILICONADA DOBLE VÍA Nº24 C\/BALÓN 5\/15 EST.                                                                                                                                                                                                    ",
   "Cuerpo": 18
  },
  {
