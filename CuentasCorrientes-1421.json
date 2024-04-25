@@ -1078,7 +1078,7 @@
   "Insumo": "032070027",
   "SbIn": 2,
   "Nombre": "DISPOSITIVO PARA FIJACION DE CATETER SIN SUTURA - STAT LOOCK",
-  "Cuerpo": "Meson",
+  "Cuerpo": "Meson"
  },
  {
   "Insumo": "032080010",
@@ -1407,7 +1407,7 @@
   "Insumo": "032110008",
   "SbIn": 3,
   "Nombre": "CONECTOR BASICO P\/ACCESO VASCULAR SISTEMA S\/AGUJA Y CERRADO - MAX CERO o PRESION POSITIVA",
-  "Cuerpo": "Meson",
+  "Cuerpo": "Meson"
  },
  {
   "Insumo": "032110008",
