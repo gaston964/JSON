@@ -421,7 +421,8 @@
  {
   "Insumo": "032040011",
   "SbIn": 1,
-  "Nombre": "CAMPANA DE DRENAJE PLEURAL CON 2 BOCAS                                                                                                                                                                                                                        "
+  "Nombre": "CAMPANA DE DRENAJE PLEURAL CON 2 BOCAS"
+  "Cuerpo" : "Pallet 2"
  },
  {
   "Insumo": "032040014",
