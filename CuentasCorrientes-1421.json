@@ -1508,6 +1508,7 @@
   "Insumo": "032100004",
   "SbIn": 14,
   "Nombre": "HEMOSTATICO REABSORBIBLE A BASE DE PEPTIDO SINTETICO"
+  "Cuerpo": "HELADERA 9 - MACROFARMA"
  },
  {
   "Insumo": "032100005",
@@ -3232,7 +3233,8 @@
  {
   "Insumo": "032150026",
   "SbIn": 2,
-  "Nombre": "MONOPERSULFATO DE POTASIO 20% X 500 GRS.                                                                                                                                                                                                                      "
+  "Nombre": "MONOPERSULFATO DE POTASIO 20% X 500 GRS. (VIODEX)
+  "Cuerpo": 7                                                                                                                                                                                                                      "
  },
  {
   "Insumo": "032170003",
@@ -3517,12 +3519,14 @@
  {
   "Insumo": "032200010",
   "SbIn": 1,
-  "Nombre": "ADHESIVO BIOLOGICO 2 COMPONENTES                                                                                                                                                                                                                              "
+  "Nombre": "ADHESIVO BIOLOGICO 2 COMPONENTES - BERIPLAST   
+  "Cuerpo" : "HELADERA 9 - MACROFARMA"                                                                                                                                                                                                                           "
  },
  {
   "Insumo": "032200010",
   "SbIn": 2,
-  "Nombre": "ADHESIVO SINTETICO 2 COMPONENTESPOLVO DE ESTER DE PEG ACTIVADO Y PEI)                                                                                                                                                                                         "
+  "Nombre": "ADHESIVO SINTETICO 2 COMPONENTESPOLVO DE ESTER DE PEG ACTIVADO Y PEI) 
+  "Cuerpo": 31                                                                                                                                                                                      "
  },
  {
   "Insumo": "032220001",
@@ -3631,6 +3635,12 @@
   "SbIn": 4,
   "Nombre": "CLAVO KIRSCHNER DE ACERO INOXIDABLE 1,8MM X 25CM                                                                                                                                                                                                              ",
   "Cuerpo": 26
+ },
+ {
+  "Insumo": "032220061",
+  "SbIn": 1,
+  "Nombre": "SUSTITUTO DE DURAMADRE NO SUTURABLE                                                                                                                                                                                                              ",
+  "Cuerpo": 31
  },
  {
   "Insumo": "032230002",
