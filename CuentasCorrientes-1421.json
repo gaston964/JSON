@@ -2568,20 +2568,20 @@
  {
   "Insumo": "032120046",
   "SbIn": 1,
-  "Nombre": "MASC.INTERF.ORONASAL DE VENTILACION NO INVASIVA GRANDE                                                                                                                                                                                                        ",
-  "Cuerpo": 2
+  "Nombre": "MASCARA INTERF.ORONASAL DE VENTILACION NO INVASIVA GRANDE                                                                                                                                                                                                        ",
+  "Cuerpo": 4
  },
  {
   "Insumo": "032120046",
   "SbIn": 2,
-  "Nombre": "MASC.INTERF.ORONASAL DE VENTILACION NO INVASIVA MEDIANA                                                                                                                                                                                                       ",
-  "Cuerpo": 2
+  "Nombre": "MASCARA INTERF.ORONASAL DE VENTILACION NO INVASIVA MEDIANA                                                                                                                                                                                                       ",
+  "Cuerpo": 5
  },
  {
   "Insumo": "032120046",
   "SbIn": 3,
-  "Nombre": "MASC.INTERF.ORONASAL DE VENTILACION NO INVASIVA CHICA                                                                                                                                                                                                         ",
-  "Cuerpo": 2
+  "Nombre": "MASCARA INTERF.ORONASAL DE VENTILACION NO INVASIVA CHICA                                                                                                                                                                                                         ",
+  "Cuerpo": 4
  },
  {
   "Insumo": "032121009",
@@ -3483,6 +3483,12 @@
   "Nombre": "SET INTRODUCTOR VIA RADIAL 5F"
  },
  {
+  "Insumo": "032180051",
+  "SbIn": 1,
+  "Nombre": "PROTESIS P/EMBOLIZACION INTRAVASCULAR (AGENTE EMBOLICO LIQUIDO) - MAGIC GLUE",
+  "Cuerpo": "HELADERA 9 - MACROFARMA"
+ },
+ {
   "Insumo": "032200002",
   "SbIn": 2,
   "Nombre": "VALVULA DE DERIVACION VENTRICULO PERITONEAL DE DIFERENTES PRESIONES (ALTA, MEDIA, BAJA)",
@@ -3931,5 +3937,11 @@
   "SbIn": 1,
   "Nombre": "ENVASE ESTERIL P\/RECOLECCION DE MUESTRA 500 CC",
   "Cuerpo": "Pallet 2"
+ },
+ {
+  "Insumo": "650040072",
+  "SbIn": 3,
+  "Nombre": "LIPIODOL ULTRAFLUIDO IODADOS DEL ACEITE DE ADORMIDERA",
+  "Cuerpo": "HELADERA 9 - MACROFARMA"
  }
 ]
