@@ -3472,12 +3472,14 @@
  {
   "Insumo": "032180021",
   "SbIn": 13,
-  "Nombre": "MICROCATETER 2,5 F"
+  "Nombre": "MICROCATETER 2,5 F",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180021",
   "SbIn": 14,
-  "Nombre": "MICROCATETER 2,8 F"
+  "Nombre": "MICROCATETER 2,8 F",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180024",
@@ -3651,7 +3653,8 @@
  {
   "Insumo": "032200006",
   "SbIn": 4,
-  "Nombre": "SISTEMA DE LAZO ENDOVASCULAR                                                                                                                                                                                                                                  "
+  "Nombre": "SISTEMA DE LAZO ENDOVASCULAR",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032200010",
