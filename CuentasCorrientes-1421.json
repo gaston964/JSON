@@ -1021,6 +1021,12 @@
  },
  {
   "Insumo": "032070015",
+  "SbIn": 5,
+  "Nombre": "AGUJA PUNCION P/BIOPSIA RENAL SEMIAUTOMATICA 16 G X 15 CM                                                                                                                                                                                                           ",
+  "Cuerpo": 28
+ },
+ {
+  "Insumo": "032070015",
   "SbIn": 17,
   "Nombre": "AGUJA P\/BIOPSIA MEDULA OSEA 8G TIPO TRU CORE                                                                                                                                                                                                                  ",
   "Cuerpo": 28
@@ -1174,6 +1180,12 @@
   "SbIn": 8,
   "Nombre": "CATETER DIALISIS PERITONEAL TIPO TENCKHOFF ADULTO                                                                                                                                                                                                             ",
   "Cuerpo": 32
+ },
+ {
+  "Insumo": "032070025",
+  "SbIn": 1,
+  "Nombre": "FILTRO DE LINEA DE 0,2 MICRONES                                                                                                                                                                                                             ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032070027",
@@ -1344,6 +1356,12 @@
   "Insumo": "032090019",
   "SbIn": 7,
   "Nombre": "AEROCAMARA INHALATORIA C\/VALVULA C\/MASCARA ADULTO                                                                                                                                                                                                             ",
+  "Cuerpo": 2
+ },
+ {
+  "Insumo": "032090019",
+  "SbIn": 9,
+  "Nombre": "AEROCAMARA P/TRAQUEOTOMIA PEDIATRICA                                                                                                                                                                                                             ",
   "Cuerpo": 2
  },
  {
@@ -1624,6 +1642,12 @@
   "Insumo": "032120001",
   "SbIn": 9,
   "Nombre": "AGUJA DE PUNCION RAQUIDEA Nº25 G PUNTA LAPIZ DESC.EST.                                                                                                                                                                                                        ",
+  "Cuerpo": 28
+ },
+ {
+  "Insumo": "032120001",
+  "SbIn": 12,
+  "Nombre": "AGUJA DE PUNCION RAQUIDEA 22 G 3 1/2 X  2 PULGADAS                                                                                                                                                                                                        ",
   "Cuerpo": 28
  },
  {
@@ -2286,6 +2310,18 @@
  },
  {
   "Insumo": "032120012",
+  "SbIn": 3,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº1 - CANULA DE MAYO                                                                                                                                                                                                                                        ",
+  "Cuerpo": 4
+ },
+ {
+  "Insumo": "032120012",
+  "SbIn": 4,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº2 - CANULA DE MAYO                                                                                                                                                                                                                                        ",
+  "Cuerpo": 4
+ },
+ {
+  "Insumo": "032120012",
   "SbIn": 5,
   "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº3 - CANULA DE MAYO                                                                                                                                                                                                                                         ",
   "Cuerpo": 4
@@ -2300,6 +2336,12 @@
   "Insumo": "032120012",
   "SbIn": 7,
   "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº5 (120 MM LONGITUD) - CANULA DE MAYO                                                                                                                                                                                                                       ",
+  "Cuerpo": 4
+ },
+ {
+  "Insumo": "032120012",
+  "SbIn": 12,
+  "Nombre": "TUBO OROFARINGEO DE GUEDEL Nº000 - CANULA DE MAYO                                                                                                                                                                                                                       ",
   "Cuerpo": 4
  },
  {
@@ -2528,6 +2570,12 @@
   "SbIn": 5,
   "Nombre": "TUBO PARA CANALIZACION VENOSA POLIETILENO 1MM X 1MT                                                                                                                                                                                                           ",
   "Cuerpo": 21
+ },
+ {
+  "Insumo": "032120035",
+  "SbIn": 5,
+  "Nombre": "SISTEMA DE VENTILACIÓN NO INVASIVA NASAL NEONATAL DE SILICONA",
+  "Cuerpo": 2
  },
  {
   "Insumo": "032120035",
@@ -3169,6 +3217,12 @@
  },
  {
   "Insumo": "032142001",
+  "SbIn": 20,
+  "Nombre": "PROTESIS VASCULAR EPTF 20 MM X 30 CM EST.                                                                                                                                                                                                                     ",
+  "Cuerpo": 43
+ },
+ {
+  "Insumo": "032142001",
   "SbIn": 21,
   "Nombre": "PROTESIS VASCULAR EPTF 16 MM X 20 CM EST.\n",
   "Cuerpo": 43
@@ -3262,6 +3316,12 @@
   "Cuerpo": 32
  },
  {
+  "Insumo": "032170003",
+  "SbIn": 17,
+  "Nombre": "CATETER PERIFERICO P/HEMODIALISIS 11 FR 2 L 15 CM TIPO QUINTON                                                                                                                                                                                                 ",
+  "Cuerpo": 32
+ },
+ {
   "Insumo": "032170006",
   "SbIn": 4,
   "Nombre": "GUIA ARTERIAL PARA HEMODIALISIS PEDIATRICA C\/ FLUBARRIER DESC EST                                                                                                                                                                                             ",
@@ -3316,47 +3376,68 @@
  {
   "Insumo": "032180008",
   "SbIn": 85,
-  "Nombre": "STENT CORONARIO 3.5 X 20"
+  "Nombre": "STENT CORONARIO 3.5 X 20",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180008",
   "SbIn": 86,
-  "Nombre": "STENT CORONARIO 4.0 X 17"
+  "Nombre": "STENT CORONARIO 4.0 X 17",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180008",
   "SbIn": 87,
-  "Nombre": "STENT CORONARIO 4.5 X 20"
+  "Nombre": "STENT CORONARIO 4.5 X 20",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180009",
   "SbIn": 13,
-  "Nombre": "CUERDA AMPLATZ DE 0;35 MM X 1.5 M                                                                                                                                                                                                                             "
+  "Nombre": "CUERDA AMPLATZ DE 0,35 MM X 1.5 M",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180009",
   "SbIn": 14,
-  "Nombre": "CUERDA AMPLATZ DE 0.35 MM X 2.6 M.                                                                                                                                                                                                                            "
+  "Nombre": "CUERDA AMPLATZ DE 0.35 MM X 2.6 M.",
+  "Cuerpo": 40
+ },
+{
+  "Insumo": "032180009",
+  "SbIn": 18,
+  "Nombre": "CUERDA 0,018\" DE 150 CM HIDROFILICA INTERMEDIA", 
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180009",
   "SbIn": 40,
-  "Nombre": "CUERDA 0,035\" DE 150 CM HIDROFILICA                                                                                                                                                                                                                           "
+  "Nombre": "CUERDA 0,035\" DE 150 CM HIDROFILICA",
+  "Cuerpo": 40
+ },
+ {
+  "Insumo": "032180009",
+  "SbIn": 47,
+  "Nombre": "CUERDA FLOPPY EXTRASUPPORT",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180009",
   "SbIn": 51,
-  "Nombre": "CUERDA HIDROFILICA 0,025\" C\/CURVA DE 140 A 180 CM                                                                                                                                                                                                             "
+  "Nombre": "CUERDA HIDROFILICA 0,025\" C\/CURVA DE 140 A 180 CM",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180009",
   "SbIn": 57,
-  "Nombre": "CUERDA HIDROFILICA 0,035 C\/CURVA DE 150 CM                                                                                                                                                                                                                    "
+  "Nombre": "CUERDA HIDROFILICA 0,035 C\/CURVA DE 150 CM",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180010",
   "SbIn": 1,
-  "Nombre": "INSUFLADOR C\/MANOMETRO                                                                                                                                                                                                                                        "
+  "Nombre": "INSUFLADOR C\/MANOMETRO",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032180016",
@@ -3366,7 +3447,17 @@
  {
   "Insumo": "032180017",
   "SbIn": 6,
-  "Nombre": "CATETER P\/ARTICUL VISCERAL COBRA 1 DE 5FR                                                                                                                                                                                                                     "
+  "Nombre": "CATETER P\/ARTICUL VISCERAL COBRA 1 DE 5FR"
+ },
+ {
+  "Insumo": "032180017",
+  "SbIn": 9,
+  "Nombre": "CATETER ANGIOGRAFICO CORONARIO PARA PROCEDIMIENTOS DIAGNOSTICOS"
+ },
+ {
+  "Insumo": "032180018",
+  "SbIn": 15,
+  "Nombre": "COIL 35/ 7/4"
  },
  {
   "Insumo": "032180018",
@@ -3470,23 +3561,56 @@
  {
   "Insumo": "032180050",
   "SbIn": 2,
-  "Nombre": "SET INTRODUCTOR VIA RADIAL 6F                                                                                                                                                                                                                                 "
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 6F",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180050",
   "SbIn": 3,
-  "Nombre": "SET INTRODUCTOR VIA RADIAL 4F"
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 4F",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180050",
   "SbIn": 4,
-  "Nombre": "SET INTRODUCTOR VIA RADIAL 5F"
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 5F",
+  "Cuerpo": 40
+ },
+ {
+  "Insumo": "032180050",
+  "SbIn": 5,
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 7F",
+  "Cuerpo": 40
+ },
+ {
+  "Insumo": "032180050",
+  "SbIn": 6,
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 8F",
+  "Cuerpo": 40
+ },
+ {
+  "Insumo": "032180050",
+  "SbIn": 7,
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 9F",
+  "Cuerpo": 40
+ },
+ {
+  "Insumo": "032180050",
+  "SbIn": 8,
+  "Nombre": "SET INTRODUCTOR VIA RADIAL 10F",
+  "Cuerpo": 40
  },
  {
   "Insumo": "032180051",
   "SbIn": 1,
   "Nombre": "PROTESIS P/EMBOLIZACION INTRAVASCULAR (AGENTE EMBOLICO LIQUIDO) - MAGIC GLUE",
   "Cuerpo": "HELADERA 9 - MACROFARMA"
+ },
+ {
+  "Insumo": "032200002",
+  "SbIn": 1,
+  "Nombre": "VALVULA DERIV.VENTRICULO PERITONEAL PEDIAT. PRESION MEDIA FIJA",
+  "Cuerpo": 31
  },
  {
   "Insumo": "032200002",
@@ -3853,7 +3977,14 @@
  {
   "Insumo": "032230011",
   "SbIn": 3,
-  "Nombre": "SET DE PUNCION SUPRAPUBICA 10 FR SILICONA                                                                                                                                                                                                                     "
+  "Nombre": "SET DE PUNCION SUPRAPUBICA 10 FR SILICONA",
+  "Cuerpo": 30
+ },
+ {
+  "Insumo": "032230013",
+  "SbIn": 1,
+  "Nombre": "EQUIPO DOBLE VIA C/CONECTOR EXTERNO P/IRRIGACION QUIRURGICA EN RECECION TRANSURETRAL(RTU)",
+  "Cuerpo": 30
  },
  {
   "Insumo": "032230015",
