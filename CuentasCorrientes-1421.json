@@ -261,43 +261,43 @@
   "Insumo": "032020010",
   "SbIn": 5,
   "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 2 X25 M N°4  (T\/SURGIFIX\/FAVE)",
-  "Cuerpo": 24
+  "Cuerpo": 25
  },
  {
   "Insumo": "032020010",
   "SbIn": 6,
   "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 3 X25 M (TIPO SURGIFIX)",
-  "Cuerpo": 24
+  "Cuerpo": 25
  },
  {
   "Insumo": "032020010",
   "SbIn": 7,
   "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 4 X25 M (TIPO SURGIFIX)",
-  "Cuerpo": 24
+  "Cuerpo": 25
  },
  {
   "Insumo": "032020010",
   "SbIn": 8,
   "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 5,5 X25 M N°8 (T\/SURGIFIX\/FAVE)",
-  "Cuerpo": 24
+  "Cuerpo": 25
  },
  {
   "Insumo": "032020010",
   "SbIn": 9,
   "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 6 X25 M N°9 (T\/SURGIFIX\/FAVE)",
-  "Cuerpo": 24
+  "Cuerpo": 25
  },
  {
   "Insumo": "032020010",
   "SbIn": 10,
   "Nombre": "VENDA MALLA TUBULAR ESLASTICA CALIBRE 8 X25 M N°10 (T\/SURGIFIXT\/FAVE)",
-  "Cuerpo": 24
+  "Cuerpo": 25
  },
  {
   "Insumo": "032020010",
   "SbIn": 11,
   "Nombre": "VENDA MALLA TUBULAR ELASTICA CALIBRE 9 X 25 M N°11 (T\/SURGIFIX\/FAVE)",
-  "Cuerpo": 24
+  "Cuerpo": 25
  },
  {
   "Insumo": "032020012",
@@ -3688,6 +3688,12 @@
   "Insumo": "032220001",
   "SbIn": 3,
   "Nombre": "COLLAR CERVICAL TIPO PHILADELPHIA GRANDE                                                                                                                                                                                                                      ",
+  "Cuerpo": 26
+ },
+{
+  "Insumo": "032220001",
+  "SbIn": 4,
+  "Nombre": "COLLAR CERVICAL NEONATAL                                                                                                                                                                                                                      ",
   "Cuerpo": 26
  },
  {
