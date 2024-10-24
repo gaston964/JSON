@@ -1,4 +1,5 @@
-[
+{
+"Sheet1":[
  {
   "Insumo": "031160020",
   "SbIn": 1,
@@ -121,6 +122,12 @@
  },
  {
   "Insumo": "032010014",
+  "SbIn": 6,
+  "Nombre": "CAMPO QUIRURGICO 400 MM x 400 MM EST.(TIPO N° 1020)                                                                                                                                                                                                           ",
+  "Cuerpo": 30
+ },
+ {
+  "Insumo": "032010014",
   "SbIn": 8,
   "Nombre": "CAMPO QUIRURGICO 1000 MM x 1300 MM EST.(TIPO N° 1015)                                                                                                                                                                                                         ",
   "Cuerpo": 30
@@ -152,7 +159,7 @@
  {
   "Insumo": "032010017",
   "SbIn": 1,
-  "Nombre": "GUANTE  POLIVINILO MEDIANOS DESC.                                                                                                                                                                                                                             ",
+  "Nombre": "GUANTE POLIVINILO MEDIANOS DESC                                                                                                                                                                                                                    ",
   "Cuerpo": 37
  },
  {
@@ -362,7 +369,7 @@
  {
   "Insumo": "032040002",
   "SbIn": 1,
-  "Nombre": "CARTUCHO, FUELLE O FRASCO DE ASPIRACION PEDIATRICO                                                                                                                                                                                                                    ",
+  "Nombre": "CARTUCHO O FUELLE DE ASPIRACION PEDIATRICO",
   "Cuerpo": "Pallet 3"
  },
  {
@@ -824,7 +831,7 @@
  {
   "Insumo": "032070007",
   "SbIn": 29,
-  "Nombre": "JERINGA DES EST P\/GAS C\/TAPON DE SEGURIDAD C\/HEPARINA                     DE LITIO                                                                                                                                                                            ",
+  "Nombre": "JERINGA DES EST P\/GAS C\/TAPON DE SEGURIDAD C\/HEPARINA DE LITIO                                                                                                                                                                            ",
   "Cuerpo": 1
  },
  {
@@ -1022,7 +1029,7 @@
  {
   "Insumo": "032070015",
   "SbIn": 5,
-  "Nombre": "AGUJA PUNCION P/BIOPSIA RENAL SEMIAUTOMATICA 16 G X 15 CM                                                                                                                                                                                                           ",
+  "Nombre": "AGUJA PUNCION P\/BIOPSIA RENAL SEMIAUTOMATICA 16 G X 15 CM                                                                                                                                                                                                           ",
   "Cuerpo": 28
  },
  {
@@ -1335,6 +1342,18 @@
   "Cuerpo": 13
  },
  {
+  "Insumo": "032090015",
+  "SbIn": 4,
+  "Nombre": "VENDA ADHESIVA ELASTICA Y PERMEABLE DE ALGODON Y RAYON 10 CM X 2.5MT. (TENSOPLAST)                                                                                                                                                                                     ",
+  "Cuerpo": 25
+ },
+ {
+  "Insumo": "032090015",
+  "SbIn": 6,
+  "Nombre": "VENDAJE NEUROMUSCULAR (TAPPING) 5 CM x 5 MTS",
+  "Cuerpo": 25
+ },
+ {
   "Insumo": "032090016",
   "SbIn": 1,
   "Nombre": "EQUIPO P\/ MEDIR PRESION VENOSA CENTRAl TIPO ENELSEN 71 ADULTO                                                                                                                                                                                                 ",
@@ -1361,7 +1380,7 @@
  {
   "Insumo": "032090019",
   "SbIn": 9,
-  "Nombre": "AEROCAMARA P/TRAQUEOTOMIA PEDIATRICA                                                                                                                                                                                                             ",
+  "Nombre": "AEROCAMARA P\/TRAQUEOTOMIA PEDIATRICA                                                                                                                                                                                                             ",
   "Cuerpo": 2
  },
  {
@@ -1425,6 +1444,11 @@
  },
  {
   "Insumo": "032100001",
+  "SbIn": 5,
+  "Nombre": "APOSITO ADHESIVO 20 X 20 CM (TIPO DUODERM)"
+ },
+ {
+  "Insumo": "032100001",
   "SbIn": 13,
   "Nombre": "APOSITO DE ALGINATO DE CALCIO                                                                                                                                                                                                                                 ",
   "Cuerpo": 24
@@ -1434,6 +1458,11 @@
   "SbIn": 18,
   "Nombre": "APOSITO ADHESIVO DE SALES DE PLATA                                                                                                                                                                                                                            ",
   "Cuerpo": 24
+ },
+ {
+  "Insumo": "032100001",
+  "SbIn": 20,
+  "Nombre": "APOSITO ADHESIVO DE FIJACION 4.4CM X 4.4CM TIPO TEGADERM                                                                                                                                                                                                      "
  },
  {
   "Insumo": "032100001",
@@ -1526,7 +1555,7 @@
   "Insumo": "032100004",
   "SbIn": 14,
   "Nombre": "HEMOSTATICO REABSORBIBLE A BASE DE PEPTIDO SINTETICO",
-  "Cuerpo": "30 / HELADERA 9 - MACROFARMA"
+  "Cuerpo": "30 \/ HELADERA 9 - MACROFARMA"
  },
  {
   "Insumo": "032100005",
@@ -1628,8 +1657,8 @@
  },
  {
   "Insumo": "032120001",
-  "SbIn": 12,
-  "Nombre": "AGUJA DE PUNCION RAQUIDEA 22 G 3 1\/2 X  2 PULGADAS                                                                                                                                                                                                            ",
+  "SbIn": 1,
+  "Nombre": "AGUJA DE PUNCION PERIDURAL O DE TUOHY Nº 16 DESC. EST.                                                                                                                                                                                                        ",
   "Cuerpo": 28
  },
  {
@@ -1647,7 +1676,7 @@
  {
   "Insumo": "032120001",
   "SbIn": 12,
-  "Nombre": "AGUJA DE PUNCION RAQUIDEA 22 G 3 1/2 X  2 PULGADAS                                                                                                                                                                                                        ",
+  "Nombre": "AGUJA DE PUNCION RAQUIDEA 22 G 3 1\/2 X  2 PULGADAS                                                                                                                                                                                                        ",
   "Cuerpo": 28
  },
  {
@@ -2244,6 +2273,12 @@
  },
  {
   "Insumo": "032120008",
+  "SbIn": 87,
+  "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCION IZQUIERDA Nº28                                                                                                                                                                                                        ",
+  "Cuerpo": 11
+ },
+ {
+  "Insumo": "032120008",
   "SbIn": 89,
   "Nombre": "TUBO ENDOTRAQUEAL 2.5 MM DIAM INT. (N°10)S\/BALON DESC. EST                                                                                                                                                                                                    ",
   "Cuerpo": 10
@@ -2348,6 +2383,12 @@
   "Insumo": "032120013",
   "SbIn": 1,
   "Nombre": "MASCARA LARINGEA N 3                                                                                                                                                                                                                                          ",
+  "Cuerpo": 6
+ },
+ {
+  "Insumo": "032120013",
+  "SbIn": 2,
+  "Nombre": "MASCARA LARINGEA N 4                                                                                                                                                                                                                                          ",
   "Cuerpo": 6
  },
  {
@@ -2501,12 +2542,6 @@
  },
  {
   "Insumo": "032120020",
-  "SbIn": 26,
-  "Nombre": "SISTEMA CERRADO DE ASPIRACIÓN NEONATAL 6 Fr                                                                                                                                                                                                                   ",
-  "Cuerpo": 5
- },
- {
-  "Insumo": "032120020",
   "SbIn": 27,
   "Nombre": "SISTEMA CERRADO DE ASPIRACIÓN NEONATAL 10 Fr                                                                                                                                                                                                                  ",
   "Cuerpo": 5
@@ -2611,6 +2646,12 @@
   "Insumo": "032120042",
   "SbIn": 14,
   "Nombre": "GORRO Y ARNÉS P\/ CÁNULA NASAL DE CPAP (TIPO DRAGUER)                                                                                                                                                                                                          ",
+  "Cuerpo": 2
+ },
+ {
+  "Insumo": "032120042",
+  "SbIn": 24,
+  "Nombre": "ARNES DE CABEZA PARA FIJACION DE INTERFACE RESPIRATORIA NEONATAL (TIPO DRAGUER) (TODOS TALLES)\n",
   "Cuerpo": 2
  },
  {
@@ -2872,6 +2913,12 @@
   "Cuerpo": 17
  },
  {
+  "Insumo": "032130026",
+  "SbIn": 2,
+  "Nombre": "SET LIGADOR MULTIBANDA (TP SIX-SHOOTER)                                                                                                                                                                                                                       ",
+  "Cuerpo": 23
+ },
+ {
   "Insumo": "032130027",
   "SbIn": 1,
   "Nombre": "SET ESCLEROSIS VARICES ESOFAGICAS                                                                                                                                                                                                                             ",
@@ -2886,7 +2933,7 @@
  {
   "Insumo": "032130028",
   "SbIn": 7,
-  "Nombre": "HEMOSTATICO ENDOSCOPICO SPRAY T/ HEMO-7-EU                                                                                                                                                                                                              ",
+  "Nombre": "HEMOSTATICO ENDOSCOPICO SPRAY T\/ HEMO-7-EU                                                                                                                                                                                                              ",
   "Cuerpo": 23
  },
  {
@@ -2913,12 +2960,19 @@
  {
   "Insumo": "032130051",
   "SbIn": 2,
-  "Nombre": "SONDA DE PHMETRIA 1 CANAL 6,4 FR 2,13MM APROX.                                                                                                                                                                                                                "
+  "Nombre": "SONDA DE PHMETRIA 1 CANAL 6,4 FR 2,13MM APROX.                                                                                                                                                                                                                ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032140002",
   "SbIn": 6,
   "Nombre": "CATETER ARTERIAL 3FR, 8CM DE LONG, AGUJA 20G,C\/GUIA RECTA, DE POLIURETANO DESC. ESTERIL                                                                                                                                                                       ",
+  "Cuerpo": 33
+ },
+ {
+  "Insumo": "032140002",
+  "SbIn": 7,
+  "Nombre": "CATETER ARTERIAL 2FR, 4CM DE LONG, AGUJA 21G,C\/GUIA RECTA, DE POLIURETANO DESC. ESTERIL",
   "Cuerpo": 33
  },
  {
@@ -3295,7 +3349,7 @@
   "Insumo": "032150026",
   "SbIn": 2,
   "Nombre": "MONOPERSULFATO DE POTASIO 20% X 500 GRS. (VIODEX)",
-  "Cuerpo": 7                                                                                                                                                                                                                   
+  "Cuerpo": 7
  },
  {
   "Insumo": "032170003",
@@ -3318,7 +3372,7 @@
  {
   "Insumo": "032170003",
   "SbIn": 17,
-  "Nombre": "CATETER PERIFERICO P/HEMODIALISIS 11 FR 2 L 15 CM TIPO QUINTON                                                                                                                                                                                                 ",
+  "Nombre": "CATETER PERIFERICO P\/HEMODIALISIS 11 FR 2 L 15 CM TIPO QUINTON                                                                                                                                                                                                 ",
   "Cuerpo": 32
  },
  {
@@ -3403,10 +3457,10 @@
   "Nombre": "CUERDA AMPLATZ DE 0.35 MM X 2.6 M.",
   "Cuerpo": 40
  },
-{
+ {
   "Insumo": "032180009",
   "SbIn": 18,
-  "Nombre": "CUERDA 0,018\" DE 150 CM HIDROFILICA INTERMEDIA", 
+  "Nombre": "CUERDA 0,018\" DE 150 CM HIDROFILICA INTERMEDIA",
   "Cuerpo": 40
  },
  {
@@ -3442,12 +3496,26 @@
  {
   "Insumo": "032180016",
   "SbIn": 4,
-  "Nombre": "JUEGO DE CATETER CORONARIO JR Y PIG TAIL DE 5 FR                                                                                                                                                                                                              "
+  "Nombre": "JUEGO DE CATETER CORONARIO JR Y PIG TAIL DE 5 FR                                                                                                                                                                                                              ",
+  "Cuerpo": "ENTRE 40 Y 41"
+ },
+ {
+  "Insumo": "032180016",
+  "SbIn": 5,
+  "Nombre": "JUEGO DE CATETER CORONARIO JR4, JL4 Y PIG TAIL DE 5 FR                                                                                                                                                                                                        ",
+  "Cuerpo": "ENTRE 40 Y 41"
+ },
+ {
+  "Insumo": "032180016",
+  "SbIn": 6,
+  "Nombre": "JUEGO DE CATETER CORONARIO JR4, JL4 Y PIG TAIL DE 6 FR                                                                                                                                                                                                        ",
+  "Cuerpo": "ENTRE 40 Y 41"
  },
  {
   "Insumo": "032180017",
   "SbIn": 6,
-  "Nombre": "CATETER P\/ARTICUL VISCERAL COBRA 1 DE 5FR"
+  "Nombre": "CATETER P\/ARTICUL VISCERAL COBRA 1 DE 5FR",
+  "Cuerpo": "ENTRE 40 Y 41"
  },
  {
   "Insumo": "032180017",
@@ -3457,17 +3525,26 @@
  {
   "Insumo": "032180018",
   "SbIn": 15,
-  "Nombre": "COIL 35/ 7/4"
+  "Nombre": "COIL 35\/ 7\/4",
+  "Cuerpo": "BOTIQUIN HEMODINAMIA"
  },
  {
   "Insumo": "032180018",
   "SbIn": 17,
-  "Nombre": "COIL 35\/ 7\/8"
+  "Nombre": "COIL 35\/ 7\/8",
+  "Cuerpo": "BOTIQUIN HEMODINAMIA"
+ },
+ {
+  "Insumo": "032180018",
+  "SbIn": 16,
+  "Nombre": "COIL 35\/ 7\/6",
+  "Cuerpo": "BOTIQUIN HEMODINAMIA"
  },
  {
   "Insumo": "032180018",
   "SbIn": 18,
-  "Nombre": "COIL 35\/ 7\/10"
+  "Nombre": "COIL 35\/ 7\/10",
+  "Cuerpo": "BOTIQUIN HEMODINAMIA"
  },
  {
   "Insumo": "032180021",
@@ -3484,22 +3561,26 @@
  {
   "Insumo": "032180024",
   "SbIn": 1,
-  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 3 FR                                                                                                                                                                                                                          "
+  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 3 FR                                                                                                                                                                                                                          ",
+  "Cuerpo": "ENTRE 30 Y 31"
  },
  {
   "Insumo": "032180024",
   "SbIn": 2,
-  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 4 FR                                                                                                                                                                                                                          "
+  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 4 FR                                                                                                                                                                                                                          ",
+  "Cuerpo": "ENRTE 30 Y 31"
  },
  {
   "Insumo": "032180024",
   "SbIn": 3,
-  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 5 FR                                                                                                                                                                                                                          "
+  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 5 FR                                                                                                                                                                                                                          ",
+  "Cuerpo": "ENTRE 29 Y 30"
  },
  {
   "Insumo": "032180024",
   "SbIn": 4,
-  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 6 FR                                                                                                                                                                                                                          "
+  "Nombre": "CATETER FOGARTY DE EMBOLECTOMIA 6 FR                                                                                                                                                                                                                          ",
+  "Cuerpo": "ENTRE 29 Y 30"
  },
  {
   "Insumo": "032180024",
@@ -3552,7 +3633,8 @@
  {
   "Insumo": "032180036",
   "SbIn": 1,
-  "Nombre": "CATETER MAMARIO DE 5FR                                                                                                                                                                                                                                        "
+  "Nombre": "CATETER MAMARIO DE 5FR                                                                                                                                                                                                                                        ",
+  "Cuerpo": "ENTRE 39 Y 40"
  },
  {
   "Insumo": "032180038",
@@ -3605,7 +3687,7 @@
  {
   "Insumo": "032180051",
   "SbIn": 1,
-  "Nombre": "PROTESIS P/EMBOLIZACION INTRAVASCULAR (AGENTE EMBOLICO LIQUIDO) - MAGIC GLUE",
+  "Nombre": "PROTESIS P\/EMBOLIZACION INTRAVASCULAR (AGENTE EMBOLICO LIQUIDO) - MAGIC GLUE",
   "Cuerpo": "HELADERA 9 - MACROFARMA"
  },
  {
@@ -3659,17 +3741,13 @@
  {
   "Insumo": "032200010",
   "SbIn": 1,
-  "Nombre": "ADHESIVO BIOLOGICO 2 COMPONENTES - BERIPLAST",   
-  "Cuerpo" : "HELADERA 9 - MACROFARMA"                                                                                                                                                                                                                           
+  "Nombre": "ADHESIVO BIOLOGICO 2 COMPONENTES - BERIPLAST",
+  "Cuerpo": "HELADERA 9 - MACROFARMA"
  },
  {
   "Insumo": "032200010",
   "SbIn": 2,
   "Nombre": "ADHESIVO SINTETICO 2 COMPONENTESPOLVO DE ESTER DE PEG ACTIVADO Y PEI)",
- 
- 
- 
- 
   "Cuerpo": 31
  },
  {
@@ -3690,7 +3768,7 @@
   "Nombre": "COLLAR CERVICAL TIPO PHILADELPHIA GRANDE                                                                                                                                                                                                                      ",
   "Cuerpo": 26
  },
-{
+ {
   "Insumo": "032220001",
   "SbIn": 4,
   "Nombre": "COLLAR CERVICAL NEONATAL                                                                                                                                                                                                                      ",
@@ -3979,6 +4057,12 @@
  },
  {
   "Insumo": "032230009",
+  "SbIn": 16,
+  "Nombre": "CATETER URETERAL PIGTAIL 4,8 FR X 24 CM DESC EST.                                                                                                                                                                                                             ",
+  "Cuerpo": 34
+ },
+ {
+  "Insumo": "032230009",
   "SbIn": 17,
   "Nombre": "CATETER URETRAL PIGTAIL 4,8 FR X 18 CM DESC. EST. \n",
   "Cuerpo": 34
@@ -3990,9 +4074,15 @@
   "Cuerpo": 30
  },
  {
+  "Insumo": "032230011",
+  "SbIn": 5,
+  "Nombre": "SET DE PUNCIÓN SUPRAPUBICA 12 FR SILICONA                                                                                                                                                                                                                     ",
+  "Cuerpo": 30
+ },
+ {
   "Insumo": "032230013",
   "SbIn": 1,
-  "Nombre": "EQUIPO DOBLE VIA C/CONECTOR EXTERNO P/IRRIGACION QUIRURGICA EN RECECION TRANSURETRAL(RTU)",
+  "Nombre": "EQUIPO DOBLE VIA C\/CONECTOR EXTERNO P\/IRRIGACION QUIRURGICA EN RECECION TRANSURETRAL(RTU)",
   "Cuerpo": 30
  },
  {
@@ -4008,7 +4098,14 @@
  {
   "Insumo": "032250001",
   "SbIn": 1,
-  "Nombre": "CUCHILLETE OFTALMOLOGICO TIPO ALCON DESCARTABLE                                                                                                                                                                                                               "
+  "Nombre": "CUCHILLETE OFTALMOLOGICO TIPO ALCON DESCARTABLE                                                                                                                                                                                                               ",
+  "Cuerpo": "BOTIQUIN OFTALMOLOGIA"
+ },
+ {
+  "Insumo": "032250001",
+  "SbIn": 7,
+  "Nombre": "CUCHILLETE DE 23G V-LANCE                                                                                                                                                                                                                                     ",
+  "Cuerpo": "BOTIQUIN OFTALMOLOGIA"
  },
  {
   "Insumo": "032250002",
@@ -4079,9 +4176,10 @@
   "Cuerpo": "Pallet 2"
  },
  {
-  "Insumo": "650040072",
+  "Insumo": 650040072,
   "SbIn": 3,
   "Nombre": "LIPIODOL ULTRAFLUIDO IODADOS DEL ACEITE DE ADORMIDERA",
   "Cuerpo": "HELADERA 9 - MACROFARMA"
  }
 ]
+}
