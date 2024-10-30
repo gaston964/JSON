@@ -260,7 +260,7 @@
  {
   "Insumo": "032020007",
   "SbIn": 23,
-  "Nombre": "APÓSITO DE ESPUMA HIDROCELULAR NO ADHESIVO                                                                                                                                                                                                                    ",
+  "Nombre": "APOSITO DE ESPUMA HIDROCELULAR NO ADHESIVO                                                                                                                                                                                                                    ",
   "Cuerpo": 24
  },
  {
@@ -1501,13 +1501,13 @@
  {
   "Insumo": "032100001",
   "SbIn": 41,
-  "Nombre": "APÓSITO DE HIDROCOLOIDE EXTRA DELGADO Y ABSORBENTE 5 X 7 CM                                                                                                                                                                                                   ",
+  "Nombre": "APOSITO DE HIDROCOLOIDE EXTRA DELGADO Y ABSORBENTE 5 X 7 CM                                                                                                                                                                                                   ",
   "Cuerpo": 24
  },
  {
   "Insumo": "032100001",
   "SbIn": 42,
-  "Nombre": "APÓSITO DE HIDROCOLOIDE EXTRA DELGADO Y ABSORBENTE 10 X 10 CM                                                                                                                                                                                                 ",
+  "Nombre": "APOSITO DE HIDROCOLOIDE EXTRA DELGADO Y ABSORBENTE 10 X 10 CM                                                                                                                                                                                                 ",
   "Cuerpo": 24
  },
  {
@@ -1543,12 +1543,14 @@
  {
   "Insumo": "032100004",
   "SbIn": 9,
-  "Nombre": "HEMOSTATICO DE CELULOSA OXIDADA FIBRILAR 2,5 X 5CM                                                                                                                                                                                                            "
+  "Nombre": "HEMOSTATICO DE CELULOSA OXIDADA FIBRILAR 2,5 X 5CM",
+  "Cuerpo": 24
  },
  {
   "Insumo": "032100004",
   "SbIn": 11,
-  "Nombre": "HEMOSTATICO DE CELULOSA OXIDADA FIBRILAR 5X10 CM                                                                                                                                                                                                              "
+  "Nombre": "HEMOSTATICO DE CELULOSA OXIDADA FIBRILAR 5X10 CM",
+  "Cuerpo": 24
  },
  {
   "Insumo": "032100004",
