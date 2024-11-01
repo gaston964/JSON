@@ -1445,6 +1445,7 @@
   "Insumo": "032100001",
   "SbIn": 5,
   "Nombre": "APOSITO ADHESIVO 20 X 20 CM (TIPO DUODERM)"
+  "Cuerpo": 9
  },
  {
   "Insumo": "032100001",
@@ -1456,17 +1457,19 @@
   "Insumo": "032100001",
   "SbIn": 18,
   "Nombre": "APOSITO ADHESIVO DE SALES DE PLATA                                                                                                                                                                                                                            ",
-  "Cuerpo": 24
+  "Cuerpo": 9
  },
  {
   "Insumo": "032100001",
   "SbIn": 20,
-  "Nombre": "APOSITO ADHESIVO DE FIJACION 4.4CM X 4.4CM TIPO TEGADERM                                                                                                                                                                                                      "
+  "Nombre": "APOSITO ADHESIVO DE FIJACION 4.4CM X 4.4CM TIPO TEGADERM",
+  "Cuerpo": 9
  },
  {
   "Insumo": "032100001",
   "SbIn": 22,
-  "Nombre": "APOSITO P\/VIA CENTRAL 8.5 CM X 11.5 CMC\/REFUERZO Y FIJACION                                                                                                                                                                                                   "
+  "Nombre": "APOSITO P\/VIA CENTRAL 8.5 CM X 11.5 CMC\/REFUERZO Y FIJACION"
+  "Cuerpo": 9
  },
  {
   "Insumo": "032100001",
