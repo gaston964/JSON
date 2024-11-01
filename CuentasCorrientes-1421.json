@@ -1586,12 +1586,14 @@
  {
   "Insumo": "032110001",
   "SbIn": 2,
-  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 25 CM                                                                                                                                                                                                                              "
+  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 25 CM",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032110001",
   "SbIn": 4,
-  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 100 CM                                                                                                                                                                                                                             "
+  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 100 CM",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032110002",
