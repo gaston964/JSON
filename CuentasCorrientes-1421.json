@@ -1,5 +1,5 @@
 [
-  {
+ {
   "Insumo": "031160020",
   "SbIn": 1,
   "Nombre": "CARBACHOL AL 0.01 %                                                                                                                                                                                                                                           ",
@@ -1220,7 +1220,8 @@
  {
   "Insumo": "032080019",
   "SbIn": 9,
-  "Nombre": "PARCHE DE PERICARDIO BOBINO 10X15                                                                                                                                                                                                                             "
+  "Nombre": "PARCHE DE PERICARDIO BOBINO 10X15                                                                                                                                                                                                                             ",
+  "Cuerpo": 38
  },
  {
   "Insumo": "032080019",
@@ -1290,7 +1291,8 @@
  {
   "Insumo": "032090012",
   "SbIn": 11,
-  "Nombre": "BOLSA REPUESTO P\/RESUCITADOR PEDIATRICO"
+  "Nombre": "BOLSA REPUESTO P\/RESUCITADOR PEDIATRICO",
+  "Cuerpo": 5
  },
  {
   "Insumo": "032090012",
@@ -1397,7 +1399,8 @@
  {
   "Insumo": "032090027",
   "SbIn": 2,
-  "Nombre": "CANASTILLA P\/EXTRACCION CUERPOS EXTRAÑOS PARA CANAL DE TRABAJO DE 2.8 MM Y 230 CM DE LARGO PARA POLIPECTOMIA                                                                                                                                                  "
+  "Nombre": "CANASTILLA P\/EXTRACCION CUERPOS EXTRAÑOS PARA CANAL DE TRABAJO DE 2.8 MM Y 230 CM DE LARGO PARA POLIPECTOMIA                                                                                                                                                  ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032090030",
@@ -1570,12 +1573,14 @@
  {
   "Insumo": "032100005",
   "SbIn": 2,
-  "Nombre": "PASTA ADHESIVA Y DE RELLENO SIN ALCOHOL PARA OSTOMIA                                                                                                                                                                                                          "
+  "Nombre": "PASTA ADHESIVA Y DE RELLENO SIN ALCOHOL PARA OSTOMIA                                                                                                                                                                                                          ",
+  "Cuerpo": 8
  },
  {
   "Insumo": "032100005",
   "SbIn": 3,
-  "Nombre": "PASTA ADHESIVA Y DE RELLENO CON ALCOHOL PARA OSTOMIA                                                                                                                                                                                                          "
+  "Nombre": "PASTA ADHESIVA Y DE RELLENO CON ALCOHOL PARA OSTOMIA                                                                                                                                                                                                          ",
+  "Cuerpo": 8
  },
  {
   "Insumo": "032110001",
@@ -1586,13 +1591,13 @@
  {
   "Insumo": "032110001",
   "SbIn": 2,
-  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 25 CM",
+  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 25 CM                                                                                                                                                                                                                              ",
   "Cuerpo": 22
  },
  {
   "Insumo": "032110001",
   "SbIn": 4,
-  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 100 CM",
+  "Nombre": "LLAVE 3 VIAS C\/PROLONGADOR 100 CM                                                                                                                                                                                                                             ",
   "Cuerpo": 22
  },
  {
@@ -2048,12 +2053,14 @@
  {
   "Insumo": "032120006",
   "SbIn": 5,
-  "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO K 30 P).LONG 105 CM POR 2.8 MM DIAM.DESC.EST.                                                                                                                                                                               "
+  "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO K 30 P).LONG 105 CM POR 2.8 MM DIAM.DESC.EST.                                                                                                                                                                               ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032120006",
   "SbIn": 6,
-  "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO 31 P) LONG 105 CM X 2.3 MM DIAM.DESC.EST.                                                                                                                                                                                   "
+  "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO 31 P) LONG 105 CM X 2.3 MM DIAM.DESC.EST.                                                                                                                                                                                   ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032120007",
@@ -2471,11 +2478,6 @@
  },
  {
   "Insumo": "032120016",
-  "SbIn": 1,
-  "Nombre": "FILTRO HUMIDIF P\/RESP ANTIBACT\/VIRAL ADULTO                                                                                                                                                                                                                   "
- },
- {
-  "Insumo": "032120016",
   "SbIn": 11,
   "Nombre": "FILTRO P\/TRAQUEOTOMIA                                                                                                                                                                                                                                         ",
   "Cuerpo": 16
@@ -2777,7 +2779,8 @@
  {
   "Insumo": "032130003",
   "SbIn": 3,
-  "Nombre": "SONDA DE SENGSTAKEN BLAKMORE  C\/BALON N°14 EST.                                                                                                                                                                                                               "
+  "Nombre": "SONDA DE SENGSTAKEN BLAKMORE  C\/BALON N°14 EST.                                                                                                                                                                                                               ",
+  "Cuerpo": 17
  },
  {
   "Insumo": "032130006",
@@ -2872,22 +2875,26 @@
  {
   "Insumo": "032130013",
   "SbIn": 5,
-  "Nombre": "CANASTILLA DE DORMIA DESC. 4 ALAMBRES 195 CM LONG, ANCHO ABERTURA 22 MM TAMAÑO MINIMO CANAL 2.8 MM                                                                                                                                                            "
+  "Nombre": "CANASTILLA DE DORMIA DESC. 4 ALAMBRES 195 CM LONG, ANCHO ABERTURA 22 MM TAMAÑO MINIMO CANAL 2.8 MM                                                                                                                                                            ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032130016",
   "SbIn": 18,
-  "Nombre": "BALON P\/DILATACION ESOFAGICO 2CM DIAM.                                                                                                                                                                                                                        "
+  "Nombre": "BALON P\/DILATACION ESOFAGICO 2CM DIAM.                                                                                                                                                                                                                        ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032130016",
   "SbIn": 22,
-  "Nombre": "BALON DE SEPTOSTOMIA Z5"
+  "Nombre": "BALON DE SEPTOSTOMIA Z5",
+  "Cuerpo": "BOTIQUIN HEMODINAMIA"
  },
  {
   "Insumo": "032130018",
   "SbIn": 4,
-  "Nombre": "ASAS DE POLIPECTOMIAS TIPO JUMBO OVAL 7 FR X 240 CM                                                                                                                                                                                                           "
+  "Nombre": "ASAS DE POLIPECTOMIAS TIPO JUMBO OVAL 7 FR X 240 CM                                                                                                                                                                                                           ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032130020",
@@ -2945,7 +2952,8 @@
  {
   "Insumo": "032130029",
   "SbIn": 1,
-  "Nombre": "STENT BILIAR TIPO TENNENBAUM                                                                                                                                                                                                                                  "
+  "Nombre": "STENT BILIAR TIPO TENNENBAUM                                                                                                                                                                                                                                  ",
+  "Cuerpo": "RESIDENCIA"
  },
  {
   "Insumo": "032130030",
@@ -2956,12 +2964,14 @@
  {
   "Insumo": "032130033",
   "SbIn": 17,
-  "Nombre": "AGUJA PARA INYECCIÓN ENDOSCOPICA EN MUCOSA INTESTINAL 7 FR PARA CANAL DE TRABAJO DE 2.8 MM PARA POLIPEPTOMIA                                                                                                                                                  "
+  "Nombre": "AGUJA PARA INYECCIÓN ENDOSCOPICA EN MUCOSA INTESTINAL 7 FR PARA CANAL DE TRABAJO DE 2.8 MM PARA POLIPEPTOMIA                                                                                                                                                  ",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032130033",
   "SbIn": 26,
-  "Nombre": "AGUJA PARA INYECCION ENDOSCOPICA EN MUCOSA INTESTINAL 7 FR PARA CANAL DE TRABAJO DE 1,8-2 MM PARA POLIPEPTOMIA\n"
+  "Nombre": "AGUJA PARA INYECCION ENDOSCOPICA EN MUCOSA INTESTINAL 7 FR PARA CANAL DE TRABAJO DE 1,8-2 MM PARA POLIPEPTOMIA\n",
+  "Cuerpo": 23
  },
  {
   "Insumo": "032130051",
@@ -3232,7 +3242,8 @@
  {
   "Insumo": "032141005",
   "SbIn": 77,
-  "Nombre": "CANULA  ARTERIAL PARA CIRCULACIÓN EXTRACORPOREA 6 FR CON CONECTOR DE 1\/4 EST.                                                                                                                                                                                 "
+  "Nombre": "CANULA  ARTERIAL PARA CIRCULACIÓN EXTRACORPOREA 6 FR CON CONECTOR DE 1\/4 EST.                                                                                                                                                                                 ",
+  "Cuerpo": 41
  },
  {
   "Insumo": "032141005",
@@ -3314,42 +3325,50 @@
  {
   "Insumo": "032142006",
   "SbIn": 1,
-  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR ARTERIAL MINI 1,00 X 1,40 ROJA                                                                                                                                                                                    "
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR ARTERIAL MINI 1,00 X 1,40 ROJA                                                                                                                                                                                    ",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032142006",
   "SbIn": 2,
-  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR VENOSO MINI 1,00 X 1,40                                                                                                                                                                                           "
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR VENOSO MINI 1,00 X 1,40                                                                                                                                                                                           ",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032142006",
   "SbIn": 3,
-  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR ARTERIAL MAXI 1,20 X 2,40                                                                                                                                                                                         "
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR ARTERIAL MAXI 1,20 X 2,40                                                                                                                                                                                         ",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032142006",
   "SbIn": 4,
-  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR VENOSO MAXI 1,20 X 2,40                                                                                                                                                                                           "
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION VASCULAR VENOSO MAXI 1,20 X 2,40                                                                                                                                                                                           ",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032142006",
   "SbIn": 5,
-  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION NERVIOSA MAXI 1,20 X 2,40 BLANCA                                                                                                                                                                                           "
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION NERVIOSA MAXI 1,20 X 2,40 BLANCA                                                                                                                                                                                           ",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032142006",
   "SbIn": 6,
-  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION NERVIOSA MINI 1,00 X 1,40 BLANCA                                                                                                                                                                                           "
+  "Nombre": "CINTA DE OCLUSION E IDENTIFICACION NERVIOSA MINI 1,00 X 1,40 BLANCA                                                                                                                                                                                           ",
+  "Cuerpo": 22
  },
  {
   "Insumo": "032150023",
   "SbIn": 11,
-  "Nombre": "MASCARILLA P\/ENDOSCOPIA CON MEMBRANA DE 3 MM                                                                                                                                                                                                                  "
+  "Nombre": "MASCARILLA P\/ENDOSCOPIA CON MEMBRANA DE 3 MM                                                                                                                                                                                                                  ",
+  "Cuerpo": 6
  },
  {
   "Insumo": "032150023",
   "SbIn": 12,
-  "Nombre": "MASCARILLA P\/ENDOSCOPIA CON MEMBRANA DE 5 MM                                                                                                                                                                                                                  "
+  "Nombre": "MASCARILLA P\/ENDOSCOPIA CON MEMBRANA DE 5 MM                                                                                                                                                                                                                  ",
+  "Cuerpo": 6
  },
  {
   "Insumo": "032150026",
@@ -3426,7 +3445,8 @@
  {
   "Insumo": "032180007",
   "SbIn": 145,
-  "Nombre": "CATETER BALON DE 8.0 X 20 MM"
+  "Nombre": "CATETER BALON DE 8.0 X 20 MM",
+  "Cuerpo": "BOTIQUIN HEMODINAMIA"
  },
  {
   "Insumo": "032180007",
@@ -3527,7 +3547,8 @@
  {
   "Insumo": "032180017",
   "SbIn": 9,
-  "Nombre": "CATETER ANGIOGRAFICO CORONARIO PARA PROCEDIMIENTOS DIAGNOSTICOS"
+  "Nombre": "CATETER ANGIOGRAFICO CORONARIO PARA PROCEDIMIENTOS DIAGNOSTICOS",
+  "Cuerpo": "BOTIQUIN HEMODINAMIA"
  },
  {
   "Insumo": "032180018",
@@ -3749,7 +3770,7 @@
   "Insumo": "032200010",
   "SbIn": 1,
   "Nombre": "ADHESIVO BIOLOGICO 2 COMPONENTES - BERIPLAST",
-  "Cuerpo": "31 Y/O HELADERA 9 - MACROFARMA"
+  "Cuerpo": "31 Y\/O HELADERA 9 - MACROFARMA"
  },
  {
   "Insumo": "032200010",
@@ -4018,7 +4039,8 @@
  {
   "Insumo": "032230008",
   "SbIn": 1,
-  "Nombre": "BOLSA UROSTOMIA                                                                                                                                                                                                                                               "
+  "Nombre": "BOLSA UROSTOMIA                                                                                                                                                                                                                                               ",
+  "Cuerpo": 8
  },
  {
   "Insumo": "032230009",
@@ -4095,12 +4117,14 @@
  {
   "Insumo": "032230015",
   "SbIn": 4,
-  "Nombre": "SET DE NEFROSTOMIA PERCUTANEO 8 FR                                                                                                                                                                                                                            "
+  "Nombre": "SET DE NEFROSTOMIA PERCUTANEO 8 FR                                                                                                                                                                                                                            ",
+  "Cuerpo": 33
  },
  {
   "Insumo": "032230015",
   "SbIn": 5,
-  "Nombre": "SET DE NEFROSTOMIA PERCUTANEO 10 FR                                                                                                                                                                                                                           "
+  "Nombre": "SET DE NEFROSTOMIA PERCUTANEO 10 FR                                                                                                                                                                                                                           ",
+  "Cuerpo": 33
  },
  {
   "Insumo": "032250001",
@@ -4117,22 +4141,26 @@
  {
   "Insumo": "032250002",
   "SbIn": 1,
-  "Nombre": "SUSTANCIA VISCOELASTICA O ENDOGEL                                                                                                                                                                                                                             "
+  "Nombre": "SUSTANCIA VISCOELASTICA O ENDOGEL                                                                                                                                                                                                                             ",
+  "Cuerpo": 9
  },
  {
   "Insumo": "032250003",
   "SbIn": 1,
-  "Nombre": "AZUL DE TRIPAN                                                                                                                                                                                                                                                "
+  "Nombre": "AZUL DE TRIPAN                                                                                                                                                                                                                                                ",
+  "Cuerpo": 9
  },
  {
   "Insumo": "032251002",
   "SbIn": 4,
-  "Nombre": "ACEITE DE SILICONA 5000                                                                                                                                                                                                                                       "
+  "Nombre": "ACEITE DE SILICONA 5000                                                                                                                                                                                                                                       ",
+  "Cuerpo": 8
  },
  {
   "Insumo": "032252001",
   "SbIn": 2,
-  "Nombre": "LENTE INTRAOCULAR PLEGABLE                                                                                                                                                                                                                                    "
+  "Nombre": "LENTE INTRAOCULAR PLEGABLE                                                                                                                                                                                                                                    ",
+  "Cuerpo": 9
  },
  {
   "Insumo": "032260002",
