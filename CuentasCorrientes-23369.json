@@ -2422,7 +2422,7 @@
   "SbIn": 2,
   "Nombre": "IBUPROFENO 400 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "17a"
+  "Cuerpo": "17a y Armario N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -2565,7 +2565,7 @@
   "SbIn": 1,
   "Nombre": "KETAMINA 500 MG  (50 MG\/ML) SOLUCION INYECTABLE",
   "Presentación": "VIAL X 10 ML ",
-  "Cuerpo": "Armario de Jefatura - Cuarto Psicotropicos - Cajon Psicotropicos",
+  "Cuerpo": "Armario de Jefatura - Cuarto Psicotropicos - Cajon Psicotropicos- Armario N°6",
   "Clasificacion": "P"
  },
  {
@@ -2721,7 +2721,7 @@
   "SbIn": 1,
   "Nombre": "LEVOTIROXINA 100 MCG ADMINISTRACIÓN ORAL",
   "Presentación": "VIAL X 1 ML  ",
-  "Cuerpo": "18d"
+  "Cuerpo": "18d y  Armario N°4"
  },
  {
   "Cta.Cte": 23369,
@@ -2729,7 +2729,7 @@
   "SbIn": 5,
   "Nombre": "LEVOTIROXINA 25 MCG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "18d"
+  "Cuerpo": "18d y  Armario N°4"
  },
  {
   "Cta.Cte": 23369,
@@ -2737,7 +2737,7 @@
   "SbIn": 2,
   "Nombre": "LEVOTIROXINA 50 MCG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "18d"
+  "Cuerpo": "18d y  Armario N°4"
  },
  {
   "Cta.Cte": 23369,
@@ -2745,7 +2745,7 @@
   "SbIn": 6,
   "Nombre": "LEVOTIROXINA 75 MCG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "18d"
+  "Cuerpo": "18d y  Armario N°4"
  },
  {
   "Cta.Cte": 23369,
@@ -2900,7 +2900,7 @@
   "SbIn": 1,
   "Nombre": "MELATONINA 3 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "19c"
+  "Cuerpo": "19c y Armario N°3"
  },
  {
   "Cta.Cte": 13679,
@@ -3071,7 +3071,7 @@
   "SbIn": 1,
   "Nombre": "MIDAZOLAM 15 MG ( 5MG\/ML ) SOLUCIÓN INYECTABLE",
   "Presentación": "VIAL X 3 ML  ",
-  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura - Cajon Psicotropicos - Armario N°6 - residencia",
+  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura - Cajon Psicotropicos - Armario N°6 - Residencia",
   "Clasificacion": "P"
  },
  {
@@ -3097,7 +3097,7 @@
   "SbIn": 1,
   "Nombre": "MODAFINILO ADMINISTRACION ORAL                                                                                                                                                                                                                                                  ",
   "Presentación": "X 200 MG     ",
-  "Cuerpo": "20c"
+  "Cuerpo": "20c - Armario Jefatura"
  },
  {
   "Cta.Cte": 23369,
@@ -3411,7 +3411,7 @@
   "SbIn": 6,
   "Nombre": "PARACETAMOL 1 G ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "21f"
+  "Cuerpo": "21f y Armario N°4"
  },
  {
   "Cta.Cte": 23369,
@@ -3435,7 +3435,7 @@
   "SbIn": 2,
   "Nombre": "PARACETAMOL 500 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "21f"
+  "Cuerpo": "21f y Armario N°4"
  },
  {
   "Cta.Cte": 23369,
@@ -3547,7 +3547,7 @@
   "SbIn": 1,
   "Nombre": "POLIVITAMINICOS CON MINERALES                                                                                                                                                                                                                                 ",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "22e"
+  "Cuerpo": "22e y  Armario N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -3596,7 +3596,7 @@
   "SbIn": 1,
   "Nombre": "PREGABALINA 75 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "22f",
+  "Cuerpo": "22f - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -4547,6 +4547,14 @@
   "Nombre": "ZONISAMIDE 50 MG                                                                                                                                                                                                                                              ",
   "Presentación": "COMPRIMIDO   ",
   "Cuerpo": "27e"
+ },
+ {
+  "Cta.Cte": 23369,
+  "Insumo": 31100009,
+  "SbIn": 1,
+  "Nombre": "FLECAINIDA 100 MG",
+  "Presentación": "CAPSULA",
+  "Cuerpo": "14e"
  }
 ]
 }
