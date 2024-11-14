@@ -72,7 +72,7 @@
   "SbIn": 2,
   "Nombre": "ACIDO ACETILSALICILICO (ASPIRINA) 100 MG ADMINISTRACIÓN ORAL ",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "2a - armario Nº3",
+  "Cuerpo": "2a - Armario Nº3",
   "Clasificacion": "A"
  },
  {
@@ -97,7 +97,7 @@
   "SbIn": 7,
   "Nombre": "ACIDO SALICILICO 20%                                                                                                                                                                                                                                          ",
   "Presentación": "45 ML",
-  "Cuerpo": "armario N°1"
+  "Cuerpo": "Armario N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -184,7 +184,7 @@
   "SbIn": 4,
   "Nombre": "ADAPALENO 0,1% ",
   "Presentación": "CREMA 40GRS  ",
-  "Cuerpo": "armario N°1"
+  "Cuerpo": "Armario N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -192,7 +192,7 @@
   "SbIn": 3,
   "Nombre": "ADAPALENO 0,1% + PEROXIDO DE BENZOILO 2,5%                                                                                                                                                                                                                    ",
   "Presentación": "POMO X 20G   ",
-  "Cuerpo": "armario N°1"
+  "Cuerpo": "Armario N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -225,7 +225,7 @@
   "SbIn": 3,
   "Nombre": "AGUA DESTILADA 1G\/ML SOLUCION INYECTABLE",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3"
+  "Cuerpo": "Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -257,7 +257,7 @@
   "SbIn": 4,
   "Nombre": "ALCOHOL ETILICO 70º                                                                                                                                                                                                                                           ",
   "Presentación": "X LT         ",
-  "Cuerpo": "PALED N°1"
+  "Cuerpo": "Pallet N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -265,7 +265,7 @@
   "SbIn": 1,
   "Nombre": "ALCOHOL ETILICO PURO 96º                                                                                                                                                                                                                                      ",
   "Presentación": "X 1000 GRAMOS",
-  "Cuerpo": "PALED N°1"
+  "Cuerpo": "Pallet N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -364,7 +364,7 @@
   "SbIn": 1,
   "Nombre": "AMITRIPTILINA 25 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28a - armario jefatura - cuarto psico",
+  "Cuerpo": "28a - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -397,7 +397,7 @@
   "SbIn": 3,
   "Nombre": "AMOXICILINA 500 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "7f - armario Nº3"
+  "Cuerpo": "7f - Armario Nº3"
  },
  {
   "Cta.Cte": 23369,
@@ -488,7 +488,7 @@
   "SbIn": 2,
   "Nombre": "ARIPIPRAZOL 10 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28a - armario jefatura - cuarto psico",
+  "Cuerpo": "28a - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -497,7 +497,7 @@
   "SbIn": 3,
   "Nombre": "ARIPIPRAZOL 5 MG                                                                                                                                                                                                                                              ",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28a - cuarto psico",
+  "Cuerpo": "28a - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -741,7 +741,7 @@
   "SbIn": 4,
   "Nombre": "CANNABIDIOL LIBRE DE THC 100 MG\/ML SOLUCION ORAL",
   "Presentación": "FCO X30\/35 ML",
-  "Cuerpo": "Cuarto de psico",
+  "Cuerpo": "Cuarto de Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -810,7 +810,7 @@
   "SbIn": 3,
   "Nombre": "CEFALEXINA 500 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "10a - armario Nº3"
+  "Cuerpo": "10a - Armario Nº3"
  },
  {
   "Cta.Cte": 23369,
@@ -1051,7 +1051,7 @@
   "SbIn": 2,
   "Nombre": "CLOBAZAM 10 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura - armario N°5",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura - Armario N°5",
   "Clasificacion": "P"
  },
  {
@@ -1060,7 +1060,7 @@
   "SbIn": 1,
   "Nombre": "CLOBETASOL 500 MCG\/G CREMA CUTÁNEA",
   "Presentación": "POMO X 15 G  ",
-  "Cuerpo": "armario N°1"
+  "Cuerpo": "Armario N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -1068,7 +1068,7 @@
   "SbIn": 3,
   "Nombre": "CLOBETASOL 500 MCG\/ML LOCIÓN TÓPICA",
   "Presentación": "FRASCO 30 ML ",
-  "Cuerpo": "armario N°1"
+  "Cuerpo": "Armario N°1"
  },
  {
   "Cta.Cte": 13679,
@@ -1076,7 +1076,7 @@
   "SbIn": 3,
   "Nombre": "CLONAZEPAM 0,25 % (2,5 MG\/ML) SOLUCIÓN ORAL",
   "Presentación": "FRASCO       ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1085,7 +1085,7 @@
   "SbIn": 1,
   "Nombre": "CLONAZEPAM 0,5 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1094,7 +1094,7 @@
   "SbIn": 2,
   "Nombre": "CLONAZEPAM 2 MG ADMINISTRACIÓN ORAL\n",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "Cuarto de psico - armario jefatura",
+  "Cuerpo": "Cuarto de Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1127,7 +1127,7 @@
   "SbIn": 13,
   "Nombre": "CLORHEXIDINA 4% SOL.JABONOSA BAGINBOX                                                                                                                                                                                                                         ",
   "Presentación": "UNIDAD 800ml",
-  "Cuerpo": "PALED N°2"
+  "Cuerpo": "Pallet N°2"
  },
  {
   "Cta.Cte": 23369,
@@ -1167,7 +1167,7 @@
   "SbIn": 1,
   "Nombre": "CLORPROMAZINA 25 MG ADMINISTRACIÓN ORAL\n",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1176,7 +1176,7 @@
   "SbIn": 4,
   "Nombre": "CLORPROMAZINA 50 MG  (25 MG\/ML) SOLUCION INYECTABLE ENDOVENOSA",
   "Presentación": "VIAL X 2 ML  ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1185,7 +1185,7 @@
   "SbIn": 2,
   "Nombre": "CLORURO DE POTASIO 1 MOLAR (74,6 MG\/ML) SOLUCIÓN INYECTABLE",
   "Presentación": "X100 ML      ",
-  "Cuerpo": "37 - PALED N°3",
+  "Cuerpo": "37 - Pallet N°3",
   "Clasificacion": "A"
  },
  {
@@ -1210,7 +1210,7 @@
   "SbIn": 7,
   "Nombre": "CLORURO DE SODIO ISOTONICO (9 MG\/ML) SOLUCION INYECTABLE",
   "Presentación": "X 2000 ML    ",
-  "Cuerpo": "PALED N°3"
+  "Cuerpo": "Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -1218,7 +1218,7 @@
   "SbIn": 20,
   "Nombre": "CLORURO DE SODIO ISOTONICO (9 MG\/ML) SOLUCION INYECTABLE, SISTEMA CERRADO, MINIMO 2 SITIOS DE INSERCION INDEPENDIENTES",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3"
+  "Cuerpo": "Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -1258,7 +1258,7 @@
   "SbIn": 1,
   "Nombre": "DANTROLENE  20 MG POLVO PARA SOLUCION INYECTABLE",
   "Presentación": "VIAL         ",
-  "Cuerpo": "cajon psico",
+  "Cuerpo": "Cajon Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -1375,7 +1375,7 @@
   "SbIn": 15,
   "Nombre": "DEXTROSA  5% (GLUCOSA 50 MG\/ ML) ESTERIL APIROGENA,SISTEMA CERRADO, MINIMO 2 SITIOS DE INSERCION INDEPENDIENTES",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3"
+  "Cuerpo": "Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -1383,7 +1383,7 @@
   "SbIn": 5,
   "Nombre": "DEXTROSA 10% (GLUCOSA 100 MG\/ML)",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3",
+  "Cuerpo": "Pallet N°3",
   "Clasificacion": "A"
  },
  {
@@ -1392,7 +1392,7 @@
   "SbIn": 7,
   "Nombre": "DEXTROSA 25% (GLUCOSA 250 MG\/ML)",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3",
+  "Cuerpo": "Pallet N°3",
   "Clasificacion": "A"
  },
  {
@@ -1401,7 +1401,7 @@
   "SbIn": 9,
   "Nombre": "DEXTROSA 50% (GLUCOSA 500 MG\/ ML)",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3",
+  "Cuerpo": "Pallet N°3",
   "Clasificacion": "A"
  },
  {
@@ -1410,7 +1410,7 @@
   "SbIn": 3,
   "Nombre": "DIAZEPAM 10 MG  (5 MG\/ML) SOLUCION INYECTABLE",
   "Presentación": "VIAL X 2 ML  ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1419,7 +1419,7 @@
   "SbIn": 1,
   "Nombre": "DIAZEPAM 10 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1428,7 +1428,7 @@
   "SbIn": 5,
   "Nombre": "DIAZEPAM 5 MG  (2 MG\/ML) SOLUCION PARA ADMINISTRACION RECTAL",
   "Presentación": "VIAL X 2,5 ML",
-  "Cuerpo": "28e - cuarto psico - armario jefatura",
+  "Cuerpo": "28e - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1437,7 +1437,7 @@
   "SbIn": 2,
   "Nombre": "DIAZEPAM 5 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28b - cuarto psico - armario jefatura",
+  "Cuerpo": "28b - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1478,7 +1478,7 @@
   "SbIn": 4,
   "Nombre": "DIFENHIDRAMINA 50 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "13a - armario N°3"
+  "Cuerpo": "13a - Armario N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -1833,7 +1833,7 @@
   "SbIn": 3,
   "Nombre": "FENOBARBITAL 100 MG  (50 MG\/ML) SOLUCION INYECTABLE",
   "Presentación": "VIAL X 2 ML  ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1842,7 +1842,7 @@
   "SbIn": 1,
   "Nombre": "FENOBARBITAL 100 MG  ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1851,7 +1851,7 @@
   "SbIn": 2,
   "Nombre": "FENOBARBITAL 15 MG  ADMINISTRACION ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -1868,7 +1868,7 @@
   "SbIn": 1,
   "Nombre": "FENTANILO  0,25 MG (0,05 MG\/ ML) SOLUCIÓN INYECTABLE",
   "Presentación": "VIAL X 5 ML  ",
-  "Cuerpo": "armario jefatura - armario N°6 - cajon psico",
+  "Cuerpo": "Armario Jefatura - Armario N°6 - Cajon Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -1918,7 +1918,7 @@
   "SbIn": 1,
   "Nombre": "FLUMAZENILO  0,5 MG (0,1 MG\/ ML) SOLUCION INYECTABLE",
   "Presentación": "VIAL X 5 ML  ",
-  "Cuerpo": "armario jefatura - cuarto psico",
+  "Cuerpo": "Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -1935,7 +1935,7 @@
   "SbIn": 1,
   "Nombre": "FLUOXETINA 20 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -2018,7 +2018,7 @@
   "SbIn": 7,
   "Nombre": "FORMULA MAGISTRAL N-ACETILCISTEINA 200 MG\/ML",
   "Presentación": "SUSPENSION   ",
-  "Cuerpo": "armario Nº3"
+  "Cuerpo": "Armario Nº3"
  },
  {
   "Cta.Cte": 23369,
@@ -2074,7 +2074,7 @@
   "SbIn": 3,
   "Nombre": "FUSIDICO ACIDO 20 MG+BETAMETASONA 1 MG                                                                                                                                                                                                                        ",
   "Presentación": "CREMA        ",
-  "Cuerpo": "armario N°1"
+  "Cuerpo": "Armario N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -2185,11 +2185,11 @@
  },
  {
   "Cta.Cte": 23369,
-  "Insumo": "650050477",
+  "Insumo": 650050477,
   "SbIn": 2,
   "Nombre": "GLUCOMETER (MEDIDOR DE GLUCOSA EN SANGRE)",
   "Presentación": "UNIDAD       ",
-  "Cuerpo": "armario N°2"
+  "Cuerpo": "Armario N°2"
  },
  {
   "Cta.Cte": 23369,
@@ -2221,7 +2221,7 @@
   "SbIn": 8,
   "Nombre": "HALOPERIDOL 2 MG\/ML, SOLUCIÓN ORAL",
   "Presentación": "FRASCO 20 ML ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -2230,7 +2230,7 @@
   "SbIn": 2,
   "Nombre": "HALOPERIDOL 5 MG  ADMINISTRACION ORAL",
   "Presentación": "COMPRIMDO    ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -2239,7 +2239,7 @@
   "SbIn": 4,
   "Nombre": "HALOPERIDOL 5 MG\/ ML SOLUCION INYECTABLE",
   "Presentación": "VIAL X 1 ML  ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -2332,7 +2332,7 @@
   "SbIn": 3,
   "Nombre": "HIDROXICINA COMPRIMIDO                                                                                                                                                                                                                                                   ",
   "Presentación": "X 10 MG.     ",
-  "Cuerpo": "cuarto psico - armario jefatura",
+  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -2381,7 +2381,7 @@
   "SbIn": 2,
   "Nombre": "HIDROXIZINA 10 MG\/ 5 ML  (2 MG\/ML) SOLUCIÓN PARA ADMINISTRACIÓN ORAL",
   "Presentación": "FRASCO       ",
-  "Cuerpo": "28c - cuarto psico - armario jefatura - armario N°5",
+  "Cuerpo": "28c - Cuarto Psicotropicos - Armario Jefatura - Armario N°5",
   "Clasificacion": "P"
  },
  {
@@ -2549,7 +2549,7 @@
   "SbIn": 1,
   "Nombre": "IVABRADINA 5 MG                                                                                                                                                                                                                                               ",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "armario N°2"
+  "Cuerpo": "Armario N°2"
  },
  {
   "Cta.Cte": 23369,
@@ -2557,7 +2557,7 @@
   "SbIn": 3,
   "Nombre": "JABON NEUTRO S\/COLORANTES S\/FRAGANCIA,PH DERMICO BAG IN BOX X 800ML",
   "Presentación": "JABON        ",
-  "Cuerpo": "PALED N°2"
+  "Cuerpo": "Pallet N°2"
  },
  {
   "Cta.Cte": 13679,
@@ -2565,7 +2565,7 @@
   "SbIn": 1,
   "Nombre": "KETAMINA 500 MG  (50 MG\/ML) SOLUCION INYECTABLE",
   "Presentación": "VIAL X 10 ML ",
-  "Cuerpo": "armario de jefatura - cuarto psico - cajon psico",
+  "Cuerpo": "Armario de Jefatura - Cuarto Psicotropicos - Cajon Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -2686,7 +2686,7 @@
   "SbIn": 1,
   "Nombre": "LEVOMEPROMAZINA 2 MG ADMINISTRACION ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28c - armario jefatura - cuarto psico",
+  "Cuerpo": "28c - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -2695,7 +2695,7 @@
   "SbIn": 2,
   "Nombre": "LEVOMEPROMAZINA 25 MG ADMINISTRACION ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -2704,7 +2704,7 @@
   "SbIn": 3,
   "Nombre": "LEVOMEPROMAZINA 25MG\/ ML SOLUCION INYECTABLE",
   "Presentación": "VIAL X 1 ML  ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -2801,7 +2801,7 @@
   "SbIn": 6,
   "Nombre": "LOCION HIDROALCOHOLICA",
   "Presentación": "UNIDAD 800ML",
-  "Cuerpo": "PALED N°2"
+  "Cuerpo": "Pallet N°2"
  },
  {
   "Cta.Cte": 23369,
@@ -2809,7 +2809,7 @@
   "SbIn": 8,
   "Nombre": "LOCION POLIALCOHOLICA(ALCOHOL ETILICO, ISOPROPILICO Y BISOBOLOL)  BAG IN BOX X 800 ML                                                                                                                                                                         ",
   "Presentación": "X 800 ML     ",
-  "Cuerpo": "PALED N°2"
+  "Cuerpo": "Pallet N°2"
  },
  {
   "Cta.Cte": 23369,
@@ -2833,7 +2833,7 @@
   "SbIn": 6,
   "Nombre": "LORAZEPAM 1 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -2842,7 +2842,7 @@
   "SbIn": 2,
   "Nombre": "LORAZEPAM 2,5 MG ADMINISTRACIÓN ORAL ",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -2876,7 +2876,7 @@
   "SbIn": 1,
   "Nombre": "MANITOL 15 % (150 MG\/ML) SOLUCION INYECTABLE",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3"
+  "Cuerpo": "Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -2908,7 +2908,7 @@
   "SbIn": 1,
   "Nombre": "MEPERIDINA AMPOLLA                                                                                                                                                                                                                                                    ",
   "Presentación": "X 100 MG     ",
-  "Cuerpo": "cajon psico - cuarto psico",
+  "Cuerpo": "Cajon Psicotropicos - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -2957,7 +2957,7 @@
   "SbIn": 1,
   "Nombre": "METFORMINA 500 MG ADMINISTRACIÓN ORAL",
   "Presentación": "UNIDAD       ",
-  "Cuerpo": "4d - armario Nº3",
+  "Cuerpo": "4d - Armario Nº3",
   "Clasificacion": "A"
  },
  {
@@ -2974,7 +2974,7 @@
   "SbIn": 1,
   "Nombre": "METILFENIDATO 10 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "cuarto psico",
+  "Cuerpo": "Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -3039,7 +3039,7 @@
   "SbIn": 4,
   "Nombre": "METRONIDAZOL 500 MG  (5 MG\/ML) SOLUCION INYECTABLE",
   "Presentación": "BOLSA 100 ML ",
-  "Cuerpo": "20b - PALED N°3"
+  "Cuerpo": "20b - Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -3071,7 +3071,7 @@
   "SbIn": 1,
   "Nombre": "MIDAZOLAM 15 MG ( 5MG\/ML ) SOLUCIÓN INYECTABLE",
   "Presentación": "VIAL X 3 ML  ",
-  "Cuerpo": "cuarto psico - armario jefatura - cajon psico - armario N°6 - residencia",
+  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura - Cajon Psicotropicos - Armario N°6 - residencia",
   "Clasificacion": "P"
  },
  {
@@ -3113,7 +3113,7 @@
   "SbIn": 2,
   "Nombre": "MONTELUKAST 5 MG ADMINISTRACION ORAL \n",
   "Presentación": "COMPRIMIDO ",
-  "Cuerpo": "20c - armario N°3"
+  "Cuerpo": "20c - Armario N°3"
  },
  {
   "Cta.Cte": 13679,
@@ -3121,7 +3121,7 @@
   "SbIn": 1,
   "Nombre": "MORFINA CLORHIDRATO 10 MG SOLUCIÓN INYECTABLE\n",
   "Presentación": "VIAL X 1 ML  ",
-  "Cuerpo": "cuarto psico - armario jefatura - cajon psico - armario N°6",
+  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura - Cajon Psicotropicos - Armario N°6",
   "Clasificacion": "P"
  },
  {
@@ -3138,7 +3138,7 @@
   "SbIn": 6,
   "Nombre": "N-ACETILCISTEÍNA 600 MG  GRANULADO PARA SOLUCIÓN ORAL",
   "Presentación": "SOBRE        ",
-  "Cuerpo": "6a - armario Nº3"
+  "Cuerpo": "6a - Armario Nº3"
  },
  {
   "Cta.Cte": 23369,
@@ -3154,7 +3154,7 @@
   "SbIn": 2,
   "Nombre": "NALBUFINA 10 MG\/ML SOLUCION INYECTABLE",
   "Presentación": "VIAL X 1 ML  ",
-  "Cuerpo": "cuarto psico - armario jefatura - cajon psico",
+  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura - Cajon Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -3163,7 +3163,7 @@
   "SbIn": 1,
   "Nombre": "NALOXONA CLORHIDRATO 0,4 MG \/ ML SOLUCION INYECTABLE",
   "Presentación": "VIAL X 1 ML  ",
-  "Cuerpo": "cuarto psico - armario jefatura - cajon psico",
+  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura - Cajon Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -3172,7 +3172,7 @@
   "SbIn": 2,
   "Nombre": "NAPROXENO 500 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "20d - armario N°4"
+  "Cuerpo": "20d - Armario N°4"
  },
  {
   "Cta.Cte": 23369,
@@ -3288,7 +3288,7 @@
   "SbIn": 2,
   "Nombre": "OLANZAPINA 10 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -3297,7 +3297,7 @@
   "SbIn": 1,
   "Nombre": "OLANZAPINA 5 MG ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -3684,7 +3684,7 @@
   "SbIn": 1,
   "Nombre": "REMIFENTANILO 5 MG POLVO PARA SOLUCIÓN INYECTABLE\n",
   "Presentación": "VIAL X 10 ML ",
-  "Cuerpo": "cuarto psico - cajon psico - armario jefatura - armario N°6",
+  "Cuerpo": "Cuarto Psicotropicos - Cajon Psicotropicos - Armario Jefatura - Armario N°6",
   "Clasificacion": "P"
  },
  {
@@ -3765,7 +3765,7 @@
   "SbIn": 5,
   "Nombre": "RINGER LACTATO  (CLORURO DE CALCIO 0,2 MG\/ML, CLORURO DE POTASIO 0,3 MG\/ML, CLORURO DE SODIO 6 MG\/ML Y LACTATO DE SODIO 3,1 MG\/ML), SISTEMA CERRADO",
   "Presentación": "X 500 ML     ",
-  "Cuerpo": "PALED N°3"
+  "Cuerpo": "Pallet N°3"
  },
  {
   "Cta.Cte": 13679,
@@ -3773,7 +3773,7 @@
   "SbIn": 1,
   "Nombre": "RISPERIDONA 1 MG ADMINISTRACIÓN ORAL \n",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -3782,7 +3782,7 @@
   "SbIn": 5,
   "Nombre": "RISPERIDONA 1 MG\/ML SOLUCION ORAL",
   "Presentación": "FRASCO 30 ML ",
-  "Cuerpo": "28d - armario jefatura - cuarto psico - armario N°5",
+  "Cuerpo": "28d - Armario Jefatura - Cuarto Psicotropicos - Armario N°5",
   "Clasificacion": "P"
  },
  {
@@ -3864,7 +3864,7 @@
   "SbIn": 1,
   "Nombre": "SERTRALINA 50 MG ADMINISTRACIÓN ORAL\n",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "28d - cuarto de psico - armario de jefatura",
+  "Cuerpo": "28d - Cuarto de Psicotropicos - Armario de Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -3882,7 +3882,7 @@
   "SbIn": 2,
   "Nombre": "SILDENAFILO 50 MG  ADMINISTRACIÓN ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "cuarto psico - armario jefatura",
+  "Cuerpo": "Cuarto Psicotropicos - Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -3908,7 +3908,7 @@
   "SbIn": 2,
   "Nombre": "SODIO BICARBONATO MOLAR (84 MG\/ ML) SOLUCION INYECTABLE",
   "Presentación": "X 100 ML     ",
-  "Cuerpo": "37 - PALED N°3",
+  "Cuerpo": "37 - Pallet N°3",
   "Clasificacion": "A"
  },
  {
@@ -3917,7 +3917,7 @@
   "SbIn": 16,
   "Nombre": "SODIO CLORURO 20% (200 MG\/ML) SOLUCION INYECTABLE, SISTEMA CERRADO",
   "Presentación": "X 100 ML     ",
-  "Cuerpo": "37 - PALED N°3",
+  "Cuerpo": "37 - Pallet N°3",
   "Clasificacion": "A"
  },
  {
@@ -3926,7 +3926,7 @@
   "SbIn": 2,
   "Nombre": "SODIO ISOTONICO CLORURO ESTERIL. APIROGENO, SISTEMA CERRADO, MÍNIMO 2 PUERTOS DE INSERCIÓN INDEPENDIENTES CON SEPARACIÓN MÍNIMA DE  1,5 CM",
   "Presentación": "X 100 ML.    ",
-  "Cuerpo": "PALED N°3"
+  "Cuerpo": "Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -3934,7 +3934,7 @@
   "SbIn": 28,
   "Nombre": "SODIO ISOTONICO CLORURO JERINGA ESTERIL X 10ML                                                                                                                                                                                                                ",
   "Presentación": "JER. PRELLENA",
-  "Cuerpo": "36e - PALED N°3"
+  "Cuerpo": "36e - Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -3942,7 +3942,7 @@
   "SbIn": 27,
   "Nombre": "SODIO ISOTONICO CLORURO JERINGA ESTERIL X 5ML                                                                                                                                                                                                                 ",
   "Presentación": "JER. PRELLENA",
-  "Cuerpo": "36d - PALED N°3"
+  "Cuerpo": "36d - Pallet N°3"
  },
  {
   "Cta.Cte": 23369,
@@ -4105,7 +4105,7 @@
   "SbIn": 2,
   "Nombre": "TALIDOMIDA 100 MG ",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "armario jefatura",
+  "Cuerpo": "Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -4122,7 +4122,7 @@
   "SbIn": 4,
   "Nombre": "TESTOSTERONA 1% GEL                                                                                                                                                                                                                                           ",
   "Presentación": "SOBRE X 5 G  ",
-  "Cuerpo": "cuarto psico",
+  "Cuerpo": "Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -4131,7 +4131,7 @@
   "SbIn": 5,
   "Nombre": "TESTOSTERONA, UNDECANOATO 1.000 MG (250 MG\/ML), SOLUCION INYECTABLE DE LIBERACION PROLONGADA",
   "Presentación": "VIAL X 4 ML  ",
-  "Cuerpo": "cuarto psico",
+  "Cuerpo": "Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -4156,7 +4156,7 @@
   "SbIn": 1,
   "Nombre": "TIOPENTAL SÓDICO 1 G POLVO PARA SOLUCIÓN INYECTABLE",
   "Presentación": "VIAL         ",
-  "Cuerpo": "cuarto psico - cajon psico",
+  "Cuerpo": "Cuarto Psicotropicos - Cajon Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -4165,7 +4165,7 @@
   "SbIn": 2,
   "Nombre": "TIORIDAZINA 25 MG ADMINISTRACIÓN ORAL \n",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "armario jefatura",
+  "Cuerpo": "Armario Jefatura",
   "Clasificacion": "P"
  },
  {
@@ -4263,7 +4263,7 @@
   "SbIn": 7,
   "Nombre": "TRAMADOL 50 MG\/ML SOLUCIÓN ORAL",
   "Presentación": "FRASCO 20 ML ",
-  "Cuerpo": "cuarto psico",
+  "Cuerpo": "Cuarto Psicotropicos",
   "Clasificacion": "P"
  },
  {
@@ -4394,7 +4394,7 @@
   "SbIn": 2,
   "Nombre": "VITAMINA A                                                                                                                                                                                                                                                    ",
   "Presentación": "CREMA        ",
-  "Cuerpo": "armario N°1"
+  "Cuerpo": "Armario N°1"
  },
  {
   "Cta.Cte": 23369,
@@ -4506,7 +4506,7 @@
   "SbIn": 10,
   "Nombre": "VITAMINAS+CIPROHEPTADINA                                                                                                                                                                                                                                      ",
   "Presentación": "JARABE       ",
-  "Cuerpo": "armario N°3"
+  "Cuerpo": "Armario N°3"
  },
  {
   "Cta.Cte": 23369,
