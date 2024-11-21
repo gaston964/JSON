@@ -1194,7 +1194,7 @@
   "SbIn": 11,
   "Nombre": "CLORURO DE SODIO AL 7% (70 MG\/ML), SOLUCION  HIPERSALINA PARA NEBULIZACION",
   "Presentación": "AMPOLLA ",
-  "Cuerpo": "24a"
+  "Cuerpo": "12b"
  },
  {
   "Cta.Cte": 23369,
@@ -4072,7 +4072,7 @@
   "SbIn": 2,
   "Nombre": "SULTIAME (SULTIAMINA) 200 MG  ADMINISTRACION ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "24d"
+  "Cuerpo": "24d - 29a"
  },
  {
   "Cta.Cte": 23369,
@@ -4080,7 +4080,7 @@
   "SbIn": 1,
   "Nombre": "SULTIAME (SULTIAMINA) 50 MG ADMINISTRACION ORAL",
   "Presentación": "COMPRIMIDO   ",
-  "Cuerpo": "24d"
+  "Cuerpo": "24d - 29b"
  },
  {
   "Cta.Cte": 23369,
@@ -4089,7 +4089,8 @@
   "Nombre": "SURFACTANTE PULMONAR BOVINO 200 MG (25 MG\/ML), SUSPENSION PARA INSTILACION INTRATRAQUEAL",
   "Presentación": "CAP.X 30     ",
   "Cuerpo": "HELADERA N°2",
-  "Clasificacion": "H"
+  "Clasificacion": "H",
+  "Column10": "B"
  },
  {
   "Cta.Cte": 23369,
@@ -4555,6 +4556,32 @@
   "Nombre": "FLECAINIDA 100 MG",
   "Presentación": "CAPSULA",
   "Cuerpo": "14e"
+ },
+ {
+  "Cta.Cte": 23369,
+  "Insumo": 31200003,
+  "SbIn": 4,
+  "Nombre": "HEPARINA DE BAJO PESO MOLECULAR 80 UI (ENOXAPARINA 80MG\/0.8ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "JER. PRELLENA 0.8 ML",
+  "Cuerpo": "4b",
+  "Clasificacion": "A"
+ },
+ {
+  "Cta.Cte": 23369,
+  "Insumo": 31100003,
+  "SbIn": 2,
+  "Nombre": "AMIODARONA 150MG (50MG\/ML) SOLUCION INYCTABLE",
+  "Presentación": "VIAL X 3ML   ",
+  "Cuerpo": "2d",
+  "Clasificacion": "A"
+ },
+ {
+  "Cta.Cte": 23369,
+  "Insumo": 31120012,
+  "SbIn": 7,
+  "Nombre": "SALMETEROL 25 MCG + FLUTICASONA 250 MCG\/ DISPARO SUSPENSIÓN PRESURIZADA PARA INHALACIÓN",
+  "Presentación": "AEROSOL",
+  "Cuerpo": "23f"
  }
 ]
 }
