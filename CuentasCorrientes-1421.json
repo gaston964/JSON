@@ -1778,7 +1778,7 @@
   "Insumo": "032120003",
   "SbIn": 28,
   "Nombre": "CANULA DE TRAQUEOTOMIA C\/BALON Y ASPIRACION SUBGLOTICA DESC.EST  Nº7                                                                                                                                                                                          ",
-  "Cuerpo": 15
+  "Cuerpo": 16
  },
  {
   "Insumo": "032120003",
@@ -1814,7 +1814,7 @@
   "Insumo": "032120003",
   "SbIn": 37,
   "Nombre": "CANULA TRAQUEOSTOMIA N°5,5 APROX. DE SILICONA DESC. ESTERIL                                                                                                                                                                                                   ",
-  "Cuerpo": 16
+  "Cuerpo": 15
  },
  {
   "Insumo": "032120003",
@@ -1844,25 +1844,25 @@
   "Insumo": "032120003",
   "SbIn": 50,
   "Nombre": "CANULA DE TRAQUEOTOMIA N°7 DE SILICONA C\/BALON DESC.ESTERIL                                                                                                                                                                                                   ",
-  "Cuerpo": 15
+  "Cuerpo": 16
  },
  {
   "Insumo": "032120003",
   "SbIn": 51,
   "Nombre": "CANULA DE TRAQUEOTOMIA N°7,5 C\/BALON DE SILICONA DESC.ESTERIL                                                                                                                                                                                                 ",
-  "Cuerpo": 15
+  "Cuerpo": 16
  },
  {
   "Insumo": "032120003",
   "SbIn": 52,
   "Nombre": "CANULA DE TRAQUEOTOMIA Nº6 C\/BALON DE SILICONA DESC. ESTERIL                                                                                                                                                                                                  ",
-  "Cuerpo": 15
+  "Cuerpo": 16
  },
  {
   "Insumo": "032120003",
   "SbIn": 54,
   "Nombre": "CANULA DE TRAQUEOTOMIA Nº6,5 C\/BALON DE SILICONA DESC.ESTERIL                                                                                                                                                                                                 ",
-  "Cuerpo": 15
+  "Cuerpo": 16
  },
  {
   "Insumo": "032120003",
@@ -1910,37 +1910,37 @@
   "Insumo": "032120003",
   "SbIn": 77,
   "Nombre": "CANULA DE TRAQUEOTOMIA CORTA  N° 2,5 DE SILICONA, S\/BALON,",
-  "Cuerpo": 16
+  "Cuerpo": 15
  },
  {
   "Insumo": "032120003",
   "SbIn": 78,
   "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 3,0 DE SILICONA, S\/BALON,",
-  "Cuerpo": 16
+  "Cuerpo": 15
  },
  {
   "Insumo": "032120003",
   "SbIn": 79,
   "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 3,5 DE SILICONA, S\/BALON,\tUIDAD\tActivo\n",
-  "Cuerpo": 16
+  "Cuerpo": 15
  },
  {
   "Insumo": "032120003",
   "SbIn": 80,
   "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 4,0 DE SILICONA, S\/BALON,\tUIDAD\tActivo\n",
-  "Cuerpo": 16
+  "Cuerpo": 15
  },
  {
   "Insumo": "032120003",
   "SbIn": 81,
   "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 4,5 DE SILICONA, S\/BALON,\tUIDAD\tActivo\n",
-  "Cuerpo": 16
+  "Cuerpo": 15
  },
  {
   "Insumo": "032120003",
   "SbIn": 82,
   "Nombre": "CANULA DE TRAQUEOTOMIA CORTA N° 5,0 DE SILICONA, S\/BALON,\tUIDAD\tActivo\n",
-  "Cuerpo": 16
+  "Cuerpo": 15
  },
  {
   "Insumo": "032120004",
@@ -2054,13 +2054,13 @@
   "Insumo": "032120006",
   "SbIn": 5,
   "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO K 30 P).LONG 105 CM POR 2.8 MM DIAM.DESC.EST.                                                                                                                                                                               ",
-  "Cuerpo": 23
+  "Cuerpo": 19
  },
  {
   "Insumo": "032120006",
   "SbIn": 6,
   "Nombre": "SONDA P\/INH O SUCCION MUCUS (TIPO 31 P) LONG 105 CM X 2.3 MM DIAM.DESC.EST.                                                                                                                                                                                   ",
-  "Cuerpo": 23
+  "Cuerpo": 19
  },
  {
   "Insumo": "032120007",
@@ -4215,5 +4215,11 @@
   "SbIn": 3,
   "Nombre": "LIPIODOL ULTRAFLUIDO IODADOS DEL ACEITE DE ADORMIDERA",
   "Cuerpo": "HELADERA 9 - MACROFARMA"
+ },
+ {
+  "Insumo": 32080032,
+  "SbIn": 1,
+  "Nombre": "CINTA PARA CIERRE DE HERIDAS",
+  "Cuerpo": 9
  }
 ]
