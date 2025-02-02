@@ -1,0 +1,3685 @@
+{
+"Sheet0":[
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010001",
+  "SbIn": 2,
+  "Nombre": "ACIDO ACETILSALICILICO (ASPIRINA) 100 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010002",
+  "SbIn": 1,
+  "Nombre": "ALOPURINOL 300 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010002",
+  "SbIn": 2,
+  "Nombre": "ALOPURINOL 100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010004",
+  "SbIn": 1,
+  "Nombre": "DICLOFENAC 75 MG  (25 MG\/ ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 3ML   ",
+  "Cuerpo": "6a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010005",
+  "SbIn": 1,
+  "Nombre": "DIPIRONA 1 G  (500 MG\/ML) SOLUCIÓN INYECTABLE ",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "5b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010005",
+  "SbIn": 4,
+  "Nombre": "DIPIRONA 5%  (50 MG\/ML) SOLUCIÓN ORAL",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "5b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010006",
+  "SbIn": 1,
+  "Nombre": "IBUPROFENO 2% (20 MG\/ML) SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO X 90ML",
+  "Cuerpo": "8b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010006",
+  "SbIn": 2,
+  "Nombre": "IBUPROFENO 400 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010006",
+  "SbIn": 7,
+  "Nombre": "IBUPROFENO 4% (40 MG\/ML) SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO X 90ML",
+  "Cuerpo": "8b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010006",
+  "SbIn": 13,
+  "Nombre": "IBUPROFENO 600 MG (6 MG\/ML) SOLUCIÓN PARA INFUSIÓN",
+  "Presentación": "VIAL X 100 ML",
+  "Cuerpo": "8b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010008",
+  "SbIn": 2,
+  "Nombre": "KETOROLAC  30 MG SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "7c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010009",
+  "SbIn": 1,
+  "Nombre": "PARACETAMOL 100 MG\/ML SOLUCIÓN ORAL",
+  "Presentación": "FRASCO 20 ML ",
+  "Cuerpo": "9d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010009",
+  "SbIn": 2,
+  "Nombre": "PARACETAMOL 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "cajon "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010009",
+  "SbIn": 6,
+  "Nombre": "PARACETAMOL 1 G ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "cajon "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010009",
+  "SbIn": 7,
+  "Nombre": "PARACETAMOL 1 GRAMO (10 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 100ML ",
+  "Cuerpo": "9d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010011",
+  "SbIn": 2,
+  "Nombre": "NAPROXENO 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "cajon "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010021",
+  "SbIn": 2,
+  "Nombre": "MESALAZINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "12a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010021",
+  "SbIn": 3,
+  "Nombre": "MESALAZINA 1 G  GRANULOS  PARA ADMINISTRACIÓN ORAL",
+  "Presentación": "SOBRE        ",
+  "Cuerpo": "12a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031010230",
+  "SbIn": 3,
+  "Nombre": "L-CARNITINA (LEVOCARNITINA) 100 MG\/ ML SOLUCION ORAL",
+  "Presentación": "FRASCO 10 ML ",
+  "Cuerpo": "8c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031031003",
+  "SbIn": 6,
+  "Nombre": "LIDOCAINA 2 % (20 MG\/ ML)SOLUCION INYECTABLE\n",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "9a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031031003",
+  "SbIn": 9,
+  "Nombre": "LIDOCAINA 20 MG\/ML  JALEA PARA APLICACIÓN  OROMUCOSA",
+  "Presentación": "TUBO 25 ML   ",
+  "Cuerpo": "9a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031032003",
+  "SbIn": 1,
+  "Nombre": "PROPOFOL 200 MG (10 MG\/ML-1%) EMULSIÓN INYECTABLE",
+  "Presentación": "VIAL X 20 ML ",
+  "Cuerpo": "heladera 4"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031032008",
+  "SbIn": 1,
+  "Nombre": "DEXMEDETOMIDINA CLORHIDRATO 200 MCG (100 MCG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "1c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031040001",
+  "SbIn": 1,
+  "Nombre": "DIFENHIDRAMINA 2,5 MG\/ML SOLUCIÓN ADMINISTRACIÓN  ORAL",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "6a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031040001",
+  "SbIn": 2,
+  "Nombre": "DIFENHIDRAMINA 10 MG\/ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 1 ML  ",
+  "Cuerpo": "6a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031040001",
+  "SbIn": 3,
+  "Nombre": "DIFENHIDRAMINA 10 MG\/ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 10 ML ",
+  "Cuerpo": "5b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031040001",
+  "SbIn": 4,
+  "Nombre": "DIFENHIDRAMINA 50 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "cajon"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031040005",
+  "SbIn": 2,
+  "Nombre": "CETIRIZINA 100 MG (10 MG\/ML) SOLUCIÓN ORAL",
+  "Presentación": "FRASCO  10 ML",
+  "Cuerpo": "3e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050001",
+  "SbIn": 1,
+  "Nombre": "ATROPINA 1 MG\/ML SOLUCIÓN INYECTABLE \n",
+  "Presentación": "VIAL X 1 ML  ",
+  "Cuerpo": "3b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050001",
+  "SbIn": 2,
+  "Nombre": "ATROPINA 1% (10 MG\/ML) SOLUCIÓN OFTÁLMICA",
+  "Presentación": "FRASCO 5 ML  ",
+  "Cuerpo": "3b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050003",
+  "SbIn": 1,
+  "Nombre": "NALOXONA CLORHIDRATO 0,4 MG \/ ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 1 ML  ",
+  "Cuerpo": "9c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050008",
+  "SbIn": 1,
+  "Nombre": "FLUMAZENILO  0,5 MG (0,1 MG\/ ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "6d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050009",
+  "SbIn": 1,
+  "Nombre": "LEUCOVORINA CÁLCICA 50 MG (10MG\/ML) SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "7d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050009",
+  "SbIn": 2,
+  "Nombre": "LEUCOVORINA CÁLCICA 15 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "8d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050014",
+  "SbIn": 6,
+  "Nombre": "N-ACETILCISTEÍNA 600 MG  GRANULADO PARA SOLUCIÓN ORAL",
+  "Presentación": "SOBRE        ",
+  "Cuerpo": "12b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050018",
+  "SbIn": 1,
+  "Nombre": "DEFERASIROX 500 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031050018",
+  "SbIn": 2,
+  "Nombre": "DEFERASIROX 250 MG                                                                                                                                                                                                                                            ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060001",
+  "SbIn": 1,
+  "Nombre": "CARBAMAZEPINA AL 2%  (20 MG\/ML) SUSPENSIÓN ORAL\n",
+  "Presentación": "FRASCO 100 ML",
+  "Cuerpo": "2b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060001",
+  "SbIn": 2,
+  "Nombre": "CARBAMAZEPINA 200 MG  ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060001",
+  "SbIn": 3,
+  "Nombre": "CARBAMAZEPINA 400 MG  ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060002",
+  "SbIn": 1,
+  "Nombre": "FENITOINA 100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "2c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060002",
+  "SbIn": 2,
+  "Nombre": "FENITOINA 25 MG\/ML SUSPENSION ORAL",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "2c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060002",
+  "SbIn": 3,
+  "Nombre": "FENITOINA SODICA  100 MG  (50 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "2c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060004",
+  "SbIn": 1,
+  "Nombre": "GABAPENTINA 100 MG  ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060004",
+  "SbIn": 2,
+  "Nombre": "GABAPENTINA 300 MG  ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060005",
+  "SbIn": 1,
+  "Nombre": "LAMOTRIGINA 100 MG  ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060006",
+  "SbIn": 1,
+  "Nombre": "OXCARBAZEPINA 300 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "12c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060006",
+  "SbIn": 2,
+  "Nombre": "OXCARBAZEPINA 600 MG  ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "12c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060006",
+  "SbIn": 3,
+  "Nombre": "OXCARBAZEPINA 6% (60 MG\/ML) SUSPENSION PARA ADMINISTRACION ORAL",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "12c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060009",
+  "SbIn": 1,
+  "Nombre": "VIGABATRIN 500 MG",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "13f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060011",
+  "SbIn": 3,
+  "Nombre": "ACIDO VALPROICO 250MG\/5ML (50 MG\/ML) SOLUCIÓN ORAL \n",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "2a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060011",
+  "SbIn": 4,
+  "Nombre": "ACIDO VALPROICO 500 MG (SAL DE SODIO) ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060011",
+  "SbIn": 5,
+  "Nombre": "ACIDO VALPROICO 250 MG ( SAL DE SODIO) ADMINISTRACIÓN ORAL \n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060011",
+  "SbIn": 6,
+  "Nombre": "ACIDO VALPROICO 400 MG ( SAL DE MAGNESIO) ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060011",
+  "SbIn": 7,
+  "Nombre": "ACIDO VALPROICO 200 MG (SAL DE MAGNESIO) ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060011",
+  "SbIn": 9,
+  "Nombre": "ACIDO VALPROICO 125 MG (DIVALPROATO DE SODIO) ADMINISTRACIÓN ORAL",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "1a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060012",
+  "SbIn": 1,
+  "Nombre": "TOPIRAMATO 50 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "13d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060012",
+  "SbIn": 2,
+  "Nombre": "TOPIRAMATO 100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "13d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060012",
+  "SbIn": 3,
+  "Nombre": "TOPIRAMATO 25 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "13d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060014",
+  "SbIn": 1,
+  "Nombre": "ETOSUXIMIDA                                                                                                                                                                                                                                                   ",
+  "Presentación": "X 250 MG     ",
+  "Cuerpo": "6c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060014",
+  "SbIn": 3,
+  "Nombre": "ETOSUXIMIDA 5%  (50 MG\/ML)  SOLUCION ORAL",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "6c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060019",
+  "SbIn": 2,
+  "Nombre": "LEVETIRACETAM 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060019",
+  "SbIn": 3,
+  "Nombre": "LEVETIRACETAM 100 MG\/ML SOLUCIÓN ORAL",
+  "Presentación": "FRASCO 300ML ",
+  "Cuerpo": "7e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060019",
+  "SbIn": 4,
+  "Nombre": "LEVETIRACETAM 500 MG (100 MG\/ML) SOLUCIÓN INYECTABLE \n",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "7e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060020",
+  "SbIn": 1,
+  "Nombre": "PREGABALINA 75 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "10e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060021",
+  "SbIn": 1,
+  "Nombre": "ZONISAMIDE 50 MG                                                                                                                                                                                                                                              ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "14f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060022",
+  "SbIn": 1,
+  "Nombre": "LACOSAMIDA 100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "8c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060023",
+  "SbIn": 1,
+  "Nombre": "SULTIAME (SULTIAMINA) 50 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "14b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060023",
+  "SbIn": 2,
+  "Nombre": "SULTIAME (SULTIAMINA) 200 MG  ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "14b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031060024",
+  "SbIn": 1,
+  "Nombre": "RUFINAMIDA 200 mg                                                                                                                                                                                                                                             ",
+  "Presentación": "COMPRIMIDOS  ",
+  "Cuerpo": "11e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031070001",
+  "SbIn": 2,
+  "Nombre": "ACICLOVIR 500 MG  POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "1e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031070001",
+  "SbIn": 4,
+  "Nombre": "ACICLOVIR 5% ADMINISTRACION DERMICA",
+  "Presentación": "CREMA        ",
+  "Cuerpo": "1e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031070001",
+  "SbIn": 5,
+  "Nombre": "ACICLOVIR  80 MG\/ML  SUSPENSION ORAL",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "1e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031070001",
+  "SbIn": 7,
+  "Nombre": "ACICLOVIR 800 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031070003",
+  "SbIn": 2,
+  "Nombre": "GANCICLOVIR 500 MG POLVO PARA SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "5f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031070012",
+  "SbIn": 1,
+  "Nombre": "OSELTAMIVIR 75 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "12c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031070012",
+  "SbIn": 5,
+  "Nombre": "OSELTAMIVIR 15 MG\/ML MAGISTRAL(OSELTAMIVIR 1,5 G + ACIDO CITRICO SOL 4% CSP PH:4-5 JARABE SIMPLE CSP 100 ML",
+  "Presentación": "JARABE 100 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031071001",
+  "SbIn": 6,
+  "Nombre": "ALBENDAZOL 400 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031071002",
+  "SbIn": 1,
+  "Nombre": "MEBENDAZOL 200 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "11a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031071002",
+  "SbIn": 4,
+  "Nombre": "MEBENDAZOL 2% (20MG\/ML) SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO X30 ML",
+  "Cuerpo": "10a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031071005",
+  "SbIn": 1,
+  "Nombre": "BENZNIDAZOL 100 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031071007",
+  "SbIn": 1,
+  "Nombre": "PIRIMETAMINA 25 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031071018",
+  "SbIn": 1,
+  "Nombre": "MILTEFOSINA 50 MG",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072001",
+  "SbIn": 2,
+  "Nombre": "AMIKACINA 500 MG (250 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "1f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072001",
+  "SbIn": 4,
+  "Nombre": "AMIKACINA 100 MG (50 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "1f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072002",
+  "SbIn": 1,
+  "Nombre": "GENTAMICINA 20 MG\/ML SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 1 ML  ",
+  "Cuerpo": "6f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072002",
+  "SbIn": 2,
+  "Nombre": "GENTAMICINA 80 MG (40 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "6f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072003",
+  "SbIn": 1,
+  "Nombre": "TOBRAMICINA 0,3% (3 MG\/ML) SOLUCIÓN OFTÁLMICA",
+  "Presentación": "FRASCO X 5 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072003",
+  "SbIn": 2,
+  "Nombre": "TOBRAMICINA 0.3% ( 3MG\/G ) GEL OFTÁLMICO",
+  "Presentación": "TUBO X 5 G   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072003",
+  "SbIn": 3,
+  "Nombre": "DEXAMETASONA 1 MG\/ML + TOBRAMICINA 3 MG\/ML GOTAS OFTALMICAS",
+  "Presentación": "FRASCO 5 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072003",
+  "SbIn": 4,
+  "Nombre": "TOBRAMICINA 300 MG POLVO PARA SOLUCIÓN INHALATORIA\n\t",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031072003",
+  "SbIn": 5,
+  "Nombre": "TOBRAMICINA 28 MG POR CADA DISPARO DE POLVO PARA INHALACION",
+  "Presentación": "CAPSULA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073002",
+  "SbIn": 2,
+  "Nombre": "AMOXICILINA 500 MG\/5 ML (100 MG\/ML) SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO 90 ML ",
+  "Cuerpo": "2f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073002",
+  "SbIn": 3,
+  "Nombre": "AMOXICILINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073002",
+  "SbIn": 10,
+  "Nombre": "AMOXICILINA 875 MG + ACIDO CLAVULANICO 125 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073002",
+  "SbIn": 13,
+  "Nombre": "AMOXICILINA 80 MG\/ML + ACIDO CLAVULANICO  11,4 MG\/ML, SUSPENSION ORAL",
+  "Presentación": "FRASCO  70 ML",
+  "Cuerpo": "3a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073003",
+  "SbIn": 1,
+  "Nombre": "AMPICILINA 1 G POLVO PARA SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "3a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073003",
+  "SbIn": 2,
+  "Nombre": "AMPICILINA 500 MG POLVO PARA SOLUCIÓN INYECTABLE\n\t",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "3a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073003",
+  "SbIn": 6,
+  "Nombre": "AMPICILINA 1000 MG +SULBACTAM 500 MG POLVO PARA SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "3a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073004",
+  "SbIn": 1,
+  "Nombre": "CEFALEXINA 500 MG\/5 ML (100 MG\/ML) SUSPENSION ORAL\n\t",
+  "Presentación": "FRASCO 90 ML ",
+  "Cuerpo": "3d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073004",
+  "SbIn": 2,
+  "Nombre": "CEFALEXINA 250 MG\/5  (50 MG\/ML) ML SUSPENSION ORAL\n",
+  "Presentación": "FRASCO 90 ML ",
+  "Cuerpo": "4c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073004",
+  "SbIn": 3,
+  "Nombre": "CEFALEXINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073005",
+  "SbIn": 1,
+  "Nombre": "CEFALOTINA 1 G POLVO PARA SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "3d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073006",
+  "SbIn": 1,
+  "Nombre": "CEFEPIME 1 G POLVO PARA SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "3d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073009",
+  "SbIn": 2,
+  "Nombre": "CEFOTAXIMA 1 G POLVO PARA SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "4d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073010",
+  "SbIn": 1,
+  "Nombre": "CEFTAZIDIMA 1 G POLVO PARA SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "4d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073011",
+  "SbIn": 1,
+  "Nombre": "CEFTRIAXONA 1 G POLVO PARA SOLUCIÓN INYECTABLE I.V.",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "4d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073012",
+  "SbIn": 4,
+  "Nombre": "CEFUROXIMA 500 MG                                                                                                                                                                                                                                             ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073012",
+  "SbIn": 5,
+  "Nombre": "CEFUROXIMA 125 MG\/ML X 70 ML                                                                                                                                                                                                                                  ",
+  "Presentación": "SUSPENSION   ",
+  "Cuerpo": "4d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073013",
+  "SbIn": 1,
+  "Nombre": "FENOXIMETILPENICILINA 60.000 UI\/ ML SUSPENSION ORAL",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "5d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073015",
+  "SbIn": 1,
+  "Nombre": "MEROPENEM 500 MG POLVO PARA SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "11a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073015",
+  "SbIn": 2,
+  "Nombre": "MEROPENEM 1 G POLVO PARA SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "11a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073016",
+  "SbIn": 2,
+  "Nombre": "PENICILINA G BENZATINICA 2.400.000 UNIDADES (240.000 U\/ML) SUSPENSION INYECTABLE",
+  "Presentación": "VIAL X 10 ML "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073017",
+  "SbIn": 1,
+  "Nombre": "PENICILINA G SODICA 1.000.000 U.I POLVO PARA SUSPENSION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "10d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073017",
+  "SbIn": 2,
+  "Nombre": "PENICILINA G SODICA 3.000.000 U.I POLVO PARA SUSPENSION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "10d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073019",
+  "SbIn": 1,
+  "Nombre": "PIPERACILINA 4 G + TAZOBACTAN 500 MG  POLVO PARA SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031073025",
+  "SbIn": 2,
+  "Nombre": "CEFIXIMA 100 MG\/5ML (20 MG\/ML) SUSPENSION ORAL \n",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "3d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074001",
+  "SbIn": 2,
+  "Nombre": "AZITROMICINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074001",
+  "SbIn": 3,
+  "Nombre": "AZITROMICINA 200 MG\/5 ML (40 MG\/ML) SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO 15 ML ",
+  "Cuerpo": "3b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074002",
+  "SbIn": 1,
+  "Nombre": "CLARITROMICINA 500 MG  POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "3f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074002",
+  "SbIn": 3,
+  "Nombre": "CLARITROMICINA 125 MG\/ 5ML (25 MG\/ML) SUSPENSIÓN PARA ADMINISTRACIÓN ORAL",
+  "Presentación": "FRASCO 60 ML ",
+  "Cuerpo": "3f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074002",
+  "SbIn": 4,
+  "Nombre": "CLARITROMICINA  250 MG\/ ML (50 MG\/ML) SUSPENSION PARA ADMINISTRACION ORAL",
+  "Presentación": "FRASCO 60 ML ",
+  "Cuerpo": "3f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074002",
+  "SbIn": 5,
+  "Nombre": "CLARITROMICINA 500 MG ADMINISTRACIÓN ORAL \n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074003",
+  "SbIn": 4,
+  "Nombre": "ERITROMICINA 0,5% (5 MG\/G) UNGÜENTO OFTALMICO",
+  "Presentación": "UNIDOSIS     ",
+  "Cuerpo": "5c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031074003",
+  "SbIn": 5,
+  "Nombre": "ERITROMICINA 10 MG\/ML SOLUCION OFTALMICA \n",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "5c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075001",
+  "SbIn": 1,
+  "Nombre": "CIPROFLOXACINA 200 MG SOLUCIÓN INYECTABLE ",
+  "Presentación": "SACHET 100 ML",
+  "Cuerpo": "4e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075001",
+  "SbIn": 3,
+  "Nombre": "CIPROFLOXACINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075001",
+  "SbIn": 7,
+  "Nombre": "CIPROFLOXACINA 50 MG\/ML                                                                                                                                                                                                                                       ",
+  "Presentación": "SUSP         ",
+  "Cuerpo": "3f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075003",
+  "SbIn": 1,
+  "Nombre": "NITROFURANTOINA 25 MG\/ 5 ML (5 MG\/ML) SUSPENSION ORAL",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "10c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075003",
+  "SbIn": 2,
+  "Nombre": "NITROFURANTOINA 100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "10c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075007",
+  "SbIn": 1,
+  "Nombre": "LEVOFLOXACINA 500 MG (25 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 20 ML ",
+  "Cuerpo": "8e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075007",
+  "SbIn": 2,
+  "Nombre": "LEVOFLOXACINA 750 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "8e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031075009",
+  "SbIn": 2,
+  "Nombre": "GATIFLOXACINA 3 MG\/ML, SOLUCION OFTALMICA",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "5f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076001",
+  "SbIn": 1,
+  "Nombre": "ISONIAZIDA 100 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076001",
+  "SbIn": 2,
+  "Nombre": "ISONIAZIDA 300 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076003",
+  "SbIn": 1,
+  "Nombre": "RIFAMPICINA 300 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "CÁPSULA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076003",
+  "SbIn": 2,
+  "Nombre": "RIFAMPICINA 100 MG\/5ML (20MG\/ ML) SUSPENSION ORAL",
+  "Presentación": "FRASCO       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076004",
+  "SbIn": 1,
+  "Nombre": "RIFAMPICINA 300 MG + ISONIAZIDA 150 MG  ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076004",
+  "SbIn": 3,
+  "Nombre": "RIFAMPICINA 150 MG + ISONIAZIDA 75 MG + PIRAZINAMIDA 400 MG + ETAMBUTOL  275 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076004",
+  "SbIn": 4,
+  "Nombre": "RIFAMPICINA 75 MG + ISONIAZIDA 50 MG",
+  "Presentación": "COMPR.DISPERS"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076004",
+  "SbIn": 5,
+  "Nombre": "RIFAMPICINA 75 MG + ISONIAZIDA 50 MG + PIRAZINAMIDA 150 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076005",
+  "SbIn": 1,
+  "Nombre": "ETAMBUTOL 400 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031076006",
+  "SbIn": 2,
+  "Nombre": "TALIDOMIDA 100 MG ",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077001",
+  "SbIn": 1,
+  "Nombre": "CLINDAMICINA 300 MG  ADMINISTRACIÓN ORAL\n\t",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "4f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077001",
+  "SbIn": 2,
+  "Nombre": "CLINDAMICINA 600 MG ( 150 MG\/ML )  SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 4 ML  ",
+  "Cuerpo": "4f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077001",
+  "SbIn": 4,
+  "Nombre": "CLINDAMICINA SUSPENSION PEDIATRICA                                                                                                                                                                                                                            ",
+  "Presentación": "SUSPENSION   ",
+  "Cuerpo": "4f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077001",
+  "SbIn": 9,
+  "Nombre": "CLINDAMICINA 1% + PEROXIDO DE BENZOILO 5% GEL DERMICO                                                                                                                                                                                                         ",
+  "Presentación": "30 GRS       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077002",
+  "SbIn": 1,
+  "Nombre": "DOXICICLINA 100 MG ADMINISTRACIÓN ORAL \n\t",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077004",
+  "SbIn": 1,
+  "Nombre": "METRONIDAZOL 500MG ADMINISTRACIÓN ORAL \n",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077004",
+  "SbIn": 3,
+  "Nombre": "METRONIDAZOL 125 MG\/5ML (25 MG\/ML) SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "10b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077004",
+  "SbIn": 4,
+  "Nombre": "METRONIDAZOL 500 MG  (5 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "BOLSA 100 ML ",
+  "Cuerpo": "10b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077006",
+  "SbIn": 3,
+  "Nombre": "MUPIROCINA 2% (20 MG\/G) CREMA  PARA APLICACION CUTANEA",
+  "Presentación": "TUBO 15 G    "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077007",
+  "SbIn": 2,
+  "Nombre": "SULFADIAZINA DE PLATA 10 MG\/G, LIDOCAÍNA 6,66 MG\/G  Y RETINOL  2480 UI\/G CREMA CUTANEA",
+  "Presentación": "POTE X 400 G "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077007",
+  "SbIn": 3,
+  "Nombre": "SULFADIAZINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077007",
+  "SbIn": 5,
+  "Nombre": "SULFADIAZINA DE PLATA 10 MG\/G CREMA CUTANEA",
+  "Presentación": "POTE X 400 G "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077008",
+  "SbIn": 1,
+  "Nombre": "TRIMETOPRIMA 80 MG + SULFAMETOXASOL 400 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077008",
+  "SbIn": 2,
+  "Nombre": "TRIMETOPRIMA 80 MG + SULFAMETOXASOL 400 MG SOLUCIÓN INYECTABLE \n\n\t",
+  "Presentación": "VIAL X 5 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077008",
+  "SbIn": 3,
+  "Nombre": "TRIMETOPRIMA CON SULFAMETOXASOL 40\/200 MG\/5 ML SUSPENSIÓN ORAL \n",
+  "Presentación": "FRASCO 60 ML "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077008",
+  "SbIn": 4,
+  "Nombre": "TRIMETOPRIMA 160 MG + SULFAMETOXASOL 800 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077009",
+  "SbIn": 1,
+  "Nombre": "TEICOPLANINA 400 MG POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077009",
+  "SbIn": 2,
+  "Nombre": "TEICOPLANINA                                                                                                                                                                                                                                                  ",
+  "Presentación": "200 MG       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077010",
+  "SbIn": 1,
+  "Nombre": "VANCOMICINA 500 MG POLVO PARA SOLUCIÓN INYECTABLE \n",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077011",
+  "SbIn": 9,
+  "Nombre": "CLORANFENICOL\/COLAGENASA POMADA                                                                                                                                                                                                                               ",
+  "Presentación": "X 50 GRAMOS  ",
+  "Cuerpo": "4f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077015",
+  "SbIn": 2,
+  "Nombre": "RIFAMICINA                                                                                                                                                                                                                                                    ",
+  "Presentación": "CREMA        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077018",
+  "SbIn": 1,
+  "Nombre": "RIFAXIMINA 200 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077020",
+  "SbIn": 2,
+  "Nombre": "COLISTIMETATO SODICO 1000000 UI, POLVO PARA SOLUCION PARA NEBULIZACION",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "4f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031077021",
+  "SbIn": 2,
+  "Nombre": "FUSIDICO ACIDO 2% CREMA CUTÁNEA\n",
+  "Presentación": "POMO X 15 G  ",
+  "Cuerpo": "5f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078001",
+  "SbIn": 1,
+  "Nombre": "ANFOTERICINA B 50 MG  POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078002",
+  "SbIn": 1,
+  "Nombre": "FLUCONAZOL 100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078002",
+  "SbIn": 2,
+  "Nombre": "FLUCONAZOL 150 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078002",
+  "SbIn": 3,
+  "Nombre": "FLUCONAZOL 200 MG (2 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 100 ML",
+  "Cuerpo": "6d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078004",
+  "SbIn": 3,
+  "Nombre": "NISTATINA 100000 UI SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO 60 ML ",
+  "Cuerpo": "9c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078006",
+  "SbIn": 1,
+  "Nombre": "CLOBETASOL 500 MCG\/G CREMA CUTÁNEA",
+  "Presentación": "POMO X 15 G  ",
+  "Cuerpo": "caja dermatologia"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078006",
+  "SbIn": 3,
+  "Nombre": "CLOBETASOL 500 MCG\/ML LOCIÓN TÓPICA",
+  "Presentación": "FRASCO 30 ML ",
+  "Cuerpo": "caja dermatologia"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078011",
+  "SbIn": 1,
+  "Nombre": "GRISEOFULVINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031078014",
+  "SbIn": 1,
+  "Nombre": "VORICONAZOL 200 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031079001",
+  "SbIn": 2,
+  "Nombre": "LINEZOLID 600 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "9a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080001",
+  "SbIn": 1,
+  "Nombre": "AZATIOPRINA 50 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080002",
+  "SbIn": 1,
+  "Nombre": "CICLOSPORINA 100 MG\/ML SOLUCIÓN ORAL ",
+  "Presentación": "FRASCO 50 ML ",
+  "Cuerpo": "4e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080002",
+  "SbIn": 3,
+  "Nombre": "CICLOSPORINA 50 MG\/ML",
+  "Presentación": "AMP.5ML      ",
+  "Cuerpo": "4e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080002",
+  "SbIn": 4,
+  "Nombre": "CICLOSPORINA 50 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "3e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080004",
+  "SbIn": 2,
+  "Nombre": "HIDROXICLOROQUINA 200 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "8a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080007",
+  "SbIn": 1,
+  "Nombre": "MICOFENOLATO DE MOFETILO 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "11b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080007",
+  "SbIn": 2,
+  "Nombre": "MICOFENOLATO DE MOFETILO  250 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "11b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080010",
+  "SbIn": 1,
+  "Nombre": "SIROLIMUS 1 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080019",
+  "SbIn": 1,
+  "Nombre": "ADALIMUMAB 40 MG\/0,8 ML (50 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "LAPICERA     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080019",
+  "SbIn": 5,
+  "Nombre": "ADALIMUMAB 20 MG\/0,2 ML (100 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "LAPICERA     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031080040",
+  "SbIn": 5,
+  "Nombre": "IVACAFTOR 150 MG\/ ELEXACAFTOR 100 MG+ TEZACAFTOR 50 MG+IVACAFTOR 75 MG",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031081001",
+  "SbIn": 1,
+  "Nombre": "CICLOFOSFAMIDA 50 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031081002",
+  "SbIn": 4,
+  "Nombre": "METOTREXATO 10 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "10b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031081002",
+  "SbIn": 7,
+  "Nombre": "METOTREXATO 7,5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "10b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031081014",
+  "SbIn": 1,
+  "Nombre": "HIDROXIUREA                                                                                                                                                                                                                                                   ",
+  "Presentación": "500 MG       ",
+  "Cuerpo": "7b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031090001",
+  "SbIn": 1,
+  "Nombre": "BIPERIDENO 2 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031090002",
+  "SbIn": 2,
+  "Nombre": "LEVODOPA CON BENSERAZIDA O CARBIDOPA 100\/25 MG                                                                                                                                                                                                                ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "8e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031090004",
+  "SbIn": 3,
+  "Nombre": "CABERGOLINA 0,5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031090012",
+  "SbIn": 2,
+  "Nombre": "AMBRISENTAN 10 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100001",
+  "SbIn": 1,
+  "Nombre": "ADRENALINA 1 MG SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 1 ML  ",
+  "Cuerpo": "1b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100002",
+  "SbIn": 2,
+  "Nombre": "ALPROSTADIL 0,5 MG \/ ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 1 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100003",
+  "SbIn": 1,
+  "Nombre": "AMIODARONA 200 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100004",
+  "SbIn": 1,
+  "Nombre": "DIGOXINA 0,25 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100009",
+  "SbIn": 1,
+  "Nombre": "FLECAINIDA 100 MG",
+  "Presentación": "CAPSULA      ",
+  "Cuerpo": "5d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100010",
+  "SbIn": 1,
+  "Nombre": "ISOPROTERENOL 1 MG (0,2 MG\/ ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "7c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100012",
+  "SbIn": 1,
+  "Nombre": "NORADRENALINA 4 MG (1 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 4 ML  ",
+  "Cuerpo": "1d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100016",
+  "SbIn": 3,
+  "Nombre": "FENILEFRINA MAS TROPICAMIDA                                                                                                                                                                                                                                   ",
+  "Presentación": "COLIRIO      ",
+  "Cuerpo": "5d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100019",
+  "SbIn": 1,
+  "Nombre": "LEVOSIMENDAN 12,5 MG\/VIAL POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "8e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100020",
+  "SbIn": 1,
+  "Nombre": "ADENOSINA 6 MG (3 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 2ML   ",
+  "Cuerpo": "2e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031100021",
+  "SbIn": 1,
+  "Nombre": "MILRINONA 1 MG\/ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "1d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101001",
+  "SbIn": 2,
+  "Nombre": "CLONIDINA 0,15 MG\/ ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101002",
+  "SbIn": 1,
+  "Nombre": "ENALAPRIL 10 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101002",
+  "SbIn": 2,
+  "Nombre": "ENALAPRIL 5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101002",
+  "SbIn": 3,
+  "Nombre": "ENALAPRIL 2,5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101002",
+  "SbIn": 9,
+  "Nombre": "ENALAPRILATO 1,25 MG\/ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "6b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101002",
+  "SbIn": 10,
+  "Nombre": "FORMULA MAGISTRAL ENALAPRIL 0.1MG\/ML                                                                                                                                                                                                                          ",
+  "Presentación": "100 ML       ",
+  "Cuerpo": "heladera 1"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101004",
+  "SbIn": 1,
+  "Nombre": "NITROPRUSIATO DE SODIO 50 MG POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "2d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031101008",
+  "SbIn": 1,
+  "Nombre": "LOSARTAN 50 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "10a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102001",
+  "SbIn": 1,
+  "Nombre": "ATENOLOL 50 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102001",
+  "SbIn": 3,
+  "Nombre": "ATENOLOL 25 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102001",
+  "SbIn": 4,
+  "Nombre": "ATENOLOL 25 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102003",
+  "SbIn": 1,
+  "Nombre": "PROPRANOLOL 40 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102003",
+  "SbIn": 2,
+  "Nombre": "PROPRANOLOL X 5 MG",
+  "Presentación": "AMPOLLA      ",
+  "Cuerpo": "2d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102003",
+  "SbIn": 3,
+  "Nombre": "PROPRANOLOL X 10 MG",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102003",
+  "SbIn": 7,
+  "Nombre": "PROPRANOLOL CLORHIDRATO 4,28 MG\/ML SOLUCION ORAL",
+  "Presentación": "X 100 ML     ",
+  "Cuerpo": "2d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102004",
+  "SbIn": 1,
+  "Nombre": "CARVEDILOL 12,5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102004",
+  "SbIn": 3,
+  "Nombre": "CARVEDILOL 6,25 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031102004",
+  "SbIn": 11,
+  "Nombre": "FORMULA MAGISTRAL CARVEDILOL 0,625 MG\/ML SUSP                                                                                                                                                                                                                 ",
+  "Presentación": "100 ML       ",
+  "Cuerpo": "heladera 1"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031103001",
+  "SbIn": 1,
+  "Nombre": "AMLODIPINA 5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031103001",
+  "SbIn": 2,
+  "Nombre": "AMLODIPINA 10 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031105005",
+  "SbIn": 2,
+  "Nombre": "SILDENAFILO 50 MG  ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031105005",
+  "SbIn": 5,
+  "Nombre": "FORMULA MAGISTRAL SILDENAFIL 2 MG\/ML (SILDENAFIL 200 MG+GLICERINA5ML+JARABE SIMPLE CSP 100 ML)                                                                                                                                                                ",
+  "Presentación": "100ML SUSP.  ",
+  "Cuerpo": "heladera 1"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031105007",
+  "SbIn": 1,
+  "Nombre": "BOSENTÁN 125 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031110002",
+  "SbIn": 4,
+  "Nombre": "DOMPERIDONA 10 MG\/ML SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO X 20ML",
+  "Cuerpo": "5b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031110003",
+  "SbIn": 2,
+  "Nombre": "METOCLOPRAMIDA 0,5 %  ( 5 MG \/ML) SOLUCIÓN ORAL",
+  "Presentación": "FRASCO 20 ML ",
+  "Cuerpo": "9b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031110003",
+  "SbIn": 3,
+  "Nombre": "METOCLOPRAMIDA 10 MG  (5 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "9b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031111001",
+  "SbIn": 2,
+  "Nombre": "HIDROXIDO DE ALUMINIO 400 MG\/ 5ML (80 MG\/ML), HIDROXIDO DE MAGNESIO 400 MG\/ 5ML (80 MG\/ML), SUSPENSIÓN ORAL",
+  "Presentación": "FRASCO 150 ML",
+  "Cuerpo": "8a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031111002",
+  "SbIn": 1,
+  "Nombre": "OMEPRAZOL 40 MG SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "10c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031111002",
+  "SbIn": 2,
+  "Nombre": "OMEPRAZOL 20 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "11c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031111002",
+  "SbIn": 7,
+  "Nombre": "OMEPRAZOL 0,2% POLVO PARA SUSPENSIÓN ORAL \n",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "11c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031111003",
+  "SbIn": 3,
+  "Nombre": "RANITIDINA 50 MG (10 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 5ML   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031111004",
+  "SbIn": 1,
+  "Nombre": "SUCRALFATO 200 MG\/ML SUSPENSION ORAL",
+  "Presentación": "FRASCO 200 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031111012",
+  "SbIn": 2,
+  "Nombre": "FAMOTIDINA 20 MG\/5ML (4 MG\/ML) SUSPENSION ORAL",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "6c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031112001",
+  "SbIn": 4,
+  "Nombre": "ONDANSETRÓN 8 MG (2 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 4 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031113001",
+  "SbIn": 1,
+  "Nombre": "LACTULOSA  65% (650 MG\/ML) SOLUCION ORAL",
+  "Presentación": "FRASCO 120 ML",
+  "Cuerpo": "7d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031113003",
+  "SbIn": 4,
+  "Nombre": "POLIETILENGLICOL (MACROGOL) 3350 3,86 G\/SOBRE, CON SULFATO DE SODIO, BICARBONATO DE SODIO, CLORURO DE SODIO Y DE POTASIO, POLVO PARA SOLUCIÓN ORAL",
+  "Presentación": "SOBRE        ",
+  "Cuerpo": "9e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031113003",
+  "SbIn": 5,
+  "Nombre": "POLIETILENGLICOL  (MACROGOL) 3350 17 G POR CADA SOBRE, DE POLVO PARA SOLUCION ORAL",
+  "Presentación": "SOBRE        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031114002",
+  "SbIn": 1,
+  "Nombre": "LOPERAMIDA 2 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "10a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031114002",
+  "SbIn": 2,
+  "Nombre": "LOPERAMIDA                                                                                                                                                                                                                                                    ",
+  "Presentación": "SUSP.ORAL    ",
+  "Cuerpo": "10a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031115001",
+  "SbIn": 1,
+  "Nombre": "ENZIMA PANCREATICA 150MG (AMILASA 8000 U + LIPASA 10000 U + PROTEASA 600 U) ADMINISTRACION ORAL",
+  "Presentación": "CAPSULA      ",
+  "Cuerpo": "5c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031115001",
+  "SbIn": 5,
+  "Nombre": "ENZIMA PANCREATICA 300MG (AMILASA 18000 U  +  LIPASA 25000 U + PROTEASA 1000 U) ADMINISTRACION ORAL",
+  "Presentación": "CAPSULA      ",
+  "Cuerpo": "6b y 5c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031115002",
+  "SbIn": 1,
+  "Nombre": "ACIDO URSODESOXICOLICO 150 MG                                                                                                                                                                                                                                 ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031115002",
+  "SbIn": 2,
+  "Nombre": "ACIDO URSODESOXICOLICO 300 MG (URSODIOL) ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031115006",
+  "SbIn": 1,
+  "Nombre": "OCTREOTIDA 0,1 MG\/ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 1 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031115009",
+  "SbIn": 1,
+  "Nombre": "DESOXIRRIBONUCLEASA AMPOLLAS                                                                                                                                                                                                                                  ",
+  "Presentación": "X 2,5 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120001",
+  "SbIn": 1,
+  "Nombre": "AMINOFILINA 240 MG (24 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 10 ML ",
+  "Cuerpo": "2f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120003",
+  "SbIn": 1,
+  "Nombre": "BUDESONIDA 1 MG\/ML, SOLUCIÓN PARA NEBULIZACIÓN",
+  "Presentación": "FRASCO 20 ML ",
+  "Cuerpo": "3c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120007",
+  "SbIn": 1,
+  "Nombre": "SALBUTAMOL 100 MCG\/ DISPARO  SUSPENSIÓN PRESURIZADA PARA INHALACIÓN",
+  "Presentación": "AEROSOL      ",
+  "Cuerpo": "9f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120007",
+  "SbIn": 7,
+  "Nombre": "SALBUTAMOL+IPATROPIO SOLUCION P\/ NEBULIZAR                                                                                                                                                                                                                    ",
+  "Presentación": "ENVASE       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120011",
+  "SbIn": 1,
+  "Nombre": "FLUTICASONA 250 MCG\/ DISPARO SUSPENSIÓN PRESURIZADA PARA INHALACIÓN",
+  "Presentación": "AEROSOL      ",
+  "Cuerpo": "5e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120011",
+  "SbIn": 2,
+  "Nombre": "FLUTICASONA 125 MCG \/ DISPARO SUSPENSIÓN PRESURIZADA PARA INHALACIÓN",
+  "Presentación": "AEROSOL      ",
+  "Cuerpo": "5e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120012",
+  "SbIn": 5,
+  "Nombre": "SALMETEROL 25 MCG + FLUTICASONA 125 MCG\/ DISPARO SUSPENSIÓN PRESURIZADA PARA INHALACIÓN",
+  "Presentación": "AEROSOL      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120012",
+  "SbIn": 7,
+  "Nombre": "SALMETEROL 25 MCG + FLUTICASONA 250 MCG\/ DISPARO SUSPENSIÓN PRESURIZADA PARA INHALACIÓN",
+  "Presentación": "AEROSOL      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120014",
+  "SbIn": 9,
+  "Nombre": "FORMOTEROL 4,5 MCG + BUDESONIDA 160  MCG \/ DISPARO SUSPENSIÓN PRESURIZADA PARA INHALACIÓN",
+  "Presentación": "AEROSOL      ",
+  "Cuerpo": "6e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120015",
+  "SbIn": 2,
+  "Nombre": "MONTELUKAST 5 MG ADMINISTRACION ORAL \n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "11b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031120016",
+  "SbIn": 2,
+  "Nombre": "FORMULA MAGISTRAL CAFEINA 1%                                                                                                                                                                                                                                  ",
+  "Presentación": "GOTAS        ",
+  "Cuerpo": "heladera 1"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031121001",
+  "SbIn": 5,
+  "Nombre": "SURFACTANTE PULMONAR BOVINO 200 MG (25 MG\/ML), SUSPENSION PARA INSTILACION INTRATRAQUEAL",
+  "Presentación": "VIAL X 8 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130001",
+  "SbIn": 1,
+  "Nombre": "B-METIL PREDNISONA 8 MG ADMINISTRACIÓN ORAL \n\t",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130001",
+  "SbIn": 2,
+  "Nombre": "B-METIL PREDNISONA 40 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "3c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130001",
+  "SbIn": 3,
+  "Nombre": "MEPREDNISONA 4 MG\/ML SOLUCIÓN ORAL",
+  "Presentación": "FRASCO 15 ML ",
+  "Cuerpo": "4b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130001",
+  "SbIn": 4,
+  "Nombre": "B-METIL PREDNISONA                                                                                                                                                                                                                                            ",
+  "Presentación": "4 MG         ",
+  "Cuerpo": "4b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130002",
+  "SbIn": 1,
+  "Nombre": "FOSFATO DE DEXAMETASONA 8 MG (4 MG\/ML) SOLUCIÓN INYECTABLE.",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "6e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130002",
+  "SbIn": 3,
+  "Nombre": "DEXAMETASONA                                                                                                                                                                                                                                                  ",
+  "Presentación": "X 0,5 MG     ",
+  "Cuerpo": "6a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130002",
+  "SbIn": 4,
+  "Nombre": "DEXAMETASONA 0,1 % (1 MG\/ML) GOTAS OFTALMICAS",
+  "Presentación": "FRASCO       ",
+  "Cuerpo": "6a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130002",
+  "SbIn": 6,
+  "Nombre": "DEXAMETASONA 8 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130003",
+  "SbIn": 1,
+  "Nombre": "HIDROCORTISONA 100 MG POLVO PARA SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "7a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130003",
+  "SbIn": 2,
+  "Nombre": "HIDROCORTISONA 500 MG POLVO PARA SOLUCIÓN INYECTABLE ",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "8a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130003",
+  "SbIn": 6,
+  "Nombre": "HIDROCORTISONA 10 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "8a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130003",
+  "SbIn": 8,
+  "Nombre": "FORMULA MAGISTRAL HIDROCORTISONA 1%                                                                                                                                                                                                                           ",
+  "Presentación": "40GR POMADA  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130004",
+  "SbIn": 1,
+  "Nombre": "METIL PREDNISOLONA 500MG POLVO PARA SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130005",
+  "SbIn": 10,
+  "Nombre": "BETAMETASONA DIPROPIONATO + SALICILICO ACIDO UNGÜENTO                                                                                                                                                                                                         ",
+  "Presentación": "30 GRS       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130006",
+  "SbIn": 1,
+  "Nombre": "MOMETASONA 1 MG\/G CREMA  PARA APLICACIÓN CUTÁNEA",
+  "Presentación": "TUBO 15 G    ",
+  "Cuerpo": "caja dermatologia"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130008",
+  "SbIn": 4,
+  "Nombre": "TRIAMCINOLONA 40 MG\/ML SUSPENSION INYECTABLE\n",
+  "Presentación": "VIAL X 1 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130008",
+  "SbIn": 5,
+  "Nombre": "TRIAMCINOLONA 6 MG \/ML",
+  "Presentación": "AMPOLLA 1 ML "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130009",
+  "SbIn": 2,
+  "Nombre": "PREDNISOLONA + FENILEFRINA                                                                                                                                                                                                                                    ",
+  "Presentación": "COLIRIO      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130010",
+  "SbIn": 2,
+  "Nombre": "DEFLAZACORT 30 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031130015",
+  "SbIn": 1,
+  "Nombre": "FLUDROCORTISONA 0.1 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031131001",
+  "SbIn": 1,
+  "Nombre": "DESMOPRESINA 0,1 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "5a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031131001",
+  "SbIn": 8,
+  "Nombre": "DESMOPRESINA 120MCG                                                                                                                                                                                                                                           ",
+  "Presentación": "COMPR. SL    ",
+  "Cuerpo": "5a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031131005",
+  "SbIn": 8,
+  "Nombre": "SOMATOTROPINA RECOMB.HUM. 12 ML\/1,5 ML                                                                                                                                                                                                                        ",
+  "Presentación": "CARTUCHO     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031131005",
+  "SbIn": 9,
+  "Nombre": "SOMATOTROPINA RECOMB.HUM.20 MG (60UI)                                                                                                                                                                                                                         ",
+  "Presentación": "CARTUCHO     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031131007",
+  "SbIn": 1,
+  "Nombre": "VASOPRESINA 20 UI\/ ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 1 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031131010",
+  "SbIn": 1,
+  "Nombre": "GONADORELINA ACETATO 100 MCG\/ML INYECTABLE                                                                                                                                                                                                                    ",
+  "Presentación": "AMPOLLA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031132001",
+  "SbIn": 1,
+  "Nombre": "LEVOTIROXINA 100 MCG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7f y 8f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031132001",
+  "SbIn": 2,
+  "Nombre": "LEVOTIROXINA 50 MCG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7f y 8f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031132001",
+  "SbIn": 5,
+  "Nombre": "LEVOTIROXINA 25 MCG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031132001",
+  "SbIn": 6,
+  "Nombre": "LEVOTIROXINA 75 MCG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "8f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031132002",
+  "SbIn": 1,
+  "Nombre": "METIMAZOL (TIAMAZOL) 5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "9b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031132002",
+  "SbIn": 2,
+  "Nombre": "METIMAZOL (TIAMAZOL) 20 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "9b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133001",
+  "SbIn": 3,
+  "Nombre": "ETINILESTRADIOL CON ASOCIACIONES 10MCG",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133003",
+  "SbIn": 2,
+  "Nombre": "DESOGESTREL 75 MICROGRAMOS ADMINISTRACION ORAL",
+  "Presentación": "BLISTER      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133004",
+  "SbIn": 3,
+  "Nombre": "NORETISTERONA 10 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133006",
+  "SbIn": 1,
+  "Nombre": "LEVONORGESTREL 1,5 MG ADMINISTRACION ORAL (EMERGENCIA)",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133006",
+  "SbIn": 6,
+  "Nombre": "LEVONORGESTREL 75 MG\/VARILLA IMPLANTABLE P\/USO SUBDERMICO",
+  "Presentación": "X 2 VARILLAS "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133009",
+  "SbIn": 5,
+  "Nombre": "ESTRADIOL5 MG + NORETISTERONA 50 MG SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 1 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133009",
+  "SbIn": 6,
+  "Nombre": "ESTRADIOL 2 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133009",
+  "SbIn": 10,
+  "Nombre": "ESTRADIOL+MEDROXIPROGESTERONA 5\/25 MG                                                                                                                                                                                                                         ",
+  "Presentación": "AMPOLLA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133012",
+  "SbIn": 2,
+  "Nombre": "MEDROXIPROGESTERONA ACETATO 150 MG\/ML, SUSPENSION INYECTABLE DE LIBERACION PROLONGADA",
+  "Presentación": "VIAL X 1 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133017",
+  "SbIn": 1,
+  "Nombre": "ETONOGESTREL 68 MG IMPLANTABLE P\/USO SUBDERMICO 4 CM X 2 MM CON  APLICADOR",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133018",
+  "SbIn": 2,
+  "Nombre": "LEUPROLIDA 7,5 MG.                                                                                                                                                                                                                                            ",
+  "Presentación": "FCO AMPOLLA  ",
+  "Cuerpo": "8d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031133025",
+  "SbIn": 1,
+  "Nombre": "TRIPTORELINA 11,25 MG  POLVO PARA SUSPENSIÓN INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031134005",
+  "SbIn": 1,
+  "Nombre": "GLUCAGON 1 MG POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031134006",
+  "SbIn": 1,
+  "Nombre": "INSULINA ASPARTICA ULTRARAPIDA 100 UI\/ML                                                                                                                                                                                                                      ",
+  "Presentación": "CARTUCHO     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031134006",
+  "SbIn": 2,
+  "Nombre": "INSULINA ASPARTICA 100 U\/ML SOLUCIÓN INYECTABLE",
+  "Presentación": "LAPICERA 3 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031134007",
+  "SbIn": 1,
+  "Nombre": "INSULINA DETEMIR 100 U\/ML, SOLUCIÓN INYECTABLE",
+  "Presentación": "LAPICERA 3ML "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031134007",
+  "SbIn": 3,
+  "Nombre": "INSULINA GLARGINA 100 U\/ML  SOLUCIÓN INYECTABLE",
+  "Presentación": "LAPICERA 3 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031134009",
+  "SbIn": 2,
+  "Nombre": "INSULINA DEGLUDEC 200 UI\/ML JERINGA  PRELLENA",
+  "Presentación": "X 3 ML       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031140004",
+  "SbIn": 1,
+  "Nombre": "PIRIDOSTIGMINA 60 MG ADMINISTRACIÓN ORAL \n",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031140006",
+  "SbIn": 1,
+  "Nombre": "BACLOFENO 10 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031140006",
+  "SbIn": 3,
+  "Nombre": "BACLOFENO 10 MG (2 MG\/ML) SOLUCION INYECTABLE INTRATECAL",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "4b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031140007",
+  "SbIn": 1,
+  "Nombre": "TIZANIDINA 2 MG ADMINISTRACION ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031140007",
+  "SbIn": 2,
+  "Nombre": "TIZANIDINA 4 MG                                                                                                                                                                                                                                               ",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031140011",
+  "SbIn": 2,
+  "Nombre": "VECURONIO BROMURO 10 MG POLVO PARA SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL         ",
+  "Cuerpo": "2d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031150001",
+  "SbIn": 1,
+  "Nombre": "GAMMAGLOBULINA ANTITETANICA 500 UI + TOXOIDE 75 UI  SUSPENSION INYECTABLE \n\n",
+  "Presentación": "VIAL 1 + 1   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031150012",
+  "SbIn": 1,
+  "Nombre": "ONABOTULINUMTOXINA A (TOX.BOTULINICA T\/A X 900 KDA)  100 UNIDADES  POLVO PARA SOLUCION INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031150012",
+  "SbIn": 2,
+  "Nombre": "ONABOTULINUMTOXIN A (TOX.BOTULINICA T\/A X 900 KDA)                                                                                                                                                                                                            ",
+  "Presentación": "VIALX200U    "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031160001",
+  "SbIn": 1,
+  "Nombre": "ACETAZOLAMIDA 250 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031160004",
+  "SbIn": 1,
+  "Nombre": "TIMOLOL 5 MG\/ML GOTAS OFTÁLMICAS",
+  "Presentación": "FRASCO X 5 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031160004",
+  "SbIn": 5,
+  "Nombre": "TIMOLOL 0,5%  HIDROGEL (USO DERMATOLOGICO)",
+  "Presentación": "SOL VISCOSA  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031160006",
+  "SbIn": 1,
+  "Nombre": "HIDROXIPROPILMETILCELULOSA (HIPROMELOSA 3 MG\/ML) GOTA OFTALMICA",
+  "Presentación": "FRASCO 10 ML ",
+  "Cuerpo": "7b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031160011",
+  "SbIn": 1,
+  "Nombre": "PILOCARPINA 2%                                                                                                                                                                                                                                                ",
+  "Presentación": "COLIRIO      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190002",
+  "SbIn": 1,
+  "Nombre": "ESPIRONOLACTONA 100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190002",
+  "SbIn": 2,
+  "Nombre": "ESPIRONOLACTONA 25 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190002",
+  "SbIn": 5,
+  "Nombre": "FORMULA MAGISTRAL ESPIRONOLACTONA 2 MG\/ML                                                                                                                                                                                                                     ",
+  "Presentación": "100 ML       ",
+  "Cuerpo": "heladera 1"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190003",
+  "SbIn": 3,
+  "Nombre": "FUROSEMIDA 40 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190003",
+  "SbIn": 5,
+  "Nombre": "FUROSEMIDA 20 MG (10 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 2 ML  ",
+  "Cuerpo": "6e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190003",
+  "SbIn": 8,
+  "Nombre": "FORMULA MAGISTRAL FUROSEMIDA 2 MG\/ML                                                                                                                                                                                                                          ",
+  "Presentación": "50 ML SUSP.  ",
+  "Cuerpo": "heladera 1"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190005",
+  "SbIn": 1,
+  "Nombre": "HIDROCLOROTIAZIDA 50 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190005",
+  "SbIn": 3,
+  "Nombre": "HIDROCLOROTIAZIDA 25 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031190005",
+  "SbIn": 4,
+  "Nombre": "HIDROCLOROTIAZIDA                                                                                                                                                                                                                                             ",
+  "Presentación": "X 12.5 MG    ",
+  "Cuerpo": "7a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031191005",
+  "SbIn": 1,
+  "Nombre": "OXIBUTININA 10 MG\/10 ML  1 (MG\/ML) SOLUCION ORAL",
+  "Presentación": "FRASCO 200 ML",
+  "Cuerpo": "9d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031191005",
+  "SbIn": 2,
+  "Nombre": "OXIBUTININA CLORHIDRATO 5 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "9d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031200001",
+  "SbIn": 1,
+  "Nombre": "ACENOCUMAROL 4 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031200001",
+  "SbIn": 2,
+  "Nombre": "ACENOCUMAROL 1MG",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031200002",
+  "SbIn": 1,
+  "Nombre": "HEPARINA SÓDICA 5000 UI\/ML SOLUCIÓN INYECTABLE\n",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "1d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031200003",
+  "SbIn": 1,
+  "Nombre": "HEPARINA DE BAJO PESO MOLECULAR 20 UI ( ENOXAPARINA 20MG\/0.2ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "JERINGA 0.2ML",
+  "Cuerpo": "2c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031200003",
+  "SbIn": 2,
+  "Nombre": "HEPARINA DE BAJO PESO MOLECULAR 40 UI ( ENOXAPARINA 40 MG\/0.4ML) SOLUCIÓN INYECTABLE\n",
+  "Presentación": "JERINGA 0.4ML",
+  "Cuerpo": "2c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031200003",
+  "SbIn": 3,
+  "Nombre": "HEPARINA DE BAJO PESO MOLECULAR 60 UI ( ENOXAPARINA 60 MG\/0,6 ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "JERINGA 0.6ML",
+  "Cuerpo": "1d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031201010",
+  "SbIn": 1,
+  "Nombre": "TRANEXAMICO ACIDO  500 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031201010",
+  "SbIn": 2,
+  "Nombre": "TRANEXAMICO ACIDO 500 MG (100 MG\/ML) SOLUCIÓN INYECTABLE, VIAL DE 5 ML",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031201011",
+  "SbIn": 1,
+  "Nombre": "ELTROMBOPAG 25 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "6b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202001",
+  "SbIn": 2,
+  "Nombre": "ACIDO FOLICO 5 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "2e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202001",
+  "SbIn": 4,
+  "Nombre": "ACIDO FOLICO 5 MG\/ML SOLUCIÓN PARA ADMINISTRACIÓN ORAL\n",
+  "Presentación": "FRASCO 10 ML ",
+  "Cuerpo": "2e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202002",
+  "SbIn": 1,
+  "Nombre": "ERITROPOYETINA (EPOETINA ALFA) 2000 UNIDADES\/ ML  SOLUCION INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202002",
+  "SbIn": 2,
+  "Nombre": "ERITROPOYETINA  (EPOETINA ALFA) 4000 UNIDADES\/ ML  SOLUCION INYECTABLE",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202003",
+  "SbIn": 1,
+  "Nombre": "HIERRO SALES (80 A 100 MG HIERRO ELEMENTAL) ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "7b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202003",
+  "SbIn": 2,
+  "Nombre": "SULFATO FERROSO 12,5 % (25 MG\/ ML DE HIERRO ELEMENTAL)  SOLUCION ORAL",
+  "Presentación": "FRASCO 20 ML ",
+  "Cuerpo": "7b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202004",
+  "SbIn": 2,
+  "Nombre": "HIERRO SACARATO 100 MG (20 MG\/ML)  SOLUCIÓN INYECYABLE",
+  "Presentación": "VIAL X 5 ML  ",
+  "Cuerpo": "7b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031202005",
+  "SbIn": 5,
+  "Nombre": "SALES FERROSAS (80 A 100 MG HIERRO ELEMENTAL) Y ACIDO FOLICO (0,35 MG MINIMO) ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "9f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031203001",
+  "SbIn": 1,
+  "Nombre": "ALBUMINA HUMANA  10 G  (0,2 G\/ ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "VIAL X 50 ML "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031204002",
+  "SbIn": 1,
+  "Nombre": "FACTOR ESTIMULANTE DE COLONIA GRANULOC X 300 MG (3 MILL UI)                                                                                                                                                                                                   ",
+  "Presentación": "FCO. AMPOLLA "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031211006",
+  "SbIn": 1,
+  "Nombre": "MELATONINA 3 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "11a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031214004",
+  "SbIn": 2,
+  "Nombre": "ATOMOXETINA 25 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "4a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031214004",
+  "SbIn": 3,
+  "Nombre": "ATOMOXETINA 18 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "4a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031214004",
+  "SbIn": 4,
+  "Nombre": "ATOMOXETINA 40 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "4a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031214004",
+  "SbIn": 5,
+  "Nombre": "ATOMOXETINA 60 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "4a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031215001",
+  "SbIn": 1,
+  "Nombre": "NIMODIPINA                                                                                                                                                                                                                                                    ",
+  "Presentación": "X 30 MG      ",
+  "Cuerpo": "9c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031215001",
+  "SbIn": 2,
+  "Nombre": "NIMODIPINA 60 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "9c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220003",
+  "SbIn": 5,
+  "Nombre": "DEXTROSA 10% (GLUCOSA 100 MG\/ML)",
+  "Presentación": "X 500 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220003",
+  "SbIn": 7,
+  "Nombre": "DEXTROSA 25% (GLUCOSA 250 MG\/ML)",
+  "Presentación": "X 500 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220003",
+  "SbIn": 15,
+  "Nombre": "DEXTROSA  5% (GLUCOSA 50 MG\/ ML) ESTERIL APIROGENA,SISTEMA CERRADO, MINIMO 2 SITIOS DE INSERCION INDEPENDIENTES",
+  "Presentación": "X 500 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220004",
+  "SbIn": 5,
+  "Nombre": "RINGER LACTATO  (CLORURO DE CALCIO 0,2 MG\/ML, CLORURO DE POTASIO 0,3 MG\/ML, CLORURO DE SODIO 6 MG\/ML Y LACTATO DE SODIO 3,1 MG\/ML), SISTEMA CERRADO",
+  "Presentación": "X 500 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220005",
+  "SbIn": 1,
+  "Nombre": "SALES PARA HIDRATACIÓN ORAL ( CITRATO DE SODIO 2,9 G + CLORURO DE POTASIO 1,5 G + CLORURO DE SODIO 3,5 G + GLUCOSA ANHIDRA 20 G) POLVO PARA SOLUCIÓN ORAL",
+  "Presentación": "SOBRE        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220006",
+  "SbIn": 1,
+  "Nombre": "MANITOL 15 % (150 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "X 500 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220007",
+  "SbIn": 1,
+  "Nombre": "CLORURO DE SODIO ISOTONICO (9 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 5 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220007",
+  "SbIn": 11,
+  "Nombre": "CLORURO DE SODIO AL 7% (70 MG\/ML), SOLUCION  HIPERSALINA PARA NEBULIZACION",
+  "Presentación": "VIAL         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220007",
+  "SbIn": 16,
+  "Nombre": "SODIO CLORURO 20% (200 MG\/ML) SOLUCION INYECTABLE, SISTEMA CERRADO",
+  "Presentación": "X 100 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220007",
+  "SbIn": 20,
+  "Nombre": "CLORURO DE SODIO ISOTONICO (9 MG\/ML) SOLUCION INYECTABLE, SISTEMA CERRADO, MINIMO 2 SITIOS DE INSERCION INDEPENDIENTES",
+  "Presentación": "X 500 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220008",
+  "SbIn": 1,
+  "Nombre": "AGUA DESTILADA 1 G\/ML SOLUCION INYECTABLE\n",
+  "Presentación": "VIAL X 5 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220008",
+  "SbIn": 3,
+  "Nombre": "AGUA DESTILADA 1G\/ML SOLUCION INYECTABLE",
+  "Presentación": "X 500 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220008",
+  "SbIn": 4,
+  "Nombre": "AGUA DESTILADA 1G\/ML SOLUCION INYECTABLE",
+  "Presentación": "X 1000 ML    "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220010",
+  "SbIn": 3,
+  "Nombre": "SOLUCION P\/DIALISIS PERITONEAL AL 1,5%                                                                                                                                                                                                                        ",
+  "Presentación": "X 2 LTS      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031220010",
+  "SbIn": 4,
+  "Nombre": "SOLUCION P\/DIALISIS PERITONEAL AL 2,5%                                                                                                                                                                                                                        ",
+  "Presentación": "X 2 LTS      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221001",
+  "SbIn": 1,
+  "Nombre": "SULFATO DE MAGNESIO 25 % (250 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 5 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221001",
+  "SbIn": 3,
+  "Nombre": "FORMULA MAGISTRAL SULFATO DE MAGNESIO 5 GR                                                                                                                                                                                                                    ",
+  "Presentación": "PAPEL        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221002",
+  "SbIn": 2,
+  "Nombre": "CLORURO DE POTASIO 1 MOLAR (74,6 MG\/ML) SOLUCIÓN INYECTABLE",
+  "Presentación": "X100 ML      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221003",
+  "SbIn": 3,
+  "Nombre": "POTASIO FOSFATO 6 mEq\/ ml                                                                                                                                                                                                                                     ",
+  "Presentación": "AMPOLLA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221003",
+  "SbIn": 4,
+  "Nombre": "FORMULA MAGISTRAL BEBIDA DE FOSFATO DE POTASIO MONOBASICO                                                                                                                                                                                                     ",
+  "Presentación": "30 ML        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221005",
+  "SbIn": 2,
+  "Nombre": "SODIO BICARBONATO MOLAR (84 MG\/ ML) SOLUCION INYECTABLE",
+  "Presentación": "X 100 ML     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221005",
+  "SbIn": 6,
+  "Nombre": "FORMULA MAGISTRAL SODIO BICARBONATO 50 GR                                                                                                                                                                                                                     ",
+  "Presentación": "SOBRE        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221006",
+  "SbIn": 3,
+  "Nombre": "FORMULA MAGISTRAL SULFATO DE COBRE SOL                                                                                                                                                                                                                        ",
+  "Presentación": "25ML         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221007",
+  "SbIn": 2,
+  "Nombre": "MAGNESIO CITRATO                                                                                                                                                                                                                                              ",
+  "Presentación": "COMPRIMIDOS  ",
+  "Cuerpo": "10a"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221009",
+  "SbIn": 1,
+  "Nombre": "GLUCONATO DE POTASIO 4,68 G POLVO PARA SUSPENSIÓN ORAL ",
+  "Presentación": "SOBRE        ",
+  "Cuerpo": "6f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221009",
+  "SbIn": 2,
+  "Nombre": "GLUCONATO DE POTASIO 312 MG\/ML SOLUCIÓN ORAL",
+  "Presentación": "FRASCO 150 ML",
+  "Cuerpo": "6f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031221016",
+  "SbIn": 3,
+  "Nombre": "POTASIO CITRATO                                                                                                                                                                                                                                               ",
+  "Presentación": "SOBRE        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031230001",
+  "SbIn": 7,
+  "Nombre": "AMIDOTRIZOATO DE MEGLUMINA 660 MG\/ML Y AMIDOTRIZOATO DE SODIO 100 MG\/ML SOLUCIÓN INYECTABLE (TIPO TRIYOSON C)",
+  "Presentación": "VIAL X 50 ML ",
+  "Cuerpo": "1f"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031230003",
+  "SbIn": 3,
+  "Nombre": "ro",
+  "Presentación": "VIAL X 50 ML ",
+  "Cuerpo": "7d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031231001",
+  "SbIn": 2,
+  "Nombre": "SULFATO DE BARIO                                                                                                                                                                                                                                              ",
+  "Presentación": "POLVO ORAL   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240001",
+  "SbIn": 1,
+  "Nombre": "POLIVITAMINICOS CON MINERALES                                                                                                                                                                                                                                 ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "9e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240001",
+  "SbIn": 6,
+  "Nombre": "VITAMINA A C D (ACIDO ASCORBICO 50 MG\/0,6 ML, ERGOCALCIFEROL 25 MCG\/0,6 ML Y RETINOL 5000 UI\/0,6 ML) SOLUCION ORAL",
+  "Presentación": "FRASCO GOTERO"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240001",
+  "SbIn": 10,
+  "Nombre": "VITAMINAS+CIPROHEPTADINA                                                                                                                                                                                                                                      ",
+  "Presentación": "JARABE       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240001",
+  "SbIn": 11,
+  "Nombre": "VITAMINAS A, D, K ,E (CAPS\/COMP.\/SOBRES)",
+  "Presentación": "CAPS. COMP SO"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240002",
+  "SbIn": 2,
+  "Nombre": "VITAMINA A                                                                                                                                                                                                                                                    ",
+  "Presentación": "CREMA        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240002",
+  "SbIn": 3,
+  "Nombre": "VITAMINA A                                                                                                                                                                                                                                                    ",
+  "Presentación": "EMULSION     "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240003",
+  "SbIn": 6,
+  "Nombre": "COMPLEJO VIT.B+NICOTINAMIDA 10 MG+AC.FÓLICO 15 MG(TIPO ANEMIDOX)                                                                                                                                                                                              ",
+  "Presentación": "AMPOLLA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240007",
+  "SbIn": 1,
+  "Nombre": "VITAMINA D2 (ERGOCALCIFEROL) 250 MCG\/ML SOLUCIÓN ORAL \n",
+  "Presentación": "FARSCO 10 ML "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240007",
+  "SbIn": 3,
+  "Nombre": "VITAMINA D3 (CALCITRIOL) 0,25 MCG ADMINISTRACIÓN ORAL \n",
+  "Presentación": "CÁPSULA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240007",
+  "SbIn": 6,
+  "Nombre": "VITAMINA D3 100.000 UI (2,5 MG) ",
+  "Presentación": "AMP. BEBIBLE "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240007",
+  "SbIn": 7,
+  "Nombre": "VITAMINA D3 100000 UI (2,5 MG)",
+  "Presentación": "CAPS.\/COMP.  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240008",
+  "SbIn": 1,
+  "Nombre": "VITAMINA K (FITOMENADIONA) 1 MG (2 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 0,5 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240008",
+  "SbIn": 2,
+  "Nombre": "VITAMINA K (FITOMENADIONA) 10 MG\/ ML SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 1 ML  "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240008",
+  "SbIn": 3,
+  "Nombre": "VITAMINA K 10 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240009",
+  "SbIn": 1,
+  "Nombre": "VITAMINA E 400 MG ADMINISTRACIÓN ORAL\n",
+  "Presentación": "CÁPSULA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240009",
+  "SbIn": 4,
+  "Nombre": "VITAMINA E 200 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "CÁPSULA      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240010",
+  "SbIn": 1,
+  "Nombre": "VITAMINA B6 ( PIRIDOXINA )100 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031240012",
+  "SbIn": 1,
+  "Nombre": "BIOTINA 5 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031241002",
+  "SbIn": 1,
+  "Nombre": "CALCIO, GLUCONATO 1 G (100 MG\/ML) SOLUCION INYECTABLE",
+  "Presentación": "VIAL X 10 ML "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031241003",
+  "SbIn": 3,
+  "Nombre": "FORMULA MAGISTRAL SULFATO DE ZINC SOL                                                                                                                                                                                                                         ",
+  "Presentación": "25ML         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031241004",
+  "SbIn": 6,
+  "Nombre": "CALCIO+VIT.D3 (1500MG\/200UI)                                                                                                                                                                                                                                  ",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "4c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031241004",
+  "SbIn": 8,
+  "Nombre": "CALCIO POLIESTIREN SULFONATO",
+  "Presentación": "POLVO X 400GR"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031241004",
+  "SbIn": 12,
+  "Nombre": "FORMULA MAGISTRAL CARBONATO DE CALCIO 50 GR                                                                                                                                                                                                                   ",
+  "Presentación": "SOBRE        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031241004",
+  "SbIn": 13,
+  "Nombre": "CALCIO CARBONATO 1.25 G COMP                                                                                                                                                                                                                                  ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "4c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031241004",
+  "SbIn": 17,
+  "Nombre": "FORMULA MAGISTRAL CALCIO POLIESTIREN SULFONATO POLVO                                                                                                                                                                                                          ",
+  "Presentación": "5 GRS.       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031242003",
+  "SbIn": 4,
+  "Nombre": "PAMIDRONATO DISODICO X 30 MG                                                                                                                                                                                                                                  ",
+  "Presentación": "FCO. AMPOLLA ",
+  "Cuerpo": "9d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031250001",
+  "SbIn": 1,
+  "Nombre": "ISOTRETINOÍNA 20 MG ADMINISTRACIÓN ORAL ",
+  "Presentación": "CÁPSULA      ",
+  "Cuerpo": "7c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031250006",
+  "SbIn": 1,
+  "Nombre": "PANTALLA SOLAR (METOXICINAMATO DE OCTILO Y ASOCIADOS)                                                                                                                                                                                                         ",
+  "Presentación": "ENVASE       ",
+  "Cuerpo": "caja dermatologia"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031250008",
+  "SbIn": 2,
+  "Nombre": "FORMULA MAGISTRAL PASTA LASSAR                                                                                                                                                                                                                                ",
+  "Presentación": "40GR         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031250008",
+  "SbIn": 3,
+  "Nombre": "FORMULA MAGISTRAL PASTA LASSAR C\/ECONAZOL                                                                                                                                                                                                                     ",
+  "Presentación": "40GR         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031250025",
+  "SbIn": 3,
+  "Nombre": "ADAPALENO 0,1% + PEROXIDO DE BENZOILO 2,5%                                                                                                                                                                                                                    ",
+  "Presentación": "CREMA 40GRS  ",
+  "Cuerpo": "caja dermatologia"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031250025",
+  "SbIn": 4,
+  "Nombre": "ADAPALENO 0,1% ",
+  "Presentación": "GEL X 30 G   ",
+  "Cuerpo": "caja dermatologia"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031260007",
+  "SbIn": 1,
+  "Nombre": "NITROFURAZONA 2 MG\/ G UNGÜENTO CUTANEO EN APOSITO EMBEBIDO",
+  "Presentación": "APOSITO      ",
+  "Cuerpo": "10c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031280004",
+  "SbIn": 1,
+  "Nombre": "METFORMINA 500 MG ADMINISTRACIÓN ORAL",
+  "Presentación": "COMPRIMIDO   ",
+  "Cuerpo": "1d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031280022",
+  "SbIn": 1,
+  "Nombre": "LIRAGLUTIDA 6 MG\/1 ML, SOLUCIÓN INYECTABLE",
+  "Presentación": "LAPICERA 3 ML"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031281001",
+  "SbIn": 3,
+  "Nombre": "TIRA P\/AUTODETERMIN.DE GLUCOSA EN SANGRE                                                                                                                                                                                                                      ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031281002",
+  "SbIn": 3,
+  "Nombre": "TIRA P\/DETERMIN.DE GLUCOSA\/CETONA\/BILIRRUBINA\/PROTEINAS EN ORINA                                                                                                                                                                                              ",
+  "Presentación": "ENV X 100 UNI"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031281003",
+  "SbIn": 2,
+  "Nombre": "TIRA P\/DETERM.DE CPOS. CETONICOS EN SANGRE X SENSOR                                                                                                                                                                                                           ",
+  "Presentación": "X 10 UNIDADES"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031290001",
+  "SbIn": 8,
+  "Nombre": "FORMULA MAGISTRAL ACIDO SALICILICO 10% POMADA                                                                                                                                                                                                                 ",
+  "Presentación": "ENVASE       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031290016",
+  "SbIn": 7,
+  "Nombre": "FÓRMULA MAGISTRAL LACTATO DE CALCIO 50 GRAMOS",
+  "Presentación": "SOBRE        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031290025",
+  "SbIn": 14,
+  "Nombre": "FORMULA MAGISTRAL VASELINA LIQUIDA                                                                                                                                                                                                                            ",
+  "Presentación": "100ML        "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031290025",
+  "SbIn": 16,
+  "Nombre": "FORMULA MAGISTRAL VASELINA SOLIDA                                                                                                                                                                                                                             ",
+  "Presentación": "40 GRS       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031290027",
+  "SbIn": 1,
+  "Nombre": "ALCOHOL ETILICO PURO 96º                                                                                                                                                                                                                                      ",
+  "Presentación": "X LT         "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031290027",
+  "SbIn": 4,
+  "Nombre": "ALCOHOL ETILICO 70º                                                                                                                                                                                                                                           ",
+  "Presentación": "X 1000 ML    "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "031300004",
+  "SbIn": 8,
+  "Nombre": "OXIGENO MEDICINAL GASEOSO TUBO DE TRASLADO P\/INCUBADORA                                                                                                                                                                                                       ",
+  "Presentación": "X MT 3       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032010001",
+  "SbIn": 3,
+  "Nombre": "BARBIJO DESC TRIPLE CAPA HEMOREP MIN 40 GR CON SUJETADOR DE NARIZ                                                                                                                                                                                             ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032010001",
+  "SbIn": 5,
+  "Nombre": "BARBIJO  FILTRADO TIPO N 95 1870                                                                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032010003",
+  "SbIn": 1,
+  "Nombre": "ANTEOJO DE POLICARBONATO TRANSPARENTE CON BARRERAS LATERALES                                                                                                                                                                                                  ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032010011",
+  "SbIn": 1,
+  "Nombre": "GUANTE LATEX CHICO DESCARTABLE                                                                                                                                                                                                                                ",
+  "Presentación": "CAJA X 100   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032010011",
+  "SbIn": 2,
+  "Nombre": "GUANTE LATEX MEDIANO DESCARTABLE                                                                                                                                                                                                                              ",
+  "Presentación": "CAJA X 100   "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070002",
+  "SbIn": 38,
+  "Nombre": "AGUJA P\/LAPICERA DE INSULINA G31 Y 6MM DE LARGO                                                                                                                                                                                                               ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070002",
+  "SbIn": 44,
+  "Nombre": "AGUJA P\/LAPICERA DE INSULINA 32G Y 4MM DE LARGO",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070006",
+  "SbIn": 2,
+  "Nombre": "GUIA ESTERIL MICROGOTERO C\/CAMARA GRAD.100 ML S\/A                                                                                                                                                                                                             ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070006",
+  "SbIn": 4,
+  "Nombre": "GUIA ESTERIL MACROGOTERO S\/FILTRO Y S\/AGUJA                                                                                                                                                                                                                   ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070006",
+  "SbIn": 14,
+  "Nombre": "GUIA INFUSION ESTERIL FOTOPROTECTORA P\/BOMBA DESCARTABLE                                                                                                                                                                                                      ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070006",
+  "SbIn": 20,
+  "Nombre": "GUIA INFUSION MICROGOTERO P\/BOMBA 1642 ESTERIL                                                                                                                                                                                                                ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 2,
+  "Nombre": "JERINGA   1 CC.TUBERCULINA S\/AGUJA. GRADUADA AL DECIMO.DESC.EST.                                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 3,
+  "Nombre": "JERINGA 2.5 \/3 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                           ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 4,
+  "Nombre": "JERINGA   5 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 5,
+  "Nombre": "JERINGA  10 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 10,
+  "Nombre": "JERINGA  20 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 12,
+  "Nombre": "JERINGA  60 CC.S\/AGUJA DESC.EST.                                                                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 54,
+  "Nombre": "JERINGA 60 PICO CATETER DESC EST                                                                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 57,
+  "Nombre": "JERINGA 0,5 ML PARA INSULINA 100 U.I.  C\/AGUJA ULTRAFINA INCLUIDA Y SIN ESPACIO MUERTO (LARGO 6 MM CALIBRE 0,25 MM) DESC. EST.\n",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070007",
+  "SbIn": 63,
+  "Nombre": "JERINGA P\/INSULINA 0.3 CC C\/AGUJA 31G Y 6 MM DESC                                                                                                                                                                                                             ",
+  "Presentación": " UNIDAD      "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 2,
+  "Nombre": "SONDA EST.(TIPO K 31) 105 CM LONG.X 2.3 MM DIAM.EXT.                                                                                                                                                                                                          ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 3,
+  "Nombre": "SONDA EST.(TIPO K 33)  45 CM LONG.X 2 MM DIAM.EXT                                                                                                                                                                                                             ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 4,
+  "Nombre": "SONDA EST.(TIPO K 35)  45 CM LONG.X 1.4 MM DIAM.EXT.                                                                                                                                                                                                          ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 9,
+  "Nombre": "SONDA EST.(TIPO K 30) 105 CM LONG.X 2.8 MM SILICONADA ESTERIL                                                                                                                                                                                                 ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 10,
+  "Nombre": "SONDA EST.(TIPO K 31) 105 CM LONG.X 2.3 MM SILICONADA ESTERIL                                                                                                                                                                                                 ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 12,
+  "Nombre": "SONDA EST.(TIPO K 33) 45 CM LONG.X 2 MM SILICONADA DESC EST                                                                                                                                                                                                   ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 14,
+  "Nombre": "SONDA EST. (TIPO K 11) 125 CM X 6 MM SILICONA                                                                                                                                                                                                                 ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 15,
+  "Nombre": "SONDA EST. (TIPO K 35) 45 CM X 1,4 MM SILICONA                                                                                                                                                                                                                ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "17c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032070008",
+  "SbIn": 16,
+  "Nombre": "SONDA (TIPO K9) 125 CM X 4 MM SILICONA EST                                                                                                                                                                                                                    ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032090019",
+  "SbIn": 5,
+  "Nombre": "AEROCAMARA INHALATORIA C\/VALVULA C\/MASCARA NEONATAL                                                                                                                                                                                                           ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032090019",
+  "SbIn": 6,
+  "Nombre": "AEROCAMARA INHALATORIA C\/VALVULA C\/MASCARA PEDIATRICA                                                                                                                                                                                                         ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032090030",
+  "SbIn": 6,
+  "Nombre": "CONTENEDOR P\/NUTRICION ENTERAL ESTERIL                                                                                                                                                                                                                        ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032130001",
+  "SbIn": 5,
+  "Nombre": "BOLSA DE COLOS.AUTOADHE.C\/FILTRO Y DIAM. RECORTABLE PEDIATRICAS                                                                                                                                                                                               ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "17d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032130001",
+  "SbIn": 6,
+  "Nombre": "BOLSA DE COLOST.AUTOADHE. C\/FILTRO Y DIAM. RECORTABLE NEONATAL                                                                                                                                                                                                ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "17d"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032130006",
+  "SbIn": 2,
+  "Nombre": "SONDA (TIPO K 10) P\/INTUBACION GASTRICA LONG.125 CM X 5.3 MM DIAM.EXT.APROX.EST.                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032130006",
+  "SbIn": 3,
+  "Nombre": "SONDA (TIPO K 11) P\/INTUBACION GASTRICA LONG.125 CM X 6.0 MM DIAM.EXT.APROX.EST.                                                                                                                                                                              ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "17e"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032130030",
+  "SbIn": 3,
+  "Nombre": "GUIA P\/BOMBA DE ALIMENTACION TIPO KANGAROO                                                                                                                                                                                                                    ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032160003",
+  "SbIn": 1,
+  "Nombre": "PROFILACTICO MASCULINO                                                                                                                                                                                                                                        ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "16b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032160004",
+  "SbIn": 6,
+  "Nombre": "DIU - HERRADURA Cu MINI CON RAMA VERTICAL DE 30 MM O MENOS. CON    FILAMENTO DE COBRE DE 250 MM2 O MÁS Y SEGMENTOS HORIZONTALES CON ESPOLONES                                                                                                                 ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "16c"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "032160019",
+  "SbIn": 1,
+  "Nombre": "COPA MENSTRUAL",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "034010059",
+  "SbIn": 3,
+  "Nombre": "ARGININA X 250 ML FA                                                                                                                                                                                                                                          ",
+  "Presentación": "UNIDAD       "
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "034040010",
+  "SbIn": 6,
+  "Nombre": "HCG (TIPO EVA TEST)X INMUNOCROMATOGRAFIA                                                                                                                                                                                                                      ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "16b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "034100018",
+  "SbIn": 8,
+  "Nombre": "SENSOR P\/ SISTEMA FLASH DE MONITOREO CONTINUO DE GLUCOSA                                                                                                                                                                                                      ",
+  "Presentación": "UNIDAD       ",
+  "Cuerpo": "13b"
+ },
+ {
+  "Cta.Cte": 1400,
+  "Insumo": "034160026",
+  "SbIn": 5,
+  "Nombre": "LANCETA AUTOMATICA DESCARTABLE TAMBOR",
+  "Presentación": "X 6 UNIDADES ",
+  "Cuerpo": "17a"
+ }
+]
+}
