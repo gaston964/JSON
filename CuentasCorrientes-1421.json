@@ -222,6 +222,12 @@
   "Cuerpo": 25
  },
  {
+  "Insumo": "032020004",
+  "SbIn": 5,
+  "Nombre": "VENDA TIPO CAMBRIC 20CM ORILLADA                                                                                                                                                                                                                              ",
+  "Cuerpo": "PIEZA"
+ },
+ {
   "Insumo": "032020006",
   "SbIn": 2,
   "Nombre": "TELA ADHESIVA X   5 CM DE ANCHO Y 9 M DE LARGO APROX.                                                                                                                                                                                                         ",
@@ -523,6 +529,12 @@
  },
  {
   "Insumo": "032050004",
+  "SbIn": 4,
+  "Nombre": "PAPEL P\/ECG TERMOSENSIBLE 50 MM X 30 MT                                                                                                                                                                                                                       ",
+  "Cuerpo": 21
+ },
+ {
+  "Insumo": "032050004",
   "SbIn": 7,
   "Nombre": "PAPEL P\/ECG TERMOSENSIBLE 63 X 30 MM                                                                                                                                                                                                                          ",
   "Cuerpo": 21
@@ -567,6 +579,12 @@
   "Insumo": "032060002",
   "SbIn": 1,
   "Nombre": "FERULA AL.MALEABLE C\/GOMAPLUMA 1.5 CM ANCHO Y 50 CM LARGO APROX.                                                                                                                                                                                              ",
+  "Cuerpo": 26
+ },
+ {
+  "Insumo": "032060002",
+  "SbIn": 15,
+  "Nombre": "FERULAS RIGIDAS DE INMOVILIZACIÓN DE ALUMINIO MALEABLERECUBIERTAS DE POLIVINILO REUSABLES                                                                                                                                                                     ",
   "Cuerpo": 26
  },
  {
@@ -1242,6 +1260,12 @@
   "Cuerpo": 31
  },
  {
+  "Insumo": "032080032",
+  "SbIn": 1,
+  "Nombre": "CINTA PARA CIERRE DE HERIDAS 3mm x 75 mm aprox (tipo stery strip)                                                                                                                                                                                             ",
+  "Cuerpo": 9
+ },
+ {
   "Insumo": "032090001",
   "SbIn": 2,
   "Nombre": "BAJALENGUA DE MADERA NIÑO",
@@ -1407,6 +1431,12 @@
   "SbIn": 6,
   "Nombre": "CONTENEDOR P\/NUTRICION ENTERAL ESTERIL                                                                                                                                                                                                                        ",
   "Cuerpo": "Pallet 5"
+ },
+ {
+  "Insumo": "032090050",
+  "SbIn": 1,
+  "Nombre": "MARCADOR QUIRURGICO DE PIEL DESCARTABLE ESTERIL",
+  "Cuerpo": 9
  },
  {
   "Insumo": "032090031",
@@ -1908,6 +1938,12 @@
  },
  {
   "Insumo": "032120003",
+  "SbIn": 62,
+  "Nombre": "CANULA TRAQUEOSTOMIA N°7 DE SILICONA S\/BALÓN DESC. EST.",
+  "Cuerpo": 15
+ },
+ {
+  "Insumo": "032120003",
   "SbIn": 77,
   "Nombre": "CANULA DE TRAQUEOTOMIA CORTA  N° 2,5 DE SILICONA, S\/BALON,",
   "Cuerpo": 15
@@ -1963,7 +1999,13 @@
  {
   "Insumo": "032120004",
   "SbIn": 6,
-  "Nombre": "CÁNULA NASAL DE OXIGENO RAM PREMATURO-MICRO\n",
+  "Nombre": "CÁNULA NASAL DE OXIGENO RAM PREMATURO-MICRO (BLANCO)\n",
+  "Cuerpo": 3
+ },
+ {
+  "Insumo": "032120004",
+  "SbIn": 7,
+  "Nombre": "CÁNULA NASAL DE OXIGENO RAM PREMATURO (VERDE)\n",
   "Cuerpo": 3
  },
  {
@@ -2286,6 +2328,12 @@
  },
  {
   "Insumo": "032120008",
+  "SbIn": 86,
+  "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCION IZQUIERDA Nº26                                                                                                                                                                                                        ",
+  "Cuerpo": 11
+ },
+ {
+  "Insumo": "032120008",
   "SbIn": 87,
   "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCION IZQUIERDA Nº28                                                                                                                                                                                                        ",
   "Cuerpo": 11
@@ -2324,6 +2372,18 @@
   "Insumo": "032120008",
   "SbIn": 98,
   "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCIÓN IZQUIERDA Nº 37                                                                                                                                                                                                       ",
+  "Cuerpo": 11
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 114,
+  "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCIÓN DERECHA Nº 32\n",
+  "Cuerpo": 11
+ },
+ {
+  "Insumo": "032120008",
+  "SbIn": 116,
+  "Nombre": "TUBO ENDOTRAQUEAL VENTILACION SELECCIÓN DERECHA Nº 39\n",
   "Cuerpo": 11
  },
  {
@@ -2963,6 +3023,12 @@
  },
  {
   "Insumo": "032130033",
+  "SbIn": 12,
+  "Nombre": "CEPILLO PARA LIMPIEZA DE CANAL DE ENDOSCOPIO                                                                                                                                                                                                                  ",
+  "Cuerpo": 9
+ },
+ {
+  "Insumo": "032130033",
   "SbIn": 17,
   "Nombre": "AGUJA PARA INYECCIÓN ENDOSCOPICA EN MUCOSA INTESTINAL 7 FR PARA CANAL DE TRABAJO DE 2.8 MM PARA POLIPEPTOMIA                                                                                                                                                  ",
   "Cuerpo": 23
@@ -3060,6 +3126,12 @@
   "SbIn": 34,
   "Nombre": "CANULA ARTERIAL P\/CIRCULACION EXTRACORPOREA 20FR C\/CONECTOR DE 3\/8                                                                                                                                                                                            ",
   "Cuerpo": 41
+ },
+ {
+  "Insumo": "032141005",
+  "SbIn": 35,
+  "Nombre": "CANULA VENOSA C\/TIP METAL 26 FR EST.                                                                                                                                                                                                                          ",
+  "Cuerpo": 42
  },
  {
   "Insumo": "032141005",
@@ -3252,6 +3324,12 @@
  },
  {
   "Insumo": "032141005",
+  "SbIn": 89,
+  "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 2 MM TIP\n",
+  "Cuerpo": 43
+ },
+ {
+  "Insumo": "032141005",
   "SbIn": 90,
   "Nombre": "CANULA PARA ARTERIOTOMIA CON OLIVA DE 4 MM TIP\n",
   "Cuerpo": 43
@@ -3402,6 +3480,12 @@
  },
  {
   "Insumo": "032170006",
+  "SbIn": 3,
+  "Nombre": "GUIA ESTERIL ARTERIO-VENOSA P\/HEMODIAFILTACION (T\/SET ON LINE      PLUS 5008R9)                                                                                                                                                                               ",
+  "Cuerpo": "PIEZA"
+ },
+ {
+  "Insumo": "032170006",
   "SbIn": 4,
   "Nombre": "GUIA ARTERIAL PARA HEMODIALISIS PEDIATRICA C\/ FLUBARRIER DESC EST                                                                                                                                                                                             ",
   "Cuerpo": 32
@@ -3426,6 +3510,18 @@
  },
  {
   "Insumo": "032170010",
+  "SbIn": 6,
+  "Nombre": "MEMBRANA DE HELIXONE P\/HEMOD.TIPO FX50(1 M2 SUPERF CORPORAL)                                                                                                                                                                                                  ",
+  "Cuerpo": "PIEZA"
+ },
+ {
+  "Insumo": "032170010",
+  "SbIn": 8,
+  "Nombre": "MEMBRANA SEMIPERMEABLE P\/HEMODIALISIS POLISULFONA HPS F6                                                                                                                                                                                                      ",
+  "Cuerpo": "PIEZA"
+ },
+ {
+  "Insumo": "032170010",
   "SbIn": 10,
   "Nombre": "TAPA P\/SET DE TRANSFERENCIA  - MINICAP                                                                                                                                                                                                                                 ",
   "Cuerpo": 32
@@ -3441,6 +3537,30 @@
   "SbIn": 12,
   "Nombre": "FILTRO PARA DIALISIS M100 (P\/EQUIPO PRISMAFLEX)                                                                                                                                                                                                               ",
   "Cuerpo": 32
+ },
+ {
+  "Insumo": "032170010",
+  "SbIn": 17,
+  "Nombre": "BOLSA DE RECOLECCIÓN DE FLUIDOS DE DESECHO PARA HEMODIÁLISIS",
+  "Cuerpo": "PIEZA"
+ },
+ {
+  "Insumo": "032170010",
+  "SbIn": 19,
+  "Nombre": "KIT HEMOFILTRO, LINEAS Y BOLSAS DE CALENTADOR HFT05 (P\/AMPLYA)\n",
+  "Cuerpo": "PIEZA"
+ },
+ {
+  "Insumo": "032170010",
+  "SbIn": 20,
+  "Nombre": "KIT HEMOFILTRO, LINEAS Y BOLSAS DE CALENTADOR HFT08 (P\/AMPLYA)\n",
+  "Cuerpo": "PIEZA"
+ },
+ {
+  "Insumo": "032170011",
+  "SbIn": 1,
+  "Nombre": "LINEA P\/BOMBA DE PREDILUSION (P\/ AMPLYA)\n",
+  "Cuerpo": "PIEZA"
  },
  {
   "Insumo": "032180007",
