@@ -486,6 +486,12 @@
   "Cuerpo": 43
  },
  {
+  "Insumo": "032040014",
+  "SbIn": 13,
+  "Nombre": "CANULA DE ASPIRACION INTRACARDIACA NEONATAL RIGIDA C\/ANGULOS DE 30° - TIPS DE 2,5 CM, EXTREMO ASPIRACION 15 FR X 210 MM DE LARGO CON CONECTOR 1\/4.",
+  "Cuerpo": 41
+ },
+ {
   "Insumo": "032040017",
   "SbIn": 1,
   "Nombre": "TUBO FLEXIBLE 100% SILICONA 1\/4 DI                                                                                                                                                                                                                            ",
@@ -549,6 +555,12 @@
   "Insumo": "032050004",
   "SbIn": 12,
   "Nombre": "PAPEL P\/ECG TERMOQUIMICO 80MM X 20 M                                                                                                                                                                                                                          ",
+  "Cuerpo": 21
+ },
+ {
+  "Insumo": "032050004",
+  "SbIn": 18,
+  "Nombre": "PAPEL P\/ECG TERMOQUIMICO 58 MM X 25 M                                                                                                                                                                                                                         ",
   "Cuerpo": 21
  },
  {
@@ -1272,6 +1284,12 @@
   "Cuerpo": 37
  },
  {
+  "Insumo": "032090002",
+  "SbIn": 1,
+  "Nombre": "CEPILLO MADERA Y CERDAS                                                                                                                                                                                                                                       ",
+  "Cuerpo": 9
+ },
+ {
   "Insumo": "032090006",
   "SbIn": 3,
   "Nombre": "DETERGENTE-DESINFECTANTE DE SUPERFICIES P\/DILUIR                                                                                                                                                                                                              ",
@@ -1941,6 +1959,11 @@
   "SbIn": 62,
   "Nombre": "CANULA TRAQUEOSTOMIA N°7 DE SILICONA S\/BALÓN DESC. EST.",
   "Cuerpo": 15
+ },
+ {
+  "Insumo": "032120003",
+  "SbIn": 73,
+  "Nombre": "CANULA DE TRAQUEOTOMIA AJUSTABLE C\/BALON Y ASPIRACION SUBGLOTICA N° 7 (L)"
  },
  {
   "Insumo": "032120003",
